@@ -1,9 +1,0 @@
-4/2/21, 4:04 PM - Umair 20CP UET: ????
-4/2/21, 4:08 PM - Muhammad Omar Farooq: Pta nahi
-4/2/21, 4:08 PM - Muhammad Omar Farooq: A = 5, b = 0 , C = 7 kro
-4/2/21, 4:09 PM - Umair 20CP UET: Check kar lo..values send ki hain tumhaien..
-4/2/21, 4:10 PM - Umair 20CP UET: Values main nay code main hi initialize kar do thein...user say enter nahi karwai..
-4/2/21, 4:10 PM - Muhammad Omar Farooq: Acha code mein yeh values daal kr btao
-4/2/21, 4:12 PM - Muhammad Omar Farooq: Theek hain
-4/2/21, 4:12 PM - Umair 20CP UET: Ok..thanks ..bro..
-4/2/21, 4:13 PM - Umair 20CP UET: 5 samaj nahi a raha..concept..dae do..kaisey karna hai..

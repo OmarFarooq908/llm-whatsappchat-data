@@ -1,3 +1,0 @@
-10/6/23, 7:34 PM - Muhammad Omar Farooq: Hello I want this code to be in google colab and I want to apply a different dataset can you help? https://github.com/calaylin/CodeStylometry/tree/master
-10/6/23, 7:34 PM - Muhammad Omar Farooq: i want to be in one file if possible and if you can add explination comments for the method
-10/6/23, 7:34 PM - Muhammad Omar Farooq: Run code in Google colab add explanation comments use the given dataset

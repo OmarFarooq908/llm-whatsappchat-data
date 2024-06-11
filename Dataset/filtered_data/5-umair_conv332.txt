@@ -1,2 +1,0 @@
-1/16/22, 3:46 PM - Muhammad Omar Farooq: Hokey ❤️
-1/16/22, 3:48 PM - Umair 20CP UET: isko is tarha samj lo kay...== may output 1,0 ho sakti hai...aur === main output 1,0, ya koi unknown value bhi ho sakti hai...(x,z)

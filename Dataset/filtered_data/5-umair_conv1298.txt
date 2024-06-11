@@ -1,7 +1,0 @@
-8/24/23, 9:38 AM - Umair 20CP UET: upper yahi wala hai..
-8/24/23, 9:39 AM - Umair 20CP UET: Ok..
-8/24/23, 9:41 AM - Umair 20CP UET: Transfer learning I think model jab ham bana rahey hotay hain t tab us kartay hain..
-8/24/23, 9:43 AM - Muhammad Omar Farooq: Pre trained parameters chahiye woh hum khud nahi train kr skte uske liye kaafi resources chahiye hote hain. Is liye transfer learning keh rha
-8/24/23, 9:44 AM - Umair 20CP UET: Nahi to jo model use karein gae us main pre trained parameters hoon gae nahi...?
-8/24/23, 9:58 AM - Umair 20CP UET: yes..training from start ...zero say usey train karna start kartay hain...
-8/24/23, 9:59 AM - Muhammad Omar Farooq: Oks

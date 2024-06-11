@@ -1,4 +1,0 @@
-12/6/23, 4:50 PM - Muhammad Omar Farooq: Sir we have to show you our project of mcsd  because there are some issues in it and Alina Api said that we should talk to u cuz you are our group mentor
-12/6/23, 4:50 PM - Muhammad Omar Farooq: Sir hm code upload kr rhy hy to ho jata ha serial monitoring sy check krty hy to 0 value ati lkin kbhi kbhi sense krta ha ar value change ati ha.... Lkin ak code jb lgaty hy to all time beap krta ha buzzer ar dosra code lgay to beap hi ni krta
-12/6/23, 4:50 PM - Muhammad Omar Farooq: Hmara project ultrasonic glasses hy
-12/6/23, 4:50 PM - Muhammad Omar Farooq: To us me hc sr04 sensor lgaya ha

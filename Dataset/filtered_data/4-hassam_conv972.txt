@@ -1,4 +1,0 @@
-2/21/24, 1:47 AM - Hassam Malik UET BCE: Job details
-2/21/24, 1:47 AM - Hassam Malik UET BCE: I propose a custom TradingView to NT8 bridge solution, ensuring alert integration, real-time connectivity, and customizable parameters for your specific trading strategies.
-2/21/24, 1:47 AM - Hassam Malik UET BCE: What would you propose to get the fastest possible executions?
-2/21/24, 1:47 AM - Hassam Malik UET BCE: For the fastest executions, I would recommend to, optimize the TradingView to NT8 bridge with a focus on low-latency design, efficient coding, and high-performance infrastructure.

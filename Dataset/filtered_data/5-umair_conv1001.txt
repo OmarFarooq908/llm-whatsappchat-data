@@ -1,5 +1,0 @@
-1/29/23, 11:35 PM - Muhammad Omar Farooq: Even spectrum nahi hai yeh?
-1/29/23, 11:40 PM - Muhammad Omar Farooq: It is even around pi
-1/29/23, 11:41 PM - Umair 20CP UET: hmm..lag aisa hi raha hai...aur aik sample kay baad downsample bhi hua hai..
-1/29/23, 11:42 PM - Muhammad Omar Farooq: Down sample dtft mein bhi hoti hai? 😯
-1/29/23, 11:43 PM - Umair 20CP UET: hmm..nahi....phir pata nahi..

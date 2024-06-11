@@ -1,3 +1,0 @@
-6/17/23, 7:01 PM - Hamza Sardar Sr UET 20CP: Certainly! Here are the definitions for the terms you mentioned:
-6/17/23, 7:01 PM - Hamza Sardar Sr UET 20CP: hor kuj saade laik?
-6/17/23, 7:09 PM - Hamza Sardar Sr UET 20CP: DCF: DCF stands for Dispersion-Compensating Fiber. It is a type of optical fiber specifically designed to counteract the dispersion (spreading) of optical signals that occurs during transmission in long-distance fiber-optic communication systems. DCF is used to restore the signal quality and extend the transmission distance.

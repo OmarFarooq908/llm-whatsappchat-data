@@ -1,7 +1,0 @@
-7/16/21, 10:24 AM - Umair 20CP UET: Umer viva ka batana Kia pouch rahey hain..??
-7/16/21, 10:31 AM - Umair 20CP UET: ...
-7/16/21, 10:32 AM - Muhammad Omar Farooq: Project ki working puchi. String contiguous hai ya nahi?
-7/16/21, 10:40 AM - Muhammad Omar Farooq: Array or structure*
-7/16/21, 10:40 AM - Muhammad Omar Farooq: String memory mein contiguous hoti hai.
-7/16/21, 10:42 AM - Muhammad Omar Farooq: Kis trah krta hai
-7/16/21, 10:43 AM - Muhammad Omar Farooq: Iska no idea

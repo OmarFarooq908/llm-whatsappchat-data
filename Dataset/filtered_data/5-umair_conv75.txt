@@ -1,5 +1,0 @@
-3/16/21, 9:48 AM - Umair 20CP UET: Umer yeh vehicle wali example main toll Kia show kR raha hai...???
-3/16/21, 9:50 AM - Muhammad Omar Farooq: Toll wese assign kraya tha but mam ne print wese nahi kraya
-3/16/21, 9:51 AM - Umair 20CP UET: Generally yeh vehicle ka kya show kar raha hai  ..??what is toll..??
-3/16/21, 9:59 AM - Muhammad Omar Farooq: Lecture ke baad btata hoon IA
-3/16/21, 9:59 AM - Umair 20CP UET: Np..

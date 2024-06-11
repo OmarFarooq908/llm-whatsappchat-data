@@ -1,7 +1,0 @@
-2/6/24, 9:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: jani ak or chiz ti jis sy error ka pata chalta ha vo kysys find kiya ta apache type koi command ti
-2/6/24, 9:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: jis sy error ka pata chal jata ta
-2/6/24, 10:12 PM - Muhammad Omar Farooq: apache2ctl krke koi command thi
-2/6/24, 10:12 PM - Muhammad Omar Farooq: Yaad nahi. Search maarna
-2/6/24, 10:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ahu ahu
-2/6/24, 10:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Lab u
-2/6/24, 10:32 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: and bring notes with you as we need to install kali again I guess because of network issure

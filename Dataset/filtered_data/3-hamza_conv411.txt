@@ -1,9 +1,0 @@
-7/9/23, 5:25 PM - Muhammad Omar Farooq: Hamza bro Mid ke baad konsa topic tha ML mein? Or end wala topic kya tha?
-7/9/23, 5:34 PM - Hamza Sardar Sr UET 20CP: Mods k baad mostly knn , svm , neural network
-7/9/23, 5:36 PM - Muhammad Omar Farooq: shuru konse topic se?
-7/9/23, 5:36 PM - Muhammad Omar Farooq: Neural Networks?
-7/9/23, 5:37 PM - Muhammad Omar Farooq: Or end SVM se?
-7/9/23, 5:59 PM - Hamza Sardar Sr UET 20CP: 1.Linear regression with mulvariables 
-7/9/23, 6:00 PM - Hamza Sardar Sr UET 20CP: Yeh sab hain I guess
-7/9/23, 6:00 PM - Muhammad Omar Farooq: Oks ❤️
-7/9/23, 6:30 PM - Hamza Sardar Sr UET 20CP: 😂😂

@@ -1,3 +1,0 @@
-8/24/23, 8:10 AM - Umair 20CP UET: Umer I had one question kay ham dataset konsa select karein gae...generally train karnay kay liay bhi hamein koi na koi dataset chaiey ho ga..
-8/24/23, 8:30 AM - Umair 20CP UET: https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot
-8/24/23, 8:30 AM - Umair 20CP UET: Yeh wala shahid ap keh rahey ho..??

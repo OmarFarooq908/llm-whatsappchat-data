@@ -1,1 +1,0 @@
-3/13/24, 3:58 PM - Hassam Malik UET BCE: Write a Python API to extract Employees and Leaves date from Xero Phase 1: - connection to Xero - grab employee data: Last Name, First Name, ID - write the result in an csv file from an array of data

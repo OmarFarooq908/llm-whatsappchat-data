@@ -1,6 +1,0 @@
-2/3/21, 2:01 PM - Muhammad Omar Farooq: Voltage divider
-2/3/21, 2:02 PM - Muhammad Omar Farooq: Report ka koi khas format nahi
-2/3/21, 2:03 PM - Umair 20CP UET: Components kon say use Kia hain..??
-2/3/21, 2:04 PM - Muhammad Omar Farooq: Resistor
-2/3/21, 2:06 PM - Umair 20CP UET: Ok..
-2/3/21, 2:29 PM - Umair 20CP UET: But power 240mW kay equal nahi a rahi..??

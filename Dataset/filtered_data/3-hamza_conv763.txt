@@ -1,5 +1,0 @@
-4/25/24, 9:58 AM - Muhammad Omar Farooq: @13135550002 what is monitorix system monitoring
-4/25/24, 9:58 AM - Hamza Sardar Sr UET 20CP: Monitorix is a free, open-source system monitoring tool that provides a comprehensive overview of a computer's performance and resource usage. It collects and displays data on various aspects of system activity, including:
-4/25/24, 9:58 AM - Muhammad Omar Farooq: How to deploy monitorix on CentOS 7
-4/25/24, 9:59 AM - Muhammad Omar Farooq: @13135550002 How to deploy monitorix on CentOS 7
-4/25/24, 9:59 AM - Hamza Sardar Sr UET 20CP: To deploy Monitorix on CentOS 7, follow these steps:

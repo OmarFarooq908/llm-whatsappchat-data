@@ -1,2 +1,0 @@
-3/6/24, 8:10 PM - Muhammad Omar Farooq: Compute the bits number 1, 16, 33, and 48 at the output of the first round of the DES 
-3/6/24, 8:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: null

@@ -1,3 +1,0 @@
-3/25/21, 1:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include <iostream>
-3/25/21, 1:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yara ya theek kar do
-3/25/21, 1:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: marny vali hoi ha halat ganta laga diya ha is may

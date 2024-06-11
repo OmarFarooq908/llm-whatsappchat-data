@@ -1,9 +1,0 @@
-6/26/23, 6:32 PM - Muhammad Omar Farooq: Haan kuch aesa hi hai
-6/26/23, 6:32 PM - Muhammad Omar Farooq: Iski itni tension nahi hai iska project bhi bna pra hai front end bhi hai
-6/26/23, 6:33 PM - Muhammad Omar Farooq: E-R diagram bnani hai bus
-6/26/23, 6:33 PM - Umair 20CP UET: Is main hai frontend..
-6/26/23, 6:34 PM - Muhammad Omar Farooq: Terminal based hai
-6/26/23, 6:34 PM - Umair 20CP UET: But is main console per hai..
-6/26/23, 6:34 PM - Umair 20CP UET: Hmm
-6/26/23, 6:35 PM - Muhammad Omar Farooq: Isko mein search out kr rha hoon abhi. Sources hain bus run krna hai. Phir unki E-R diagram
-6/26/23, 6:45 PM - Umair 20CP UET: Oks..

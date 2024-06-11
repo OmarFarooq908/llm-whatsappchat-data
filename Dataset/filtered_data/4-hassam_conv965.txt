@@ -1,3 +1,0 @@
-2/18/24, 5:20 PM - Muhammad Omar Farooq: #!/bin/bash
-2/18/24, 5:32 PM - Muhammad Omar Farooq: To create 16 port-based virtual hosts for hosting 16 different websites on a CentOS Linux system, you'll need to configure Apache to listen on 16 different ports and set up virtual host configurations for each website. Here's how you can do it:
-2/18/24, 5:55 PM - Muhammad Omar Farooq: #!/bin/bash

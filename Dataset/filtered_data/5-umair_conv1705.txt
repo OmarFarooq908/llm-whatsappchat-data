@@ -1,2 +1,0 @@
-4/25/24, 10:23 AM - Umair 20CP UET: Title: Installation and Configuration of Monitorix on CentOS 7
-4/25/24, 10:23 AM - Umair 20CP UET: https://www.tecmint.com/monitorix-linux-network-monitoring-tool/

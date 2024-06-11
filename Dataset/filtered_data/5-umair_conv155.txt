@@ -1,8 +1,0 @@
-4/28/21, 10:46 PM - Muhammad Omar Farooq: Yo message dekha tha reply krna bhol gya tha
-4/28/21, 10:47 PM - Muhammad Omar Farooq: Masla hal hoa k nahi?
-4/28/21, 10:49 PM - Umair 20CP UET: Nahi bro..
-4/28/21, 10:49 PM - Muhammad Omar Farooq: Ek sec
-4/28/21, 10:50 PM - Muhammad Omar Farooq: https://stackoverflow.com/questions/6228112/link-fatal-error-lnk1104-cannot-open-file-msvcrtd-lib/10234077
-4/28/21, 10:54 PM - Umair 20CP UET: Bro dobara reinstall karnay ki zaroorat to nahi hai na...Allah kare in steps ko follow kr kay issue resolve ho jae...
-4/28/21, 10:55 PM - Muhammad Omar Farooq: pta nahi mera nhi khyal
-4/28/21, 10:55 PM - Muhammad Omar Farooq: Is se ho jaega IA

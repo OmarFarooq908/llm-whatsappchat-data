@@ -1,8 +1,0 @@
-6/5/23, 12:46 AM - Hamza Sardar Sr UET 20CP: https://colab.research.google.com/drive/1tcc2rHt7sLP5P61H-ShHeMSWLXhlgaL4?usp=sharing
-6/5/23, 1:07 AM - Muhammad Omar Farooq: What is this
-6/5/23, 1:07 AM - Muhammad Omar Farooq: Kiski hai
-6/5/23, 1:08 AM - Hamza Sardar Sr UET 20CP: Backporopogation ka code
-6/5/23, 1:08 AM - Hamza Sardar Sr UET 20CP: Sahi hai ??
-6/5/23, 1:09 AM - Muhammad Omar Farooq: No idea
-6/5/23, 1:09 AM - Muhammad Omar Farooq: Ab mein sone laga
-6/5/23, 1:21 AM - Hamza Sardar Sr UET 20CP: Ok ho gya

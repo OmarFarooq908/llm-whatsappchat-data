@@ -1,3 +1,0 @@
-2/5/23, 8:25 AM - Umair 20CP UET: Bro mac filtering aur mac binding main kia difference hai..?
-2/5/23, 8:47 AM - Muhammad Omar Farooq: Mac filtering ek security method hai hai. You filter Mac addresses in Mac filtering. 
-2/5/23, 8:50 AM - Umair 20CP UET: oks..

@@ -1,5 +1,0 @@
-4/23/24, 9:52 PM - Umair 20CP UET: Umer bero wo Phi ka error dekhna aur check karna.. dono notebooks sahi fine tune huey hain….aik huggingface wala dataset use kar rahi hai aur dosra apna data(us main bhi aik file hi dali abhi tak..)
-4/23/24, 10:05 PM - Muhammad Omar Farooq: Send error
-4/23/24, 10:05 PM - Muhammad Omar Farooq: Send location
-4/23/24, 10:11 PM - Umair 20CP UET: anydesk per online nahi ho....?
-4/23/24, 10:26 PM - Muhammad Omar Farooq: Nahi abhi nahi

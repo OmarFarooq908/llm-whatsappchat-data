@@ -1,3 +1,0 @@
-2/18/24, 7:50 PM - Muhammad Omar Farooq: #!/bin/bash
-2/18/24, 7:51 PM - Muhammad Omar Farooq: #!/bin/bash
-2/18/24, 7:57 PM - Muhammad Omar Farooq: #!/bin/bash

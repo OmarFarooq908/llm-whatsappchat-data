@@ -1,5 +1,0 @@
-5/18/22, 10:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
-5/18/22, 10:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: libra ky liya kya command ti?
-5/18/22, 10:28 PM - Muhammad Omar Farooq: Libra office?
-5/18/22, 10:28 PM - Muhammad Omar Farooq: sudo apt-get install libreoffice
-5/18/22, 10:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yup

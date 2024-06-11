@@ -1,8 +1,0 @@
-4/14/23, 7:58 PM - Umair 20CP UET: Hello I am looking for someone to help me implement unit test cases in my project. This is not a full assignment I only need help with a part of it. The language is C++.
-4/14/23, 7:58 PM - Umair 20CP UET: I need help creating unit test cases in the test.cpp files
-4/14/23, 7:58 PM - Umair 20CP UET: I believe there’s only 3 test cases so it should be simpler task
-4/14/23, 7:58 PM - Umair 20CP UET: I believe I put the file names in the doc I sent. Can you read the file? One of them is AcccontTest.cpp.
-4/14/23, 7:59 PM - Umair 20CP UET: Umer bero yeh C++ ka paid task hai..kar saktay ho .??
-4/14/23, 7:59 PM - Umair 20CP UET: 3 din hain..
-4/14/23, 7:59 PM - Umair 20CP UET: Payment bata do .??
-4/14/23, 8:09 PM - Muhammad Omar Farooq: Bro time nahi aaj kal 💀

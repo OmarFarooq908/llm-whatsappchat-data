@@ -1,7 +1,0 @@
-6/26/22, 6:48 PM - Umair 20CP UET: How do modern computer systems exploit parallelism at different levels? What is the responsibility of Operating System in efficiently managing them?
-6/26/22, 6:47 PM - Umair 20CP UET: Missed voice call
-6/26/22, 6:48 PM - Umair 20CP UET: answer to this question..
-6/26/22, 6:49 PM - Umair 20CP UET: oks..
-6/26/22, 6:56 PM - Umair 20CP UET: How modern desktop operating systems boot?
-6/26/22, 6:56 PM - Umair 20CP UET: bro is ka thora batana..
-6/26/22, 6:56 PM - Umair 20CP UET: kaisey hota hai..boot//??

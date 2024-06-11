@@ -1,7 +1,0 @@
-4/21/24, 12:36 AM - Umair 20CP UET: https://medium.com/@prasadmahamulkar/fine-tuning-phi-2-a-step-by-step-guide-e672e7f1d009
-4/21/24, 12:39 AM - Umair 20CP UET: https://medium.com/thedeephub/optimizing-phi-2-a-deep-dive-into-fine-tuning-small-language-models-9d545ac90a99
-4/21/24, 12:40 AM - Umair 20CP UET: This message was deleted
-4/21/24, 12:42 AM - Umair 20CP UET: https://github.com/vrajroutu/llmfinetune/blob/main/phi2-finetune-owndata.ipynb
-4/21/24, 12:43 AM - Umair 20CP UET: https://www.datacamp.com/tutorial/phi-2-model
-4/21/24, 12:45 AM - Umair 20CP UET: https://medium.aiplanet.com/fine-tune-small-model-micphi-2-to-convert-natural-language-to-sql-32fc4f6ed40c
-4/21/24, 12:47 AM - Umair 20CP UET: https://github.com/brevdev/notebooks/blob/main/phi2-finetune.ipynb
