@@ -1,0 +1,32 @@
+5/18/24, 6:20 PM - Muhammad Omar Farooq: https://youtu.be/3MPkc-PFSRI?si=RpMV6O1bsJGlC0yB
+5/18/24, 6:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oh
+5/18/24, 6:23 PM - Muhammad Omar Farooq: Ok hai?
+5/18/24, 6:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: i was seeing this but samj ni a ri ti ab dobara tr kartay
+5/18/24, 6:29 PM - Muhammad Omar Farooq: This is easy brro
+5/18/24, 6:32 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ok i will try
+5/18/24, 6:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oh
+5/18/24, 6:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ijazat mil gai na ap ko
+5/18/24, 6:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: trip ki
+5/18/24, 6:34 PM - Muhammad Omar Farooq: Nahi. Aaj Raat ko gal krni
+5/18/24, 6:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: naran kagan final kar tyn hn sb ka osi py
+5/18/24, 6:34 PM - Muhammad Omar Farooq: Oks
+5/18/24, 6:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: must must bero and
+5/18/24, 6:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sb ko kaho
+5/18/24, 6:35 PM - Muhammad Omar Farooq: Oks
+5/18/24, 6:35 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: O tyri
+5/18/24, 6:37 PM - Muhammad Omar Farooq: Keh diya sab ko
+5/18/24, 6:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Good ha
+5/18/24, 6:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Zia or umair bai ko pump karna kay is bar koi dosari ray ni hu gi
+5/18/24, 6:39 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lub u
+5/18/24, 6:39 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lub u
+5/18/24, 6:39 PM - Muhammad Omar Farooq: Kr diya. Pump ⛽ to nahi Kiya. Lekin keh diya
+5/18/24, 6:42 PM - Muhammad Omar Farooq: Each 2 rounds increase in AES causes 8 bytes increase in key size
+5/18/24, 6:42 PM - Muhammad Omar Farooq: Default no. Of rounds are 10
+5/18/24, 6:43 PM - Muhammad Omar Farooq: Round 1 to N-1 are characterized by 4 transformations
+5/18/24, 6:44 PM - Muhammad Omar Farooq: Round N is characterized by 3 transformations
+5/18/24, 6:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: let me send you another video given in slides
+5/18/24, 6:46 PM - Muhammad Omar Farooq: Plaintext size remains same. Number of rounds and key size are related to each other.
+5/18/24, 6:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: https://www.youtube.com/watch?v=gP4PqVGudtg
+5/18/24, 6:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: watch this
+5/18/24, 6:46 PM - Muhammad Omar Farooq: Oo
+5/18/24, 6:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: i am watching

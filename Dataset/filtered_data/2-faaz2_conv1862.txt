@@ -1,0 +1,12 @@
+12/28/23, 10:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: issue yeh h k
+12/28/23, 10:38 PM - Muhammad Omar Farooq: konse drivers?
+12/28/23, 10:38 PM - Muhammad Omar Farooq: linux adapter kya matlab?
+12/28/23, 10:38 PM - Muhammad Omar Farooq: o_O
+12/28/23, 10:39 PM - Muhammad Omar Farooq: path ka masla ho skta ya phir compatibility ka issue
+12/28/23, 10:39 PM - Muhammad Omar Farooq: error kya aarha aarha exactly, or konsi commands use ki hain?
+12/28/23, 10:55 PM - Muhammad Omar Farooq: ifconfig
+12/28/23, 11:08 PM - Muhammad Omar Farooq: sudo apt install kali-linux-wireless
+12/28/23, 11:09 PM - Muhammad Omar Farooq: service NetworkManager start 
+12/28/23, 11:09 PM - Muhammad Omar Farooq: Agr na chle
+12/28/23, 11:09 PM - Muhammad Omar Farooq: to yeh
+12/28/23, 11:09 PM - Muhammad Omar Farooq: phir yeh

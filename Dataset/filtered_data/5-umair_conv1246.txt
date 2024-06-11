@@ -1,0 +1,53 @@
+6/26/23, 10:09 PM - Muhammad Omar Farooq: pura log dekhna
+6/26/23, 10:15 PM - Muhammad Omar Farooq: yeh run krke dekho
+6/26/23, 10:16 PM - Umair 20CP UET: ho gia yeh to..
+6/26/23, 10:16 PM - Muhammad Omar Farooq: ab phir se requirements.txt wali command run kro
+6/26/23, 10:17 PM - Umair 20CP UET: wohi errors hain..
+6/26/23, 10:18 PM - Muhammad Omar Farooq: agr wohi errors ate to phir yahan se microsoft visual c++ 14 ya us se upper ka version download krna: visualstudio.microsoft.com/visual-cpp-build-tools
+6/26/23, 10:19 PM - Umair 20CP UET: yar pc main space nahi hai..koi aur hal nahi hai..?
+6/26/23, 10:20 PM - Muhammad Omar Farooq: https://bobbyhadz.com/blog/error-microsoft-visual-c-14-0-or-greater-is-required#:~:text=The%20error%20%22Microsoft%20Visual%20C%2B%2B,rerun%20your%20pip%20install%20command.
+6/26/23, 10:20 PM - Muhammad Omar Farooq: yeh is mein hain possible solutions
+6/26/23, 10:21 PM - Umair 20CP UET: yeh to bhuth muskil hai...space nahi hai.
+6/26/23, 10:23 PM - Muhammad Omar Farooq: Kitni space chahiye honi?
+6/26/23, 10:23 PM - Umair 20CP UET: Ap kay pass sahi run ho gia ..?
+6/26/23, 10:24 PM - Muhammad Omar Farooq: Yup
+6/26/23, 10:24 PM - Umair 20CP UET: 8-10gb
+6/26/23, 10:24 PM - Umair 20CP UET: ya isay bhi Zaida..jab install ho jata hai to phir update bangta hai..
+6/26/23, 10:25 PM - Muhammad Omar Farooq: Yes
+6/26/23, 10:26 PM - Umair 20CP UET: ab kia kia jae..?
+6/26/23, 10:27 PM - Muhammad Omar Farooq: smjh nahi aarhi
+6/26/23, 10:27 PM - Muhammad Omar Farooq: aapke pass abhi free space kitni hai?
+6/26/23, 10:29 PM - Umair 20CP UET: ap video bana kar send kar saktay ho ap nay project ki..screen recorder say...
+6/26/23, 10:29 PM - Umair 20CP UET: bhuth nasuk sorathaal hai..
+6/26/23, 10:29 PM - Muhammad Omar Farooq: Wait
+6/26/23, 10:37 PM - Muhammad Omar Farooq: larger than 64mb video ka size hai
+6/26/23, 10:38 PM - Umair 20CP UET: OneDrive ya GitHub per upload kar kay send kar do..
+6/26/23, 10:38 PM - Umair 20CP UET: chalo sahi.
+6/26/23, 10:38 PM - Umair 20CP UET: a gai..
+6/26/23, 10:38 PM - Muhammad Omar Farooq: oks
+6/26/23, 10:41 PM - Umair 20CP UET: acha hai..changes karni parein gi.
+6/26/23, 10:42 PM - Umair 20CP UET: is ka backend kis trha change karein...ager kisi query ki limit wagira change karni hai to..?
+6/26/23, 10:46 PM - Muhammad Omar Farooq: using apis in python
+6/26/23, 10:46 PM - Muhammad Omar Farooq: hongi sql query hi
+6/26/23, 10:47 PM - Umair 20CP UET: apis kia hai..?
+6/26/23, 10:47 PM - Muhammad Omar Farooq: application programmer interfaces
+6/26/23, 10:48 PM - Umair 20CP UET: koi library python ki..?
+6/26/23, 10:51 PM - Muhammad Omar Farooq: yes
+6/26/23, 10:52 PM - Umair 20CP UET: sql queries ka code kis file main hai;..?
+6/26/23, 10:56 PM - Muhammad Omar Farooq: django mein different apps hote hain project ke. har app ki ek model.py file hoti hai. us mein database related info hoti hai
+6/26/23, 10:56 PM - Muhammad Omar Farooq: is ke ilawa koi dekhta hoon agr mile, jo simple html,css, javascript, php, mysql mein ho
+6/26/23, 10:57 PM - Umair 20CP UET: is main MySQL use hoi..sql nahi..
+6/26/23, 10:58 PM - Muhammad Omar Farooq: dono similar hai swai chand differences ke
+6/26/23, 10:59 PM - Muhammad Omar Farooq: is mein sql thi
+6/26/23, 10:59 PM - Umair 20CP UET: sir yeh na kahein main nay SQL parhai..aur tum nay MySQL main project kaisey kar lia..?
+6/26/23, 10:59 PM - Umair 20CP UET: ok..
+6/26/23, 11:00 PM - Muhammad Omar Farooq: MySQL use krti hai SQL ko
+6/26/23, 11:01 PM - Umair 20CP UET: acha..
+6/26/23, 11:02 PM - Umair 20CP UET: Acha umer mujey yeh batao..yeh meray pass run to nahi ho raha...ager is ko samjhna ho to us ka kia tareeka hai..?
+6/26/23, 11:03 PM - Umair 20CP UET: sql queries wagira..
+6/26/23, 11:03 PM - Muhammad Omar Farooq: Isko choro koi or dekhta hoon Jo jldi smjh ajae
+6/26/23, 11:04 PM - Muhammad Omar Farooq: Is mein Django hai or wo complex hai 🥲
+6/26/23, 11:04 PM - Umair 20CP UET: yeh dono check karo..kuch sahi milta hai..?
+6/26/23, 11:08 PM - Muhammad Omar Farooq: oks
+6/26/23, 11:31 PM - Umair 20CP UET: mujey bhi acha mila to send karoon ga..
+6/26/23, 11:31 PM - Muhammad Omar Farooq: oks

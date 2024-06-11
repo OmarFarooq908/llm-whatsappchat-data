@@ -1,0 +1,39 @@
+3/22/21, 6:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+3/22/21, 6:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ki anser ata ha
+3/22/21, 6:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 2 ka?
+3/22/21, 6:35 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Vheck kiya ha na
+3/22/21, 6:35 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Check
+3/22/21, 6:35 PM - Muhammad Omar Farooq: Yes
+3/22/21, 6:36 PM - Muhammad Omar Farooq: But
+3/22/21, 6:36 PM - Muhammad Omar Farooq: Multisim pr putha graph bn rha
+3/22/21, 6:36 PM - Muhammad Omar Farooq: But
+3/22/21, 6:36 PM - Muhammad Omar Farooq: Slader kehta hai apka answer drust hai
+3/22/21, 6:36 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Multisim yara
+3/22/21, 6:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Os ko manao
+3/22/21, 6:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pir
+3/22/21, 6:37 PM - Muhammad Omar Farooq: Okay
+3/22/21, 6:37 PM - Muhammad Omar Farooq: Mein to apne time delay se check kiya
+3/22/21, 6:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mayra masti kar ra
+3/22/21, 6:37 PM - Muhammad Omar Farooq: Multisim?
+3/22/21, 6:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ka ra kay ap ka hardware chane ha
+3/22/21, 6:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Han na
+3/22/21, 6:37 PM - Muhammad Omar Farooq: Ya theoretical answer
+3/22/21, 6:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 1ka dikao
+3/22/21, 6:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Answer kya ta ha
+3/22/21, 6:41 PM - Muhammad Omar Farooq: The masti
+3/22/21, 6:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Time dely switch?
+3/22/21, 6:42 PM - Muhammad Omar Farooq: Haan yaara
+3/22/21, 6:43 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Simple try karo
+3/22/21, 6:43 PM - Muhammad Omar Farooq: Kese?
+3/22/21, 6:43 PM - Muhammad Omar Farooq: Yeh kese implement hoga us mein?
+3/22/21, 6:43 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yahi na lykin time ni hu ga na
+3/22/21, 6:44 PM - Muhammad Omar Farooq: Let me try
+3/22/21, 6:45 PM - Muhammad Omar Farooq: How the hell now I connect it to 2 ohm resistor
+3/22/21, 6:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oh hu
+3/22/21, 6:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Open switch
+3/22/21, 6:46 PM - Muhammad Omar Farooq: Opened
+3/22/21, 6:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pic byjo
+3/22/21, 6:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya ni
+3/22/21, 6:47 PM - Muhammad Omar Farooq: ?
+3/22/21, 6:48 PM - Muhammad Omar Farooq: Yaar
+3/22/21, 6:48 PM - Muhammad Omar Farooq: Yeh tdsw2 complicated lag rha

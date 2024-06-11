@@ -1,0 +1,22 @@
+7/30/22, 2:14 PM - Muhammad Omar Farooq: Traveling salesperson problem
+7/30/22, 2:14 PM - Muhammad Omar Farooq: Is a np-complete problem
+7/30/22, 2:18 PM - Umair 20CP UET: Hmm....
+7/30/22, 2:19 PM - Muhammad Omar Farooq: Idhr likha hoa tha ke solving np-complete problem is usually fruitless
+7/30/22, 2:19 PM - Muhammad Omar Farooq: You have to use approximation algorithms 😂
+7/30/22, 2:19 PM - Umair 20CP UET: 😁..means we had wasted our time in preparing our presentation...
+7/30/22, 2:20 PM - Muhammad Omar Farooq: Seems like
+7/30/22, 2:21 PM - Umair 20CP UET: 😂😂
+7/30/22, 2:21 PM - Muhammad Omar Farooq: DSA aati hai?
+7/30/22, 2:22 PM - Umair 20CP UET: Thori bhuth...??ap kia parha rahey ho...??
+7/30/22, 2:22 PM - Umair 20CP UET: DSA...
+7/30/22, 2:23 PM - Muhammad Omar Farooq: That is kood
+7/30/22, 2:23 PM - Muhammad Omar Farooq: yes
+7/30/22, 2:23 PM - Umair 20CP UET: But coding main samj nahi ati/..
+7/30/22, 2:23 PM - Muhammad Omar Farooq: Oh
+7/30/22, 2:24 PM - Muhammad Omar Farooq: Yaar mujhe ek aachi book mili hai. Us se boht si cheezen smjh aarhi hain. Is waja se us ko dekh rha hoon
+7/30/22, 2:24 PM - Umair 20CP UET: Hard main ya soft..main..??
+7/30/22, 2:24 PM - Muhammad Omar Farooq: soft
+7/30/22, 2:24 PM - Umair 20CP UET: soft main hai to snd kar do..
+7/30/22, 2:24 PM - Muhammad Omar Farooq: oks
+7/30/22, 2:26 PM - Umair 20CP UET: Thanks bero..
+7/30/22, 2:26 PM - Muhammad Omar Farooq: anytime

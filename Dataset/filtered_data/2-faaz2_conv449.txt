@@ -1,0 +1,107 @@
+4/30/21, 3:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+4/30/21, 3:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Length kysay pata lagatyn hn?
+4/30/21, 3:41 PM - Muhammad Omar Farooq: Agaya
+4/30/21, 3:41 PM - Muhammad Omar Farooq: C string ki?
+4/30/21, 3:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: G
+4/30/21, 3:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Char ki
+4/30/21, 3:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara c string or char array may farq samajao
+4/30/21, 3:41 PM - Muhammad Omar Farooq: Strnlength(string)
+4/30/21, 3:43 PM - Muhammad Omar Farooq: Strlen(line)
+4/30/21, 3:43 PM - Muhammad Omar Farooq: *
+4/30/21, 3:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Why m is missing
+4/30/21, 3:49 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: solves#d
+4/30/21, 3:49 PM - Muhammad Omar Farooq: Cin.ignore video se dekha?
+4/30/21, 3:49 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ignore maro
+4/30/21, 3:49 PM - Muhammad Omar Farooq: Oo
+4/30/21, 3:49 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: hn
+4/30/21, 3:49 PM - Muhammad Omar Farooq: Oks
+4/30/21, 3:49 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: but os ka batay ni ta kya masla ha
+4/30/21, 3:49 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya wasay use q kartyn hn?
+4/30/21, 3:50 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Cin ignore?
+4/30/21, 3:50 PM - Muhammad Omar Farooq: Sach btao to menu v cin.ignore ka itna sahi nahi pta
+4/30/21, 3:50 PM - Muhammad Omar Farooq: Bus kuch jaghon pr use krna ata hai
+4/30/21, 3:50 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kon si jagon par?
+4/30/21, 3:55 PM - Muhammad Omar Farooq: Kya tha*
+4/30/21, 3:55 PM - Muhammad Omar Farooq: Bhol gaya
+4/30/21, 3:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 🤥
+4/30/21, 4:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:20 PM - Muhammad Omar Farooq: Oo
+4/30/21, 4:20 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ignore maro
+4/30/21, 4:21 PM - Muhammad Omar Farooq: Hogya sahi?
+4/30/21, 4:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yuo
+4/30/21, 4:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kidar huty hu ap?
+4/30/21, 4:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kya jar ry hu?
+4/30/21, 4:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Repeat question 1 except use the class string to extract the fields, not the c-string 
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: y
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: o
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yoyoyo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yoyo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 4:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: scamp
+4/30/21, 4:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: dsfsaddfcasd
+4/30/21, 4:55 PM - Muhammad Omar Farooq: Is mein kya nahi smjh ai
+4/30/21, 4:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya
+4/30/21, 4:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+4/30/21, 4:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Or Q3
+4/30/21, 4:56 PM - Muhammad Omar Farooq: Chess khel rha
+4/30/21, 4:56 PM - Muhammad Omar Farooq: Tha
+4/30/21, 4:56 PM - Muhammad Omar Farooq: Abhi CA ke tasks krne
+4/30/21, 4:56 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kon say?
+4/30/21, 4:58 PM - Muhammad Omar Farooq: Lab tasks
+4/30/21, 5:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yyyyy
+4/30/21, 5:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+4/30/21, 5:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+4/30/21, 5:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+4/30/21, 5:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 5:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yi
+4/30/21, 5:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 5:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+4/30/21, 5:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+4/30/21, 5:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: to
+4/30/21, 5:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Terrorism kt
+4/30/21, 5:18 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ca lab task 1 ka answer batao
+4/30/21, 5:20 PM - Muhammad Omar Farooq: Yaar mein chess khel rha tha
+4/30/21, 5:21 PM - Muhammad Omar Farooq: Hana lower mein krna hai
+4/30/21, 5:21 PM - Muhammad Omar Farooq: Yup
+4/30/21, 5:22 PM - Muhammad Omar Farooq: Ab mein idhr hi hoo
+4/30/21, 5:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ni
+4/30/21, 5:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mtlb ky user jis marzi format my dy
+4/30/21, 5:22 PM - Muhammad Omar Farooq: Yus
+4/30/21, 5:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: My osay lower may karon?
+4/30/21, 5:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya kysay?
+4/30/21, 5:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Karyn. Mtlb ky identify karyn 0haly ky upper case ha pir os ko. Lower karyn?
+4/30/21, 5:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara
+4/30/21, 5:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Myjy CA Lab Task 1 ka answer batao
+4/30/21, 5:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pagal
+4/30/21, 5:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Time ap ny kyaha. Zaya kiya ha
+4/30/21, 5:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Enjoy karo aj
+4/30/21, 5:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kafi time ha
+4/30/21, 5:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Cp karvao myjya bs
+4/30/21, 5:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: CA ko goli maro
+4/30/21, 5:27 PM - Muhammad Omar Farooq: O na
+4/30/21, 5:27 PM - Muhammad Omar Farooq: CA nahi ki
+4/30/21, 5:27 PM - Muhammad Omar Farooq: IA
+4/30/21, 5:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Aj na karna
+4/30/21, 5:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Aj ap enjoy karo
+4/30/21, 5:37 PM - Muhammad Omar Farooq: Oo
+4/30/21, 5:37 PM - Muhammad Omar Farooq: Namaz prh rha tha
+4/30/21, 5:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ssapara bi par lyna
+4/30/21, 5:38 PM - Muhammad Omar Farooq: Subha prha tha
+4/30/21, 5:38 PM - Muhammad Omar Farooq: Fajr ke waqt
+4/30/21, 5:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: My bi

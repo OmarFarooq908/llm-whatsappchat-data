@@ -1,0 +1,70 @@
+10/10/21, 8:54 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Soy ni?
+10/10/21, 8:54 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Samja ni
+10/10/21, 8:55 AM - Muhammad Omar Farooq: Nahi soya
+10/10/21, 8:55 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kya kiyaM
+10/10/21, 8:55 AM - Muhammad Omar Farooq: Yo
+10/10/21, 8:55 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pir
+10/10/21, 8:56 AM - Muhammad Omar Farooq: Soya raat ko tha
+10/10/21, 8:56 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kya par ry ty
+10/10/21, 8:58 AM - Muhammad Omar Farooq: Yaar COA or revise kiya pehla chapter
+10/10/21, 8:58 AM - Muhammad Omar Farooq: Ab MatLab. Phir CATM
+10/10/21, 8:58 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Static resistance kya ho8 pir?
+10/10/21, 9:01 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Graph kysay plote karna
+10/10/21, 9:08 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lecture 3 liya ha EC ka?
+10/10/21, 9:09 AM - Muhammad Omar Farooq: 🤖
+10/10/21, 9:09 AM - Muhammad Omar Farooq: Nahi
+10/10/21, 9:10 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yp
+10/10/21, 9:10 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: kal kaha  ta kay aj koi parhai ni pir ap ny itna koch par liya
+10/10/21, 9:11 AM - Muhammad Omar Farooq: Nahi yaar mene bus COA revise kiya or kuch nahi
+10/10/21, 9:11 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sir ny kya parhaya ta?
+10/10/21, 9:11 AM - Muhammad Omar Farooq: Abhi ap se baat kr rha
+10/10/21, 9:11 AM - Muhammad Omar Farooq: Complete model ka?
+10/10/21, 9:11 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yup
+10/10/21, 9:13 AM - Muhammad Omar Farooq: Haana yaar 😂
+10/10/21, 9:13 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: book kahan tk pari ha?
+10/10/21, 9:13 AM - Muhammad Omar Farooq: Rectifiers tak
+10/10/21, 9:13 AM - Muhammad Omar Farooq: Yaaaaar
+10/10/21, 9:13 AM - Muhammad Omar Farooq: Abhi chapter 3 bhi hai
+10/10/21, 9:14 AM - Muhammad Omar Farooq: Wohi na teachers kabhi cheezen bhol jate prhana
+10/10/21, 9:14 AM - Muhammad Omar Farooq: Aho
+10/10/21, 9:15 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: koi kiya bi ha?
+10/10/21, 9:15 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: to byjo
+10/10/21, 9:22 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Draw (IB, VBE) and (IC, VCE) characteristics curves. Explain the effect on IB, IC and VCE for increasing or decreasing values of VBB and VCC respectively.
+10/10/21, 9:22 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ap kya do gy is ka answer
+10/10/21, 9:22 AM - Muhammad Omar Farooq: Exam ka answer hai?
+10/10/21, 9:22 AM - Muhammad Omar Farooq: What is IB and VBE
+10/10/21, 9:23 AM - Muhammad Omar Farooq: Question*
+10/10/21, 9:22 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: idk
+10/10/21, 9:24 AM - Muhammad Omar Farooq: Kahan se liya yeh
+10/10/21, 9:25 AM - Muhammad Omar Farooq: Abdullah bhai wali drive mein hai iska solution?
+10/10/21, 9:25 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: mid ka q1
+10/10/21, 9:25 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yup
+10/10/21, 9:38 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?kity gy
+10/10/21, 9:41 AM - Muhammad Omar Farooq: Idhr hi
+10/10/21, 9:41 AM - Muhammad Omar Farooq: Yaar
+10/10/21, 9:42 AM - Muhammad Omar Farooq: I have no idea ke yeh IB or VBE ki cheez hai
+10/10/21, 9:43 AM - Muhammad Omar Farooq: Yo
+10/10/21, 9:43 AM - Muhammad Omar Farooq: Yeh transistor ki to nahi hai?
+10/10/21, 9:43 AM - Muhammad Omar Farooq: IB base current
+10/10/21, 9:43 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mid tk nahin
+10/10/21, 9:44 AM - Muhammad Omar Farooq: Vbe to base emitter voltage hoti hai
+10/10/21, 9:44 AM - Muhammad Omar Farooq: Yahan Kahan pr agai
+10/10/21, 9:46 AM - Muhammad Omar Farooq: Yoooo
+10/10/21, 9:47 AM - Muhammad Omar Farooq: Pehla question transistor ka na ho
+10/10/21, 9:48 AM - Muhammad Omar Farooq: Kiyonke transistor ki bhi characteristic curve hoti hai
+10/10/21, 9:48 AM - Muhammad Omar Farooq: Dosra question xener diode ka
+10/10/21, 9:48 AM - Muhammad Omar Farooq: Faaz yaar EC easy nahi lag rhi thori question paper dekh kr ?😂
+10/10/21, 9:49 AM - Muhammad Omar Farooq: Agr hm is trah ke questions krlen
+10/10/21, 9:50 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hasi myri ab dab gai ha yar
+10/10/21, 9:50 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Samj hi ni a ra question
+10/10/21, 9:51 AM - Muhammad Omar Farooq: Wese CA se to easy hai na EC?
+10/10/21, 9:51 AM - Muhammad Omar Farooq: Ya nahi 🤖
+10/10/21, 9:53 AM - Muhammad Omar Farooq: Haan yaar sahi keh rhe
+10/10/21, 10:01 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+10/10/21, 10:03 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: aya ap ko kysay pata?
+10/10/21, 10:03 AM - Muhammad Omar Farooq: Google jaani
+10/10/21, 10:04 AM - Muhammad Omar Farooq: Abhi kiya
+10/10/21, 10:05 AM - Muhammad Omar Farooq: Haan yaar
+10/10/21, 10:07 AM - Muhammad Omar Farooq: Abdul Qadeer Khan passed away
+10/10/21, 10:08 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: today?
+10/10/21, 10:09 AM - Muhammad Omar Farooq: Yes

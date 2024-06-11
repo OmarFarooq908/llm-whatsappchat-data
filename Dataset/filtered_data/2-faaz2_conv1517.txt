@@ -1,0 +1,18 @@
+6/13/23, 5:51 PM - Muhammad Omar Farooq: ### Wireless and Mobile Networks
+6/13/23, 5:52 PM - Muhammad Omar Farooq: Faaz bhai is syllabus pr nazr e saani farmaen
+6/13/23, 5:53 PM - Muhammad Omar Farooq: Okay hogya
+6/13/23, 5:54 PM - Muhammad Omar Farooq: Yup. Includes some portion of mids. About 5-10 percent. Or wo bhi Wohi Jo sir ne mids ke baad pehle wali cheezen revise kin
+6/13/23, 5:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Itna dyyr syllabus
+6/13/23, 5:55 PM - Muhammad Omar Farooq: Dyyr mtlb?
+6/13/23, 5:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Zayda
+6/13/23, 6:15 PM - Muhammad Omar Farooq: Faaz bhai yeh oss kya cheez hai?
+6/13/23, 6:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Operation subsystem station
+6/13/23, 6:17 PM - Muhammad Omar Farooq: oks
+6/13/23, 6:17 PM - Muhammad Omar Farooq: Operation Support System nahi hai?
+6/13/23, 6:18 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Eaa hi koch ha
+6/13/23, 6:27 PM - Muhammad Omar Farooq: Iska kaam fault management to hai. Routing bhi yehi krta?
+6/13/23, 6:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Routing to ni kartabas monitoring fault management
+6/13/23, 6:28 PM - Muhammad Omar Farooq: oks
+6/13/23, 6:28 PM - Muhammad Omar Farooq: OSS stands for Operations Support Systems. It refers to a set of software applications and tools used by telecommunications service providers to manage and monitor their network operations, services, and business processes. OSS plays a crucial role in ensuring the smooth operation and efficient management of telecommunication networks.
+6/13/23, 6:30 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ahu
+6/13/23, 6:30 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Fas class

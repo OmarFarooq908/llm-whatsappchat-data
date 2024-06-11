@@ -1,0 +1,73 @@
+3/25/21, 9:01 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+3/25/21, 9:01 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara galti batana
+3/25/21, 9:16 AM - Muhammad Omar Farooq: Kis mein
+3/25/21, 9:17 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya is my
+3/25/21, 9:17 AM - Muhammad Omar Farooq: Wait
+3/25/21, 9:18 AM - Muhammad Omar Farooq: Let me open the tool box
+3/25/21, 9:28 AM - Muhammad Omar Farooq: #include <iostream>
+3/25/21, 9:33 AM - Muhammad Omar Farooq: Chla?
+3/25/21, 9:47 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Abi bed py hun
+3/25/21, 9:47 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Galti kya ti
+3/25/21, 9:47 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+3/25/21, 9:47 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mtlb myri logic kharab ti?
+3/25/21, 9:47 AM - Muhammad Omar Farooq: break statement
+3/25/21, 9:47 AM - Muhammad Omar Farooq: bus thori si
+3/25/21, 9:48 AM - Muhammad Omar Farooq: bus <= ki jagah < likhna tha
+3/25/21, 9:48 AM - Muhammad Omar Farooq: baaki mene break statement add ki thi
+3/25/21, 9:48 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya must huta?
+3/25/21, 9:48 AM - Muhammad Omar Farooq: or yeh bool ke sath bhi kuch cheer chaar ki
+3/25/21, 9:48 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Na is may na
+3/25/21, 9:48 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Or kisi may dali
+3/25/21, 9:49 AM - Muhammad Omar Farooq: haan or trah se bhi kr skte
+3/25/21, 9:49 AM - Muhammad Omar Farooq: pr wo lamba ho jata
+3/25/21, 9:49 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Voice may bata sakty?
+3/25/21, 9:49 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pc pay hi hu?
+3/25/21, 9:49 AM - Muhammad Omar Farooq: yus
+3/25/21, 9:50 AM - Muhammad Omar Farooq: yeh to theek hai
+3/25/21, 9:50 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Let may send other file 
+3/25/21, 9:51 AM - Muhammad Omar Farooq: bs yaar wo voice mein bhi smjh nahi aegi
+3/25/21, 9:51 AM - Muhammad Omar Farooq: dikha kr aegi
+3/25/21, 9:54 AM - Muhammad Omar Farooq: Okay mein btata kuch deer mein
+3/25/21, 9:54 AM - Muhammad Omar Farooq: Yeh dekh kr
+3/25/21, 9:59 AM - Muhammad Omar Farooq: #include <iostream>
+3/25/21, 9:59 AM - Muhammad Omar Farooq: task 1
+3/25/21, 10:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Issue bi batay rahna
+3/25/21, 10:00 AM - Muhammad Omar Farooq: sum_x,sum_y ki values initialize nahi ki thi
+3/25/21, 10:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Logic?
+3/25/21, 10:01 AM - Muhammad Omar Farooq: Or comma ki jagah semicolon
+3/25/21, 10:01 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pir chal kysay ra ta
+3/25/21, 10:01 AM - Muhammad Omar Farooq: chal jaega
+3/25/21, 10:02 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kysay
+3/25/21, 10:02 AM - Muhammad Omar Farooq: jis trah int x,y
+3/25/21, 10:02 AM - Muhammad Omar Farooq: ek hi line pr tha is liye ig
+3/25/21, 10:02 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Nai vo to kiud hi store hu gi na
+3/25/21, 10:03 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hn vo to kudi kiya ta kay ak hi line consider kary
+3/25/21, 10:03 AM - Muhammad Omar Farooq: store to har variable mein khud hi hoti hai
+3/25/21, 10:03 AM - Muhammad Omar Farooq: kuch compilers error dete hain
+3/25/21, 10:04 AM - Muhammad Omar Farooq: to best practice yehi hai ke hair variable ko initialize kiya jae agr wo variable user se input nahi hora
+3/25/21, 10:04 AM - Muhammad Omar Farooq: bus yeh
+3/25/21, 10:04 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Acha mtlb jis ko only for storing liya but initilaze karna must ha?
+3/25/21, 10:04 AM - Muhammad Omar Farooq: task 2 best
+3/25/21, 10:04 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ta kay pori vali masti na kary
+3/25/21, 10:05 AM - Muhammad Omar Farooq: yus
+3/25/21, 10:05 AM - Muhammad Omar Farooq: garbage value ajati kuch compilers mein
+3/25/21, 10:05 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Aj kya krna?
+3/25/21, 10:06 AM - Muhammad Omar Farooq: baaki best hogya kaam
+3/25/21, 10:06 AM - Muhammad Omar Farooq: Aj
+3/25/21, 10:07 AM - Muhammad Omar Farooq: yaar mein cp ka such rha tha
+3/25/21, 10:07 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kya
+3/25/21, 10:07 AM - Muhammad Omar Farooq: computer programming
+3/25/21, 10:07 AM - Muhammad Omar Farooq: iski lab report bnao
+3/25/21, 10:07 AM - Muhammad Omar Farooq: or baaki yeh cp ki book prhna ka soch rha tha
+3/25/21, 10:07 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: May samaja kay bas
+3/25/21, 10:07 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ap or cp rocket pay
+3/25/21, 10:31 AM - Muhammad Omar Farooq: While loop use kr skte ho for loop ki bjar
+3/25/21, 10:39 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Han gi
+3/25/21, 10:40 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is may while best ha?
+3/25/21, 10:40 AM - Muhammad Omar Farooq: Nahi
+3/25/21, 10:40 AM - Muhammad Omar Farooq: Break ke liye bta rha tha
+3/25/21, 10:40 AM - Muhammad Omar Farooq: Agr for ki bjae while use kren
+3/25/21, 10:41 AM - Muhammad Omar Farooq: To break krwa skte break likhe beghar
+3/25/21, 10:45 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oh sai
+3/25/21, 10:52 AM - Muhammad Omar Farooq: Ok
+3/25/21, 10:52 AM - Muhammad Omar Farooq: https://youtu.be/a7dfSBrTZtE

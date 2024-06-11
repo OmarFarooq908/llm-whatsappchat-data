@@ -1,0 +1,41 @@
+4/14/21, 5:25 PM - Muhammad Omar Farooq: Assalamualaikum
+4/14/21, 5:25 PM - Muhammad Omar Farooq: Lab Task 1 mein thevenin impedance kiya ai
+4/14/21, 5:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Simulation kar li?
+4/14/21, 5:26 PM - Muhammad Omar Farooq: Yup
+4/14/21, 5:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ss byj na answer vali
+4/14/21, 5:27 PM - Muhammad Omar Farooq: Short circuit current?
+4/14/21, 5:27 PM - Muhammad Omar Farooq: Ya v naught
+4/14/21, 5:28 PM - Muhammad Omar Farooq: 12 angle 90
+4/14/21, 5:28 PM - Muhammad Omar Farooq: V naught
+4/14/21, 5:29 PM - Muhammad Omar Farooq: I short circuit 13.415 angle 116.56
+4/14/21, 5:32 PM - Muhammad Omar Farooq: Aese hi k nahi?
+4/14/21, 5:32 PM - Muhammad Omar Farooq: For thevenin impedance
+4/14/21, 5:32 PM - Muhammad Omar Farooq: Remove 2 ohm resistor or short circuit it ?
+4/14/21, 5:32 PM - Muhammad Omar Farooq: For thevenin impedance
+4/14/21, 5:32 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 1-j
+4/14/21, 5:33 PM - Muhammad Omar Farooq: Yup
+4/14/21, 5:33 PM - Muhammad Omar Farooq: Phir V naught hoga
+4/14/21, 5:33 PM - Muhammad Omar Farooq: Short circuit current multiplied by thevenin impedance
+4/14/21, 5:34 PM - Muhammad Omar Farooq: Right?
+4/14/21, 5:39 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Voice may batao
+4/14/21, 5:39 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Tokron may message karnay say parhayz karyn
+4/14/21, 5:39 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Shukriya
+4/14/21, 5:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ak min
+4/14/21, 5:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Let me read again
+4/14/21, 5:41 PM - Muhammad Omar Farooq: Vo = (Isc)(Zeq)
+4/14/21, 5:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is may to ni
+4/14/21, 5:41 PM - Muhammad Omar Farooq: Oo
+4/14/21, 5:41 PM - Muhammad Omar Farooq: Phir kese
+4/14/21, 5:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pai
+4/14/21, 5:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Northon equavlant banao
+4/14/21, 5:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Than find Io
+4/14/21, 5:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Through CDR
+4/14/21, 5:44 PM - Muhammad Omar Farooq: Wo choro
+4/14/21, 5:43 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo mayjy simulation ka answer batao
+4/14/21, 5:44 PM - Muhammad Omar Farooq: Yeh btao
+4/14/21, 5:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo choro
+4/14/21, 5:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Vo batao
+4/14/21, 5:45 PM - Muhammad Omar Farooq: Sab choro
+4/14/21, 5:45 PM - Muhammad Omar Farooq: Pehle tasks krte
+4/14/21, 5:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ap nay kya kiya va ha
+4/14/21, 5:46 PM - Muhammad Omar Farooq: I short circuit or Thevenin impedance find ki hoi

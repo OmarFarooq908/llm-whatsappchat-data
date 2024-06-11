@@ -1,0 +1,4 @@
+3/26/24, 11:51 PM - Muhammad Omar Farooq: [root@localhost ~]# service network restart
+3/26/24, 11:52 PM - Muhammad Omar Farooq: systemctl status network.service
+3/26/24, 11:52 PM - Muhammad Omar Farooq: journalctl -xe
+3/26/24, 11:54 PM - Muhammad Omar Farooq: [root@localhost ~]# service network restart

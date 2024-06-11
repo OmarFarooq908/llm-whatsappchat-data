@@ -1,0 +1,1 @@
+2/19/24, 12:09 PM - Umair 20CP UET: from cryptography.fernet import Fernet

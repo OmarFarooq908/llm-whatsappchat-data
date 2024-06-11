@@ -1,0 +1,25 @@
+3/26/21, 3:32 PM - Muhammad Omar Farooq: User se input kiyon kra rhe?
+3/26/21, 3:33 PM - Umair 20CP UET: Kyun kya jitnay numbers ka sum karna ho a jae...
+3/26/21, 3:34 PM - Muhammad Omar Farooq: Question mein pehle hi btaya hai kr first 10 even numbers ka krna hai
+3/26/21, 3:35 PM - Umair 20CP UET: Is ko nikalanay say sai ho jae ga..??
+3/26/21, 3:36 PM - Umair 20CP UET: ??
+3/26/21, 3:37 PM - Umair 20CP UET: Phir bhi ans to wohi a raha..hai..??
+3/26/21, 3:37 PM - Muhammad Omar Farooq: Hm ne simple program bnana hai
+3/26/21, 3:37 PM - Umair 20CP UET: num ko 20 say initiakize kar kay...
+3/26/21, 3:37 PM - Muhammad Omar Farooq: Us mein bs pehle 10 even odd ka sum print krna hai
+3/26/21, 3:38 PM - Muhammad Omar Farooq: Hng
+3/26/21, 3:39 PM - Umair 20CP UET: Abhi is main Kia correction ho sakti hai
+3/26/21, 3:40 PM - Muhammad Omar Farooq: Yeh program ka format mere jesa hai
+3/26/21, 3:41 PM - Umair 20CP UET: But sum even numbers ka 90 ata hai...
+3/26/21, 3:41 PM - Umair 20CP UET: Mera 110 a raha hai..
+3/26/21, 3:42 PM - Muhammad Omar Farooq: Wo to sahi hai. Mein format ki baat kr rha
+3/26/21, 3:42 PM - Umair 20CP UET: Hmm ....
+3/26/21, 3:44 PM - Muhammad Omar Farooq: I ko 0 initialize krona
+3/26/21, 3:45 PM - Umair 20CP UET: Int main: main ya...for main...??
+3/26/21, 3:46 PM - Muhammad Omar Farooq: For mein
+3/26/21, 3:49 PM - Umair 20CP UET: Still same ans..
+3/26/21, 3:50 PM - Muhammad Omar Farooq: I<20 kro
+3/26/21, 3:51 PM - Umair 20CP UET: Bro ..hi gia...
+3/26/21, 3:53 PM - Muhammad Omar Farooq: Is trah
+3/26/21, 3:55 PM - Muhammad Omar Farooq: Yaar jab I <= 20 hoga answer sahi kese aega
+3/26/21, 3:55 PM - Muhammad Omar Farooq: I< num hoga

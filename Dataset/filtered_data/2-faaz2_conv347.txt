@@ -1,0 +1,42 @@
+4/13/21, 10:07 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+4/13/21, 10:07 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is ka use kya ha
+4/13/21, 10:07 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 3, 2 dimensional arrays ka
+4/13/21, 10:14 AM - Muhammad Omar Farooq: Wait let me concentrate
+4/13/21, 10:18 AM - Muhammad Omar Farooq: Yaad krwane mein btaonga
+4/13/21, 10:27 AM - Muhammad Omar Farooq: Meri awaz ai?
+4/13/21, 10:27 AM - Muhammad Omar Farooq: Int sum = 0 ka jo btaya
+4/13/21, 10:33 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yup
+4/13/21, 10:33 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yup
+4/13/21, 10:33 AM - Muhammad Omar Farooq: Ook
+4/13/21, 10:34 AM - Muhammad Omar Farooq: Mujhe lga shaid nahi ayi
+4/13/21, 10:34 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ai ti
+4/13/21, 10:39 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mam kya kar ri han?
+4/13/21, 10:41 AM - Muhammad Omar Farooq: Yeh mene solve kiya tha codewars mein
+4/13/21, 10:41 AM - Muhammad Omar Farooq: Selection sort
+4/13/21, 10:44 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+4/13/21, 10:45 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Concentrate
+4/13/21, 10:45 AM - Muhammad Omar Farooq: Okay
+4/13/21, 10:45 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: What is the use of sort selection
+4/13/21, 10:47 AM - Muhammad Omar Farooq: Pta nahi pr use hoskta kaafi jaghon pr
+4/13/21, 10:47 AM - Muhammad Omar Farooq: Abhi example yaad nahi arhi
+4/13/21, 10:48 AM - Muhammad Omar Farooq: Yeh jo sorting algorithm hai is pr mene 4 5 din lgae
+4/13/21, 10:48 AM - Muhammad Omar Farooq: Figure out krne mein ke sort kese kron sorting algorithm dekhe beghair
+4/13/21, 10:48 AM - Muhammad Omar Farooq: Or ab dekh rha yeh itna easy hai
+4/13/21, 10:57 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mtlb muskil ha?
+4/13/21, 10:57 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oh
+4/13/21, 10:58 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mtlb ham nay dyk liya
+4/13/21, 10:58 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara myri jo assignment ti os may may nay int n; let kiya
+4/13/21, 10:58 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ta
+4/13/21, 10:58 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Lykin bo bi theek ta
+4/13/21, 10:58 AM - Muhammad Omar Farooq: 40 lines of code lagi
+4/13/21, 10:58 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: But Vs may ni ta
+4/13/21, 10:59 AM - Muhammad Omar Farooq: Ook
+4/13/21, 10:59 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: How
+4/13/21, 10:59 AM - Muhammad Omar Farooq: Send kronga
+4/13/21, 10:59 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mam ka rin tin kay ni possible
+4/13/21, 10:59 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: But myra huva dev my
+4/13/21, 11:04 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mid
+4/13/21, 11:06 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Written
+4/13/21, 11:07 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Cheating
+4/13/21, 11:09 AM - Muhammad Omar Farooq: Yaar yeh maam dra rhi
+4/13/21, 11:10 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Han na

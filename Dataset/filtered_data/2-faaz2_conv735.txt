@@ -1,0 +1,21 @@
+6/26/21, 8:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Dosari is py banaon?
+6/26/21, 8:24 PM - Muhammad Omar Farooq: Yup
+6/26/21, 8:32 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yar ab is my kysay samjaon?
+6/26/21, 8:32 PM - Muhammad Omar Farooq: Oo
+6/26/21, 8:32 PM - Muhammad Omar Farooq: Ek second
+6/26/21, 8:35 PM - Muhammad Omar Farooq: \documentclass[12pt, a4paper]{article}
+6/26/21, 8:35 PM - Muhammad Omar Farooq: cp lab proposal ka code
+6/26/21, 8:36 PM - Muhammad Omar Farooq: yeh border ke liye mene ek boht bara section net se copy kiya tha
+6/26/21, 8:36 PM - Muhammad Omar Farooq: \documentclass[12pt, a4paper]{article}
+6/26/21, 8:37 PM - Muhammad Omar Farooq: DLD lab proposal ka code
+6/26/21, 8:37 PM - Muhammad Omar Farooq: is mein error aega agr ap chlao ge
+6/26/21, 8:37 PM - Muhammad Omar Farooq: ek sec
+6/26/21, 8:38 PM - Muhammad Omar Farooq: uetfooter
+6/26/21, 8:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yar
+6/26/21, 8:38 PM - Muhammad Omar Farooq: is name ke sath save krna us folder mein jahan pr latex file hai
+6/26/21, 8:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Myjy Koch ni samja. Ara pata ni q
+6/26/21, 8:38 PM - Muhammad Omar Farooq: uetlogo
+6/26/21, 8:38 PM - Muhammad Omar Farooq: Oo
+6/26/21, 8:38 PM - Muhammad Omar Farooq: abhi phir tension na lo
+6/26/21, 8:39 PM - Muhammad Omar Farooq: is semester ke end pr seekhna
+6/26/21, 8:39 PM - Muhammad Omar Farooq: easy hai

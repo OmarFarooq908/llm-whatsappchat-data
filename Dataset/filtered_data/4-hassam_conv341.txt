@@ -1,0 +1,5 @@
+4/27/22, 12:41 PM - Hassam Malik UET BCE: Bro
+4/27/22, 12:42 PM - Hassam Malik UET BCE: which are the linux partitions??
+4/27/22, 12:44 PM - Hassam Malik UET BCE: i think last 3 primary partitions are linux
+4/27/22, 12:45 PM - Hassam Malik UET BCE: i want to remove kali from dual boot and install it on virtual box as it seems easy for me to work on it
+4/27/22, 12:45 PM - Hassam Malik UET BCE: for documentation as well

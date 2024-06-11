@@ -1,0 +1,26 @@
+2/24/21, 8:55 AM - Muhammad Omar Farooq: 123 awaz smjh nahi ai
+2/24/21, 8:56 AM - Muhammad Omar Farooq: Baaki mene abhi CA ke questions nahi kiye
+2/24/21, 8:56 AM - Muhammad Omar Farooq: Or choti ABC nahi likh skte
+2/24/21, 8:57 AM - Muhammad Omar Farooq: Krne hain abhi
+2/24/21, 8:57 AM - Muhammad Omar Farooq: Sirf ek kiya tha abhi tak
+2/24/21, 8:59 AM - Muhammad Omar Farooq: C?
+2/24/21, 8:59 AM - Muhammad Omar Farooq: CA?
+2/24/21, 9:00 AM - Muhammad Omar Farooq: Abc is liye ki thi take compare krskon input ke sath
+2/24/21, 9:00 AM - Muhammad Omar Farooq: Lekin 123 ko compare krne ka faida nahi
+2/24/21, 9:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: I know but 1234567890
+2/24/21, 9:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ko?
+2/24/21, 9:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Q?
+2/24/21, 9:00 AM - Muhammad Omar Farooq: Kiyon 123 pr formula lge ga
+2/24/21, 9:01 AM - Muhammad Omar Farooq: Numbers pr
+2/24/21, 9:08 AM - Muhammad Omar Farooq: Loop mein if then a skta hai
+2/24/21, 9:09 AM - Muhammad Omar Farooq: Loops bhi a skti hai
+2/24/21, 9:09 AM - Muhammad Omar Farooq: Counter bhi set kr skte ho
+2/24/21, 9:09 AM - Muhammad Omar Farooq: Ke loop itni dafa chle
+2/24/21, 9:09 AM - Muhammad Omar Farooq: Or pointers
+2/24/21, 9:10 AM - Muhammad Omar Farooq: They point towards the memory location of data
+2/24/21, 9:10 AM - Muhammad Omar Farooq: I need to learn these in depth
+2/24/21, 9:11 AM - Muhammad Omar Farooq: Nahi
+2/24/21, 9:11 AM - Muhammad Omar Farooq: Choice hai
+2/24/21, 9:11 AM - Muhammad Omar Farooq: If then lgao ya nahi
+2/24/21, 9:11 AM - Muhammad Omar Farooq: Loop within loop lgana bhi zaroori nahi
+2/24/21, 9:12 AM - Muhammad Omar Farooq: Lekin counter must hai

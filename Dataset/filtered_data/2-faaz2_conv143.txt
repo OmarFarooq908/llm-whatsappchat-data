@@ -1,0 +1,69 @@
+3/6/21, 10:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+3/6/21, 10:40 PM - Muhammad Omar Farooq: Yooo
+3/6/21, 10:41 PM - Muhammad Omar Farooq: Wassup
+3/6/21, 10:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara ya
+3/6/21, 10:44 PM - Muhammad Omar Farooq: Mtlb ke
+3/6/21, 10:44 PM - Muhammad Omar Farooq: 100 se baara number input na le?
+3/6/21, 10:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+3/6/21, 10:45 PM - Muhammad Omar Farooq: Yes?
+3/6/21, 10:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yes
+3/6/21, 10:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya to loop ha na?
+3/6/21, 10:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: My if then valai baat cha ra hun
+3/6/21, 10:52 PM - Muhammad Omar Farooq: Wo nai pta
+3/6/21, 10:52 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Loop bi if say start ni huti.
+3/6/21, 10:53 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: While? Kay baray may samajao
+3/6/21, 10:53 PM - Muhammad Omar Farooq: While ka matlab hai
+3/6/21, 10:53 PM - Muhammad Omar Farooq: While (expression){
+3/6/21, 10:54 PM - Muhammad Omar Farooq: Jab tak expression true hai chalti rhe gi
+3/6/21, 10:54 PM - Muhammad Omar Farooq: Infinite loop ke liye while (true)
+3/6/21, 10:55 PM - Muhammad Omar Farooq: Or is loop mein hum ek khaas event pr break kr skte hain
+3/6/21, 10:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sai
+3/6/21, 10:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya batao
+3/6/21, 10:56 PM - Muhammad Omar Farooq: Jis trah mene line 11-12 pr kiya
+3/6/21, 10:56 PM - Muhammad Omar Farooq: Ke if ye input mile to break the loop
+3/6/21, 10:59 PM - Muhammad Omar Farooq: 🥸
+3/6/21, 11:01 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara i may kusay value store hu ri ha?
+3/6/21, 11:02 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: While say?
+3/6/21, 11:02 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mtlb entries say?
+3/6/21, 11:02 PM - Muhammad Omar Farooq: I mein 1 value thi pehle
+3/6/21, 11:02 PM - Muhammad Omar Farooq: Phir jab bhi loop repeat hota
+3/6/21, 11:02 PM - Muhammad Omar Farooq: 1 add ho Jata i mein
+3/6/21, 11:03 PM - Muhammad Omar Farooq: Jab I 5 ho Jata to loop tun ho jaati
+3/6/21, 11:07 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Lykini loop say kaysay relate hoi ha
+3/6/21, 11:07 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya ni lag ri samaj
+3/6/21, 11:09 PM - Muhammad Omar Farooq: Bus aese smjho
+3/6/21, 11:09 PM - Muhammad Omar Farooq: Ek number ko loop use kr RHA hai
+3/6/21, 11:09 PM - Muhammad Omar Farooq: Number pr operation apply kr rha hai
+3/6/21, 11:09 PM - Muhammad Omar Farooq: Blke mein ghlt bol rha hoon
+3/6/21, 11:10 PM - Muhammad Omar Farooq: Programming krte rho ge yeh smjh ani shuru hi jai go
+3/6/21, 11:10 PM - Muhammad Omar Farooq: IA
+3/6/21, 11:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is ki ya papi myjy bot tharki vali lag ti ha
+3/6/21, 11:12 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Myjya kya suggest karty hu is task may k6a karon
+3/6/21, 11:12 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Tast 2 may
+3/6/21, 11:13 PM - Muhammad Omar Farooq: Temperature wala?
+3/6/21, 11:14 PM - Muhammad Omar Farooq: C++ lab 2.docx wala task 2?
+3/6/21, 11:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ni
+3/6/21, 11:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Average marks vala
+3/6/21, 11:16 PM - Muhammad Omar Farooq: Oo
+3/6/21, 11:17 PM - Muhammad Omar Farooq: Us pe to
+3/6/21, 11:17 PM - Muhammad Omar Farooq: Yaar
+3/6/21, 11:17 PM - Muhammad Omar Farooq: Mene khap lgai
+3/6/21, 11:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oh hu
+3/6/21, 11:18 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara ap nay 10 tareeqay bata diyn hn
+3/6/21, 11:18 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: On may sy my kon sa kar lon
+3/6/21, 11:18 PM - Muhammad Omar Farooq: Koi sa bhi
+3/6/21, 11:18 PM - Muhammad Omar Farooq: Seekho ge sab mein
+3/6/21, 11:19 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kis baray my ya baat kar ra ha ? Samaj ni ari
+3/6/21, 11:20 PM - Muhammad Omar Farooq: Vector use kiya is mein
+3/6/21, 11:21 PM - Muhammad Omar Farooq: For dynamic variables
+3/6/21, 11:21 PM - Muhammad Omar Farooq: Ap aese kro
+3/6/21, 11:21 PM - Muhammad Omar Farooq: Yeh use maaro
+3/6/21, 11:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yar bs uni.kolny do
+3/6/21, 11:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Bs
+3/6/21, 11:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Uni kol jaya
+3/6/21, 11:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Abi transfer rate kafi kaam ha bro
+3/6/21, 11:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Uni koly gi to ssg lag jay gi myj my inshallah
+3/6/21, 11:26 PM - Muhammad Omar Farooq: Ssg?
+3/6/21, 11:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: SSD hard disk bro
+3/6/21, 11:27 PM - Muhammad Omar Farooq: Best
+3/6/21, 11:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: https://www.facebook.com/1606545432947544/posts/2723206914614718/

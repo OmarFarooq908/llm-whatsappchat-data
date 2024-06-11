@@ -1,0 +1,132 @@
+9/28/21, 9:52 PM - Muhammad Omar Farooq: Yo Faaz yaara
+9/28/21, 9:52 PM - Muhammad Omar Farooq: Where are you
+9/28/21, 9:53 PM - Muhammad Omar Farooq: Yeh table 3 ka btao
+9/28/21, 9:53 PM - Muhammad Omar Farooq: EC lab
+9/28/21, 9:53 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ap kya kar ry hu?
+9/28/21, 9:53 PM - Muhammad Omar Farooq: EC lab
+9/28/21, 9:53 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: hamza or ap dono EC py kaam kar ry hu?
+9/28/21, 9:53 PM - Muhammad Omar Farooq: Yup
+9/28/21, 9:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: jani abi to report py full energy mar ra hun
+9/28/21, 9:55 PM - Muhammad Omar Farooq: Maaro maaro yaar
+9/28/21, 9:55 PM - Muhammad Omar Farooq: Baad mein krte
+9/28/21, 9:56 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: myjy batay na kay ap dono ny kya kiya
+9/28/21, 9:56 PM - Muhammad Omar Farooq: Sahi hogya
+9/28/21, 10:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: janin
+9/28/21, 10:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: kitny pages ki bani ?
+9/28/21, 10:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: report
+9/28/21, 10:07 PM - Muhammad Omar Farooq: 25 almost
+9/28/21, 10:07 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: kya kya kiya?
+9/28/21, 10:08 PM - Muhammad Omar Farooq: Bs code likha
+9/28/21, 10:08 PM - Muhammad Omar Farooq: Test cases
+9/28/21, 10:08 PM - Muhammad Omar Farooq: Comparison
+9/28/21, 10:08 PM - Muhammad Omar Farooq: Comments
+9/28/21, 10:08 PM - Muhammad Omar Farooq: Conclusion
+9/28/21, 10:08 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Test cases kitny diyan?
+9/28/21, 10:09 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: or ak do dikao
+9/28/21, 10:09 PM - Muhammad Omar Farooq: 8 test cases
+9/28/21, 10:09 PM - Muhammad Omar Farooq: 🤖
+9/28/21, 10:09 PM - Muhammad Omar Farooq: Kam hain?
+9/28/21, 10:09 PM - Muhammad Omar Farooq: Hokey
+9/28/21, 10:10 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: boot han yar
+9/28/21, 10:10 PM - Muhammad Omar Farooq: Oo
+9/28/21, 10:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: test case sato ak do pir my dyk kar end karon apni
+9/28/21, 10:13 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: time kysay dikatyn hn?
+9/28/21, 10:13 PM - Muhammad Omar Farooq: Function hota time ka library hondi
+9/28/21, 10:13 PM - Muhammad Omar Farooq: Chrono ki
+9/28/21, 10:13 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: daso sai nal
+9/28/21, 10:15 PM - Muhammad Omar Farooq: Smjh ai?
+9/28/21, 10:15 PM - Muhammad Omar Farooq: Nahi ai to google maarso Chrono ki
+9/28/21, 10:15 PM - Muhammad Omar Farooq: Easy hai
+9/28/21, 10:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: vohi soch ra hun
+9/28/21, 10:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sec ka bato
+9/28/21, 10:25 PM - Muhammad Omar Farooq: Yaara mujhe bhi Chrono ka sahi idea nahi hai 🤖
+9/28/21, 10:25 PM - Muhammad Omar Farooq: Google se liya?
+9/28/21, 10:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: han
+9/28/21, 10:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lykin erroe dy ra ha
+9/28/21, 10:28 PM - Muhammad Omar Farooq: Kuch hoa?
+9/28/21, 10:29 PM - Muhammad Omar Farooq: Yup
+9/28/21, 10:30 PM - Muhammad Omar Farooq: Pr yeh pure program ka time hai
+9/28/21, 10:30 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: to mtlb myra code theek ni ha  na?
+9/28/21, 10:30 PM - Muhammad Omar Farooq: Chrono set of instructions ka time kadta
+9/28/21, 10:30 PM - Muhammad Omar Farooq: Wese or bhi functions hain is trah ke or bhi dekhna wrna sir copy ka shuba na lgaen
+9/28/21, 10:31 PM - Muhammad Omar Farooq: Yup
+9/28/21, 10:31 PM - Muhammad Omar Farooq: ek sec
+9/28/21, 10:31 PM - Muhammad Omar Farooq: or functions dhondta hoon
+9/28/21, 10:33 PM - Muhammad Omar Farooq: Apke kitne pages lge?
+9/28/21, 10:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yar my ny 2 pictures lagain hna  or baqi lika ha
+9/28/21, 10:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 5 pages
+9/28/21, 10:34 PM - Muhammad Omar Farooq: #include <stdio.h>
+9/28/21, 10:34 PM - Muhammad Omar Farooq: yeh dekho
+9/28/21, 10:34 PM - Muhammad Omar Farooq: execution time ki example
+9/28/21, 10:34 PM - Muhammad Omar Farooq: ek second mein dekhta isko
+9/28/21, 10:35 PM - Muhammad Omar Farooq: sab se pehle header mein include krao
+9/28/21, 10:35 PM - Muhammad Omar Farooq: #include <time.h>
+9/28/21, 10:35 PM - Muhammad Omar Farooq: phir algorithm ke start se bilkul pehle
+9/28/21, 10:35 PM - Muhammad Omar Farooq: yeh likhna
+9/28/21, 10:35 PM - Muhammad Omar Farooq: clock_t start = clock();
+9/28/21, 10:36 PM - Muhammad Omar Farooq: phir algorithm aega
+9/28/21, 10:36 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: main kay>?
+9/28/21, 10:36 PM - Muhammad Omar Farooq: algorithm ke foran baad yeh aega
+9/28/21, 10:36 PM - Muhammad Omar Farooq: double elapsed = double(end - start)/CLOCKS_PER_SEC;
+9/28/21, 10:36 PM - Muhammad Omar Farooq: yup
+9/28/21, 10:37 PM - Muhammad Omar Farooq: sorry yeh nahi
+9/28/21, 10:37 PM - Muhammad Omar Farooq: clock_t end = clock();
+9/28/21, 10:37 PM - Muhammad Omar Farooq: yeh
+9/28/21, 10:37 PM - Muhammad Omar Farooq: easy scene
+9/28/21, 10:38 PM - Muhammad Omar Farooq: hoa?
+9/28/21, 10:39 PM - Muhammad Omar Farooq: algorithm ka end dekhao
+9/28/21, 10:39 PM - Muhammad Omar Farooq: clock_t end = clock();
+9/28/21, 10:41 PM - Muhammad Omar Farooq: clock_t start = clock(); 
+9/28/21, 10:41 PM - Muhammad Omar Farooq: kiyonke while mein binary search kr rha hai uska execution time hamare liye important hai
+9/28/21, 10:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ak sec
+9/28/21, 10:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: samj lagi
+9/28/21, 10:42 PM - Muhammad Omar Farooq: clock_t end = clock();
+9/28/21, 10:42 PM - Muhammad Omar Farooq: Oo
+9/28/21, 10:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yahi kiya
+9/28/21, 10:43 PM - Muhammad Omar Farooq: xD
+9/28/21, 10:43 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lykin shoew ni huva
+9/28/21, 10:43 PM - Muhammad Omar Farooq: cout krao elapsed
+9/28/21, 10:43 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: oris say bi ni hu ra
+9/28/21, 10:44 PM - Muhammad Omar Farooq: yeh likha pura c mein hai is liya yeh sara udhr execute nahi hoga
+9/28/21, 10:44 PM - Muhammad Omar Farooq: iske kuch chunks jo mene diye hain wo chal jaenge
+9/28/21, 10:44 PM - Muhammad Omar Farooq: hoa ab?
+9/28/21, 10:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include <time.h>
+9/28/21, 10:47 PM - Muhammad Omar Farooq: #include <time.h>
+9/28/21, 10:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: xD
+9/28/21, 10:49 PM - Muhammad Omar Farooq: :D
+9/28/21, 10:50 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 0 sec show kaar ra ha
+9/28/21, 10:50 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: mili my kysay kartyn h n?
+9/28/21, 10:51 PM - Muhammad Omar Farooq: wohi yaar dekh rha
+9/28/21, 10:54 PM - Muhammad Omar Farooq: #include <time.h>
+9/28/21, 10:58 PM - Muhammad Omar Farooq: #include <time.h>
+9/28/21, 10:58 PM - Muhammad Omar Farooq: in nano seconds
+9/28/21, 10:59 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: hahaha
+9/28/21, 10:59 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: bara sa 100000
+9/28/21, 10:59 PM - Muhammad Omar Farooq: lab kab krni ec ki
+9/28/21, 10:59 PM - Muhammad Omar Farooq: lol
+9/28/21, 10:59 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: abi bind up kar ra hun
+9/28/21, 10:59 PM - Muhammad Omar Farooq: yaar yeh mujhe theek nahi lag rha
+9/28/21, 10:59 PM - Muhammad Omar Farooq: chrono nahi chala phir
+9/28/21, 11:00 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: os ki samj ni ai
+9/28/21, 11:00 PM - Muhammad Omar Farooq: mujhe khud mene kahin se dekha tha xD
+9/28/21, 11:00 PM - Muhammad Omar Farooq: time hi boht lag rha tha is pr
+9/28/21, 11:00 PM - Muhammad Omar Farooq: aaj to nahi?
+9/28/21, 11:02 PM - Muhammad Omar Farooq: btao yaar
+9/28/21, 11:03 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: abi submit karny laga hun
+9/28/21, 11:03 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: pir namaz
+9/28/21, 11:04 PM - Muhammad Omar Farooq: phir sona?
+9/28/21, 11:04 PM - Muhammad Omar Farooq: ya EC?
+9/28/21, 11:05 PM - Muhammad Omar Farooq: wut is the plan
+9/28/21, 11:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya dyko or bato
+9/28/21, 11:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: abu ny kaha ta kay chahiya abi call py han
+9/28/21, 11:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: agar mang liya then sona nahi to EC
+9/28/21, 11:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya daso
+9/28/21, 11:07 PM - Muhammad Omar Farooq: yaar level ki bani hai MashAllah
+9/28/21, 11:07 PM - Muhammad Omar Farooq: formatting and content
+9/28/21, 11:07 PM - Muhammad Omar Farooq: bus length thori kam thi shaid
+9/28/21, 11:07 PM - Muhammad Omar Farooq: Baaki kaafi acchi bani hai
+9/28/21, 11:08 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: submit karon
+9/28/21, 11:08 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ap ka kya palan ha?
+9/28/21, 11:10 PM - Muhammad Omar Farooq: Test cases ziyada kr skte to kr do
+9/28/21, 11:10 PM - Muhammad Omar Farooq: Wrna theek hai
+9/28/21, 11:30 PM - Muhammad Omar Farooq: Sone lage?

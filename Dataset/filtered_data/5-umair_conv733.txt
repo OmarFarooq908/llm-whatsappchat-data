@@ -1,0 +1,5 @@
+7/25/22, 3:59 PM - Umair 20CP UET: Umer bro Node.js backend kay liay hoti hai...??
+7/25/22, 3:59 PM - Umair 20CP UET: Aur Mongo aur mongoose kis liay use hoti hai..???
+7/25/22, 4:00 PM - Umair 20CP UET: And what is difference between node.js and react.js...?
+7/25/22, 4:08 PM - Umair 20CP UET: Oks..thanks bero..
+7/25/22, 4:10 PM - Muhammad Omar Farooq: Np

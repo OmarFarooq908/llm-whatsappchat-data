@@ -1,0 +1,16 @@
+2/23/21, 9:18 PM - Muhammad Omar Farooq: Syntax aesa hai
+2/23/21, 9:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: baiya int jo ha vo bi storage kay liya huta ha
+2/23/21, 9:26 PM - Muhammad Omar Farooq: Int is a data type declaration
+2/23/21, 9:26 PM - Muhammad Omar Farooq: Int main mein int ka kaam abhi nahi pta
+2/23/21, 9:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya ni ka ra ta kal jo parhaya ta loop vala os ki baat kar ra ta
+2/23/21, 9:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: means?
+2/23/21, 9:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: voice note
+2/23/21, 9:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: samj ni lagi
+2/23/21, 9:57 PM - Muhammad Omar Farooq: Ohh
+2/23/21, 9:57 PM - Muhammad Omar Farooq: Oks
+2/23/21, 9:57 PM - Muhammad Omar Farooq: Wo github pe pra hai
+2/23/21, 9:57 PM - Muhammad Omar Farooq: GitHub.com/omarfarooq908
+2/23/21, 9:58 PM - Muhammad Omar Farooq: Base n to Base 10
+2/23/21, 9:58 PM - Muhammad Omar Farooq: Idhr jaana
+2/23/21, 9:58 PM - Muhammad Omar Farooq: Yes krdo
+2/23/21, 10:10 PM - Muhammad Omar Farooq: Bus yaar aaj kal ghar ke kaam

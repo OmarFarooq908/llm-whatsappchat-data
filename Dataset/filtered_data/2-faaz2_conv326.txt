@@ -1,0 +1,37 @@
+4/9/21, 2:08 PM - Muhammad Omar Farooq: Yoo
+4/9/21, 2:08 PM - Muhammad Omar Farooq: Jummah prhne gaya tha
+4/9/21, 2:09 PM - Muhammad Omar Farooq: Ab masle pr update maaro
+4/9/21, 2:09 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ai update
+4/9/21, 2:10 PM - Muhammad Omar Farooq: Show line 70 to 76
+4/9/21, 2:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: let me send code]'
+4/9/21, 2:13 PM - Muhammad Omar Farooq: Array initialize ki?
+4/9/21, 2:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sb kiya
+4/9/21, 2:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include <iostream>
+4/9/21, 2:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: check maro
+4/9/21, 2:17 PM - Muhammad Omar Farooq: What are you trying to do
+4/9/21, 2:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 😳
+4/9/21, 2:19 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: koch ni
+4/9/21, 2:20 PM - Muhammad Omar Farooq: Nahi matlab krna kya chah rhe
+4/9/21, 2:20 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: game bana ra ra
+4/9/21, 2:21 PM - Muhammad Omar Farooq: Matlab is block mein
+4/9/21, 2:21 PM - Muhammad Omar Farooq: Ek sec
+4/9/21, 2:21 PM - Muhammad Omar Farooq: Code dekhta
+4/9/21, 2:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ak block to ni ha ma
+4/9/21, 2:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: bot saryn hn
+4/9/21, 2:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: kon say block ko touch kar ry hu?
+4/9/21, 2:22 PM - Muhammad Omar Farooq: yeh pori game send ki?
+4/9/21, 2:22 PM - Muhammad Omar Farooq: O_O
+4/9/21, 2:22 PM - Muhammad Omar Farooq: phir sahi
+4/9/21, 2:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: jitna kaam may nay kiya vo sara send kiya
+4/9/21, 2:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: abi 1 2 part rahtyn hn
+4/9/21, 2:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: os say phaly vala theek karna cha ra hun
+4/9/21, 2:23 PM - Muhammad Omar Farooq: Ok wait
+4/9/21, 2:24 PM - Muhammad Omar Farooq: #include <iostream>
+4/9/21, 2:24 PM - Muhammad Omar Farooq: oO
+4/9/21, 2:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: bug theek huvay?
+4/9/21, 2:26 PM - Muhammad Omar Farooq: Yup
+4/9/21, 2:27 PM - Muhammad Omar Farooq: Or koi hai
+4/9/21, 2:27 PM - Muhammad Omar Farooq: Mein dekhta wesa
+4/9/21, 2:31 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya ha
+4/9/21, 2:31 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: jo theek hony ka nam hi ni ly ra
+4/9/21, 2:31 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is kay bad ak or bi ha

@@ -1,0 +1,36 @@
+7/13/21, 9:43 PM - Muhammad Omar Farooq: Iska output kya tha?
+7/13/21, 9:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Fine to ni hu sakti yar
+7/13/21, 9:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ksisi surat my bi
+7/13/21, 9:44 PM - Muhammad Omar Farooq: Apne kya likha hai?
+7/13/21, 9:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Final ha?
+7/13/21, 9:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: CP?
+7/13/21, 9:45 PM - Muhammad Omar Farooq: Aho
+7/13/21, 9:47 PM - Muhammad Omar Farooq: Run krke dekha tha?
+7/13/21, 9:47 PM - Muhammad Omar Farooq: Yeh kiyon aarha hai phir?
+7/13/21, 9:49 PM - Muhammad Omar Farooq: include <iostream>
+7/13/21, 9:49 PM - Muhammad Omar Farooq: yeh run krke dekhna
+7/13/21, 9:49 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Abi laptop py ni hun
+7/13/21, 9:49 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ak min
+7/13/21, 9:50 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include<iostream>
+7/13/21, 9:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya ran maros
+7/13/21, 9:51 PM - Muhammad Omar Farooq: Yeh kiyon run maarna yaara
+7/13/21, 9:51 PM - Muhammad Omar Farooq: Yeh given code tha ya nahi?
+7/13/21, 10:05 PM - Muhammad Omar Farooq: Yo
+7/13/21, 10:05 PM - Muhammad Omar Farooq: Ap bhi run krke dekhna subha
+7/13/21, 10:06 PM - Muhammad Omar Farooq: Yeh Linux ki wajah se na ho
+7/13/21, 10:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: https://youtu.be/_1rLzt2gVoc
+7/13/21, 10:06 PM - Muhammad Omar Farooq: Yeh web pr hai. Pr iske back end pr bhi most likely Linux hi honi hai
+7/13/21, 10:13 PM - Muhammad Omar Farooq: Web servers run on Linux as far as I know
+7/13/21, 10:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yup
+7/13/21, 10:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: CF my parha ta
+7/13/21, 10:14 PM - Muhammad Omar Farooq: Oo
+7/13/21, 10:14 PM - Muhammad Omar Farooq: I forgot it
+7/13/21, 10:14 PM - Muhammad Omar Farooq: Chapter yaad hai?
+7/13/21, 10:14 PM - Muhammad Omar Farooq: Networks wala?
+7/13/21, 10:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sir ny batay ta
+7/13/21, 10:16 PM - Muhammad Omar Farooq: Oo
+7/13/21, 10:16 PM - Muhammad Omar Farooq: Oo
+7/13/21, 10:16 PM - Muhammad Omar Farooq: Wow
+7/13/21, 10:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: mac ka bi esa hi koch kaha  ta  ig
+7/13/21, 10:17 PM - Muhammad Omar Farooq: Sir ki baaten bhi yaad hain MashAllah yaar
+7/13/21, 10:17 PM - Muhammad Omar Farooq: Dev pr chal kr dekhna

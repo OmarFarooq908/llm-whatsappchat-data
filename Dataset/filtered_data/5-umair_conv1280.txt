@@ -1,0 +1,24 @@
+8/1/23, 11:20 PM - Muhammad Omar Farooq: Bro scrapping mein help chahiye hoi to btana
+8/1/23, 11:20 PM - Umair 20CP UET: ok bro..
+8/1/23, 11:20 PM - Umair 20CP UET: ap nay kin chezioon ki ki hui hai..?
+8/1/23, 11:21 PM - Muhammad Omar Farooq: Google careers
+8/1/23, 11:21 PM - Muhammad Omar Farooq: Leetcode
+8/1/23, 11:21 PM - Muhammad Omar Farooq: In websites ki
+8/1/23, 11:22 PM - Muhammad Omar Farooq: Scrap kya krna hai?
+8/1/23, 11:22 PM - Umair 20CP UET: heavy..
+8/1/23, 11:25 PM - Umair 20CP UET: yes...
+8/1/23, 11:25 PM - Umair 20CP UET: Login wala issue nahi agey dropdown ka rola a raha hai..
+8/1/23, 11:27 PM - Umair 20CP UET: Ap kis company ka sath kar rahey ho ..?
+8/1/23, 11:28 PM - Muhammad Omar Farooq: LGM
+8/1/23, 11:29 PM - Muhammad Omar Farooq: Yaar yeh internship kese mili
+8/1/23, 11:30 PM - Muhammad Omar Farooq: Yeh ziyada maze ki lag rhi hai
+8/1/23, 11:30 PM - Muhammad Omar Farooq: Login ke baad hai drop down?
+8/1/23, 11:31 PM - Muhammad Omar Farooq: Drop down kis trah implemented hai? Java script se ya phir statically implemented hai?
+8/1/23, 11:32 PM - Umair 20CP UET: yes..
+8/1/23, 11:32 PM - Umair 20CP UET: statically hi hai..div main ..
+8/1/23, 11:35 PM - Muhammad Omar Farooq: Drop down se kuch select krna hai? Ya phir yahan se data scrap?
+8/1/23, 11:39 PM - Umair 20CP UET: dropdown say click kar kay dosray sheet / page per Janay hai...scrapping baad main..
+8/2/23, 12:01 AM - Muhammad Omar Farooq: Oks
+8/2/23, 12:02 AM - Muhammad Omar Farooq: Phir dekho ke links honge tags mein, wo extract kr lo
+8/2/23, 12:02 AM - Muhammad Omar Farooq: Phir selenium use krna
+8/2/23, 12:04 AM - Umair 20CP UET: ok..

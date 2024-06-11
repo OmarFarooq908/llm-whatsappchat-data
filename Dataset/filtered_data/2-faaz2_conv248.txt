@@ -1,0 +1,225 @@
+3/22/21, 10:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+3/22/21, 10:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ak masla ha
+3/22/21, 10:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kya kar ry hu?
+3/22/21, 10:40 PM - Muhammad Omar Farooq: chapter 8 CA
+3/22/21, 10:41 PM - Muhammad Omar Farooq: hbu
+3/22/21, 10:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kidar say?
+3/22/21, 10:41 PM - Muhammad Omar Farooq: book se
+3/22/21, 10:41 PM - Muhammad Omar Farooq: e ki?
+3/22/21, 10:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: After time equal to 0 IL will be equal to -Io
+3/22/21, 10:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is it?
+3/22/21, 10:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Task 1
+3/22/21, 10:42 PM - Muhammad Omar Farooq: task 1
+3/22/21, 10:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Assignment Q 1
+3/22/21, 10:42 PM - Muhammad Omar Farooq: ok let me see the solution
+3/22/21, 10:43 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ak ki galti lag ri
+3/22/21, 10:43 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Myjy shaid
+3/22/21, 10:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hn batao
+3/22/21, 10:45 PM - Muhammad Omar Farooq: acha
+3/22/21, 10:46 PM - Muhammad Omar Farooq: yes
+3/22/21, 10:46 PM - Muhammad Omar Farooq: sahi keh rhe
+3/22/21, 10:46 PM - Muhammad Omar Farooq: blke no
+3/22/21, 10:46 PM - Muhammad Omar Farooq: kiyonke
+3/22/21, 10:46 PM - Muhammad Omar Farooq: circuit mein inductor hai
+3/22/21, 10:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ky
+3/22/21, 10:47 PM - Muhammad Omar Farooq: to inductor steady state mein hoga is se pehle
+3/22/21, 10:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pir
+3/22/21, 10:47 PM - Muhammad Omar Farooq: to jo us mein current hogi
+3/22/21, 10:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hn
+3/22/21, 10:47 PM - Muhammad Omar Farooq: wo abruptly change nahi hogi
+3/22/21, 10:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pir
+3/22/21, 10:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hn
+3/22/21, 10:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pir
+3/22/21, 10:47 PM - Muhammad Omar Farooq: to
+3/22/21, 10:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: To
+3/22/21, 10:47 PM - Muhammad Omar Farooq: t < 0 pr
+3/22/21, 10:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pr
+3/22/21, 10:47 PM - Muhammad Omar Farooq: unki currents change hongi
+3/22/21, 10:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kin ki?
+3/22/21, 10:48 PM - Muhammad Omar Farooq: inductor or resistor ki
+3/22/21, 10:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Resistor ki
+3/22/21, 10:48 PM - Muhammad Omar Farooq: 6 ohm resistor or 1 H inductor
+3/22/21, 10:49 PM - Muhammad Omar Farooq: mtlb ek dosre se mukhtalif hongi
+3/22/21, 10:50 PM - Muhammad Omar Farooq: circuit dekhana
+3/22/21, 10:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Dyko
+3/22/21, 10:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: My batao
+3/22/21, 10:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ap nay step say kiya ta?
+3/22/21, 10:52 PM - Muhammad Omar Farooq: differential se
+3/22/21, 10:52 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Os may huta ha kay k2= Io(+0) - i(infinity)
+3/22/21, 10:52 PM - Muhammad Omar Farooq: oO
+3/22/21, 10:52 PM - Muhammad Omar Farooq: yus
+3/22/21, 10:52 PM - Muhammad Omar Farooq: right
+3/22/21, 10:53 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Then it should bi 4
+3/22/21, 10:53 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sorry 3
+3/22/21, 10:53 PM - Muhammad Omar Farooq: yus
+3/22/21, 10:53 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is it?
+3/22/21, 10:53 PM - Muhammad Omar Farooq: nahi blke 2 ke nahi?
+3/22/21, 10:53 PM - Muhammad Omar Farooq: mera to answer 2 araha
+3/22/21, 10:53 PM - Muhammad Omar Farooq: io(t)
+3/22/21, 10:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Resistance ka current + or - equal ni huta inductor ki tarahan
+3/22/21, 10:54 PM - Muhammad Omar Farooq: yus
+3/22/21, 10:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: If you have timee then
+3/22/21, 10:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Solve it with step approch
+3/22/21, 10:54 PM - Muhammad Omar Farooq: ki cheeze
+3/22/21, 10:54 PM - Muhammad Omar Farooq: yes sir
+3/22/21, 10:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Choro chap 8 ko
+3/22/21, 10:55 PM - Muhammad Omar Farooq: ok ho gya abhi krta hoon
+3/22/21, 10:59 PM - Muhammad Omar Farooq: Ok mein krta
+3/22/21, 10:59 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kya?
+3/22/21, 10:59 PM - Muhammad Omar Farooq: assignment question step by step
+3/22/21, 11:01 PM - Muhammad Omar Farooq: Yo
+3/22/21, 11:02 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hn na 2say start hu ga
+3/22/21, 11:02 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ak dam -3  my jay ga. Due to inductor storing current
+3/22/21, 11:03 PM - Muhammad Omar Farooq: Pr slader or multisim kuch or keh rhe
+3/22/21, 11:03 PM - Muhammad Omar Farooq: Plot krke dekha hai?
+3/22/21, 11:03 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Dikao
+3/22/21, 11:03 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mayjy
+3/22/21, 11:03 PM - Muhammad Omar Farooq: Solution send maaro apna
+3/22/21, 11:03 PM - Muhammad Omar Farooq: Okay
+3/22/21, 11:04 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+3/22/21, 11:04 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+3/22/21, 11:06 PM - Muhammad Omar Farooq: Yo
+3/22/21, 11:06 PM - Muhammad Omar Farooq: Sabrun dhundhne do
+3/22/21, 11:13 PM - Muhammad Omar Farooq: Nahi mila
+3/22/21, 11:13 PM - Muhammad Omar Farooq: Apna solution dekhao
+3/22/21, 11:13 PM - Muhammad Omar Farooq: Pura
+3/22/21, 11:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Bs
+3/22/21, 11:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yahi ta
+3/22/21, 11:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Myra baqi ap batao
+3/22/21, 11:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Correction
+3/22/21, 11:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: As multisim
+3/22/21, 11:24 PM - Muhammad Omar Farooq: Time t = 0 pr 2 hai
+3/22/21, 11:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Or t just positive pay?
+3/22/21, 11:25 PM - Muhammad Omar Farooq: Yus
+3/22/21, 11:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Slader dikao
+3/22/21, 11:25 PM - Muhammad Omar Farooq: Slader bhai nahi mila
+3/22/21, 11:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Step say kiya?
+3/22/21, 11:25 PM - Muhammad Omar Farooq: Mene to differential se
+3/22/21, 11:26 PM - Muhammad Omar Farooq: Step se kiya ap ne?
+3/22/21, 11:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara step say kar kay try karo na
+3/22/21, 11:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ni
+3/22/21, 11:26 PM - Muhammad Omar Farooq: Ek kaam kren
+3/22/21, 11:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Step say 3 ata ha
+3/22/21, 11:26 PM - Muhammad Omar Farooq: S4s mein sutton?
+3/22/21, 11:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: -3
+3/22/21, 11:26 PM - Muhammad Omar Farooq: Paki baaat?
+3/22/21, 11:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Han na
+3/22/21, 11:28 PM - Muhammad Omar Farooq: Okd
+3/22/21, 11:40 PM - Muhammad Omar Farooq: Yaar sahi keh rhe
+3/22/21, 11:40 PM - Muhammad Omar Farooq: -3
+3/22/21, 11:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: How
+3/22/21, 11:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: S4S say khabar ai?
+3/22/21, 11:41 PM - Muhammad Omar Farooq: Step by step
+3/22/21, 11:41 PM - Muhammad Omar Farooq: Like this
+3/22/21, 11:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Concept ka pata laga?
+3/22/21, 11:41 PM - Muhammad Omar Farooq: Nai
+3/22/21, 11:41 PM - Muhammad Omar Farooq: Mene submit kra diya
+3/22/21, 11:41 PM - Muhammad Omar Farooq: Graph bna diya
+3/22/21, 11:41 PM - Muhammad Omar Farooq: Ab phir krna prega
+3/22/21, 11:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ni.na
+3/22/21, 11:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Last say hi change karna
+3/22/21, 11:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ha na
+3/22/21, 11:42 PM - Muhammad Omar Farooq: Kya?
+3/22/21, 11:42 PM - Muhammad Omar Farooq: Oh haan
+3/22/21, 11:44 PM - Muhammad Omar Farooq: Ab dekho mein kya krta
+3/22/21, 11:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Doctor
+3/22/21, 11:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Constant
+3/22/21, 11:47 PM - Muhammad Omar Farooq: Kya hoa 😂
+3/22/21, 11:47 PM - Muhammad Omar Farooq: Doctor ap ho ap bta rhe sab
+3/22/21, 11:50 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: https://youtu.be/YXHrvJHwBq8
+3/23/21, 12:04 AM - Muhammad Omar Farooq: Yaar yeh graph kese plot kya
+3/23/21, 12:05 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kom sa
+3/23/21, 12:05 AM - Muhammad Omar Farooq: Q1
+3/23/21, 12:05 AM - Muhammad Omar Farooq: You deleted this message
+3/23/21, 12:06 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Y
+3/23/21, 12:06 AM - Muhammad Omar Farooq: Haan kese
+3/23/21, 12:06 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Switch
+3/23/21, 12:06 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Bro switch
+3/23/21, 12:06 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Change it
+3/23/21, 12:06 AM - Muhammad Omar Farooq: Acha
+3/23/21, 12:08 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya no ha
+3/23/21, 12:08 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Switch dikao
+3/23/21, 12:09 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Analysis kolo
+3/23/21, 12:09 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Odar max time step ka option ha
+3/23/21, 12:09 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Osay check karo
+3/23/21, 12:09 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Or timee thora 5 sec kar lo
+3/23/21, 12:10 AM - Muhammad Omar Farooq: No change
+3/23/21, 12:10 AM - Muhammad Omar Farooq: Aaj bs yehi hoba
+3/23/21, 12:11 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Be patiant
+3/23/21, 12:12 AM - Muhammad Omar Farooq: Kese kron bnd krke open?
+3/23/21, 12:13 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Esay
+3/23/21, 12:13 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ak min
+3/23/21, 12:13 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Video ai bs
+3/23/21, 12:13 AM - Muhammad Omar Farooq: Oo
+3/23/21, 12:15 AM - Muhammad Omar Farooq: Lub u hogya
+3/23/21, 12:30 AM - Muhammad Omar Farooq: Submit kra di?
+3/23/21, 12:30 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ni
+3/23/21, 12:30 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 2nd graph
+3/23/21, 12:30 AM - Muhammad Omar Farooq: Wo dekhana Kesa hai
+3/23/21, 12:30 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hamza bi laga va
+3/23/21, 12:31 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Blue
+3/23/21, 12:31 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kapry
+3/23/21, 12:31 AM - Muhammad Omar Farooq: Group mein ao
+3/23/21, 12:31 AM - Muhammad Omar Farooq: The kapra
+3/23/21, 12:31 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is ko curve banao
+3/23/21, 12:32 AM - Muhammad Omar Farooq: Oo
+3/23/21, 12:51 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sai ha?
+3/23/21, 12:53 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ni sai?
+3/23/21, 12:54 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 🤕
+3/23/21, 12:54 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Batao na
+3/23/21, 12:54 AM - Muhammad Omar Farooq: Sai hai
+3/23/21, 12:54 AM - Muhammad Omar Farooq: Shaid
+3/23/21, 12:54 AM - Muhammad Omar Farooq: Yaar
+3/23/21, 12:55 AM - Muhammad Omar Farooq: Sahi graph bna rhe
+3/23/21, 12:55 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Apna sato
+3/23/21, 12:59 AM - Muhammad Omar Farooq: Faaz yaar
+3/23/21, 12:59 AM - Muhammad Omar Farooq: Multisim wala graph dekhao
+3/23/21, 12:59 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Gi
+3/23/21, 12:59 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ok
+3/23/21, 1:00 AM - Muhammad Omar Farooq: Acha
+3/23/21, 1:00 AM - Muhammad Omar Farooq: Theek hogya
+3/23/21, 1:18 AM - Muhammad Omar Farooq: Sai hai?
+3/23/21, 1:24 AM - Muhammad Omar Farooq: Bolo kuch
+3/23/21, 1:25 AM - Muhammad Omar Farooq: yo
+3/23/21, 1:29 AM - Muhammad Omar Farooq: Tun to nahi ho gae?
+3/23/21, 1:33 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Tusi tun hu gy
+3/23/21, 1:33 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+3/23/21, 1:33 AM - Muhammad Omar Farooq: Mein to idhr hi hoon
+3/23/21, 1:33 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hm
+3/23/21, 1:34 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Check marna
+3/23/21, 1:34 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ki kar ry?
+3/23/21, 1:34 AM - Muhammad Omar Farooq: Kya
+3/23/21, 1:34 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: So jao
+3/23/21, 1:35 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya
+3/23/21, 1:35 AM - Muhammad Omar Farooq: Ok
+3/23/21, 1:35 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hn na
+3/23/21, 1:35 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Goliyan marty hu ap
+3/23/21, 1:35 AM - Muhammad Omar Farooq: Kya matlab
+3/23/21, 1:35 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Dil dhak dhak huta
+3/23/21, 1:36 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Itna,party
+3/23/21, 1:36 AM - Muhammad Omar Farooq: Kamal bnai hai
+3/23/21, 1:36 AM - Muhammad Omar Farooq: MashAllah ♥️ pehla question especially
+3/23/21, 1:36 AM - Muhammad Omar Farooq: Nai yaara slow prhta
+3/23/21, 1:37 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Abi so jao yara
+3/23/21, 1:37 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Nai to utube dyko
+3/23/21, 1:37 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Abi na parho
+3/23/21, 1:37 AM - Muhammad Omar Farooq: Ok
+3/23/21, 1:37 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Dil kharab hu ra ha myra
+3/23/21, 1:37 AM - Muhammad Omar Farooq: Ap ki baat man rha
+3/23/21, 1:38 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Submit karny laga
+3/23/21, 1:38 AM - Muhammad Omar Farooq: Oo
+3/23/21, 1:40 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Utube ya sona?
+3/23/21, 1:41 AM - Muhammad Omar Farooq: Youtube
+3/23/21, 1:41 AM - Muhammad Omar Farooq: Yaar neend nahi ati
+3/23/21, 1:41 AM - Muhammad Omar Farooq: Blke yaar
+3/23/21, 1:41 AM - Muhammad Omar Farooq: Wo sir ne kiya btaya tha
+3/23/21, 1:41 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kon say?
+3/23/21, 1:41 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kis baray may
+3/23/21, 1:41 AM - Muhammad Omar Farooq: Ke Omar subha itne bje uthna
+3/23/21, 1:41 AM - Muhammad Omar Farooq: To uth jaoge
+3/23/21, 1:41 AM - Muhammad Omar Farooq: Aesa kuch
+3/23/21, 1:42 AM - Muhammad Omar Farooq: Sir Irfan
+3/23/21, 1:42 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Niyat ka kaha ta
+3/23/21, 1:42 AM - Muhammad Omar Farooq: Aesa krke 😂
+3/23/21, 1:42 AM - Muhammad Omar Farooq: Try krte
+3/23/21, 1:45 AM - Muhammad Omar Farooq: https://youtu.be/erLYAZk0y4E

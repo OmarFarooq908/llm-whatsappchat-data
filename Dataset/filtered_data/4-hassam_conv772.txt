@@ -1,0 +1,4 @@
+12/26/23, 12:46 AM - Muhammad Omar Farooq: ### Widget Definition:
+12/26/23, 12:50 AM - Muhammad Omar Farooq: Making a website go live involves several steps, from purchasing a domain to deploying your website on a web server. Here is a general guide:
+12/26/23, 12:52 AM - Muhammad Omar Farooq: Website hosting involves making your website accessible on the internet. Here are the steps to host a website:
+12/26/23, 12:57 AM - Muhammad Omar Farooq: ### Registering a Web-Based Application:

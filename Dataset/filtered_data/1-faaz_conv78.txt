@@ -1,0 +1,131 @@
+6/23/21, 9:38 AM - Muhammad Faaz Qadir UET BCE: Oy
+6/23/21, 9:38 AM - Muhammad Faaz Qadir UET BCE: Yo
+6/23/21, 9:38 AM - Muhammad Omar Farooq: Oo
+6/23/21, 9:39 AM - Muhammad Faaz Qadir UET BCE: 180 70 70?
+6/23/21, 9:40 AM - Muhammad Omar Farooq: Yus
+6/23/21, 9:40 AM - Muhammad Omar Farooq: Mein laptop kholne wala hoon
+6/23/21, 9:41 AM - Muhammad Omar Farooq: Maze ka hai
+6/23/21, 9:42 AM - Muhammad Faaz Qadir UET BCE: 😆
+6/23/21, 9:43 AM - Muhammad Omar Farooq: Or bhi suto
+6/23/21, 9:44 AM - Muhammad Faaz Qadir UET BCE: Ka ha my ny osay
+6/23/21, 9:47 AM - Muhammad Omar Farooq: Yeh sab print hoga
+6/23/21, 9:47 AM - Muhammad Omar Farooq: Ek baar
+6/23/21, 9:47 AM - Muhammad Omar Farooq: Array
+6/23/21, 9:47 AM - Muhammad Omar Farooq: Blkl aesi sequence mein
+6/23/21, 9:48 AM - Muhammad Omar Farooq: Mein confirm krta code krke
+6/23/21, 9:48 AM - Muhammad Omar Farooq: Blke ruko
+6/23/21, 9:48 AM - Muhammad Omar Farooq: Mene c nahi dekha
+6/23/21, 9:49 AM - Muhammad Faaz Qadir UET BCE: int main() { int a [5]=\ 2,4,1,7,5\ int i,j,n, temp; j==4;; i = 3 ; shile(i<j)\; temp = a[i]; a[i] = a[j] ; a[j] = temp; i + j ; ; j j } for(i 0; i<5; i+) cout<< a[i]<<n ";
+6/23/21, 9:50 AM - Muhammad Faaz Qadir UET BCE: Is ka?
+6/23/21, 9:50 AM - Muhammad Omar Farooq: Yus
+6/23/21, 9:50 AM - Muhammad Omar Farooq: Lekin is mein commas nahi honge
+6/23/21, 9:51 AM - Muhammad Faaz Qadir UET BCE: 10 min hm
+6/23/21, 9:51 AM - Muhammad Omar Farooq: Spaces honge har ek digit ke darmian
+6/23/21, 9:57 AM - Muhammad Omar Farooq: 2nd wala
+6/23/21, 9:57 AM - Muhammad Omar Farooq: Or koi option nahi?
+6/23/21, 9:57 AM - Muhammad Faaz Qadir UET BCE: Ni
+6/23/21, 9:57 AM - Muhammad Omar Farooq: True
+6/23/21, 9:58 AM - Muhammad Faaz Qadir UET BCE: Pata ni
+6/23/21, 9:59 AM - Muhammad Omar Farooq: Yus
+6/23/21, 10:00 AM - Muhammad Omar Farooq: Bs khatam?
+6/23/21, 10:00 AM - Muhammad Omar Farooq: Io
+6/23/21, 10:00 AM - Muhammad Faaz Qadir UET BCE: T
+6/23/21, 10:00 AM - Muhammad Faaz Qadir UET BCE: T
+6/23/21, 10:00 AM - Muhammad Omar Farooq: True
+6/23/21, 10:02 AM - Muhammad Omar Farooq: Khtm?
+6/23/21, 10:02 AM - Muhammad Faaz Qadir UET BCE: pata ni
+6/23/21, 10:04 AM - Muhammad Omar Farooq: Oo
+6/23/21, 10:05 AM - Muhammad Faaz Qadir UET BCE: ap ny nashta kar liya
+6/23/21, 10:05 AM - Muhammad Faaz Qadir UET BCE: ?
+6/23/21, 10:05 AM - Muhammad Omar Farooq: Nope
+6/23/21, 10:06 AM - Muhammad Faaz Qadir UET BCE: Oo
+6/23/21, 10:10 AM - Muhammad Faaz Qadir UET BCE: Ab ay ga maza
+6/23/21, 10:10 AM - Muhammad Faaz Qadir UET BCE: 1.5 hours
+6/23/21, 10:11 AM - Muhammad Omar Farooq: lo gi
+6/23/21, 10:11 AM - Muhammad Omar Farooq: maze
+6/23/21, 10:11 AM - Muhammad Faaz Qadir UET BCE: Python bi ha
+6/23/21, 10:12 AM - Muhammad Faaz Qadir UET BCE: Ok
+6/23/21, 10:12 AM - Muhammad Faaz Qadir UET BCE: Yar
+6/23/21, 10:12 AM - Muhammad Faaz Qadir UET BCE: Hm ny c++ pari ha
+6/23/21, 10:12 AM - Muhammad Faaz Qadir UET BCE: Python to ni pari
+6/23/21, 10:12 AM - Muhammad Faaz Qadir UET BCE: Jo C++ k hain wo kr lo
+6/23/21, 10:13 AM - Muhammad Omar Farooq: Okay hogya
+6/23/21, 10:27 AM - Muhammad Omar Farooq: Yo
+6/23/21, 10:14 AM - Muhammad Faaz Qadir UET BCE: 11 bajy tk time hain
+6/23/21, 10:23 AM - Muhammad Faaz Qadir UET BCE: Jtna ho sikka utna kr da
+6/23/21, 10:23 AM - Muhammad Faaz Qadir UET BCE: 20 k hain 15 k ho jya bhot hain
+6/23/21, 10:23 AM - Muhammad Faaz Qadir UET BCE: Yr thora sa jaldi kr la
+6/23/21, 10:27 AM - Muhammad Omar Farooq: Oo
+6/23/21, 10:27 AM - Muhammad Omar Farooq: Ho jaega
+6/23/21, 10:27 AM - Muhammad Omar Farooq: InshAllah
+6/23/21, 10:27 AM - Muhammad Omar Farooq: Question 2 to pkro na
+6/23/21, 10:28 AM - Muhammad Faaz Qadir UET BCE: Oo
+6/23/21, 10:28 AM - Muhammad Omar Farooq: Bs error nikal lon
+6/23/21, 10:29 AM - Muhammad Faaz Qadir UET BCE: Oo
+6/23/21, 10:36 AM - Muhammad Faaz Qadir UET BCE: 10:45 AM tk
+6/23/21, 10:36 AM - Muhammad Faaz Qadir UET BCE: Time ha bs
+6/23/21, 10:37 AM - Muhammad Faaz Qadir UET BCE: Q kay 11 tk
+6/23/21, 10:37 AM - Muhammad Faaz Qadir UET BCE: Totak timw ha
+6/23/21, 10:37 AM - Muhammad Faaz Qadir UET BCE: Task 2 ha na
+6/23/21, 10:37 AM - Muhammad Faaz Qadir UET BCE: ?
+6/23/21, 10:37 AM - Muhammad Omar Farooq: Yus
+6/23/21, 10:38 AM - Muhammad Omar Farooq: Question 3 maze ka hai
+6/23/21, 10:51 AM - Muhammad Faaz Qadir UET BCE: Yo
+6/23/21, 10:52 AM - Muhammad Omar Farooq: Yaara
+6/23/21, 10:53 AM - Muhammad Omar Farooq: Diagonal wala reh gya
+6/23/21, 10:53 AM - Muhammad Omar Farooq: Pr maza aya
+6/23/21, 10:53 AM - Muhammad Faaz Qadir UET BCE: Time kam ta
+6/23/21, 10:56 AM - Muhammad Faaz Qadir UET BCE: Yr ek or kr do wo kha rah hain k time thora sa barha dya haun
+6/23/21, 10:56 AM - Muhammad Faaz Qadir UET BCE: O
+6/23/21, 10:57 AM - Muhammad Faaz Qadir UET BCE: Task 1 ki khavahis kar ra ha
+6/23/21, 10:57 AM - Muhammad Omar Farooq: Oo
+6/23/21, 10:57 AM - Muhammad Omar Farooq: Mein nashta kr rha 😂
+6/23/21, 10:57 AM - Muhammad Faaz Qadir UET BCE: Oo
+6/23/21, 10:58 AM - Muhammad Omar Farooq: Time kitna hai?
+6/23/21, 10:59 AM - Muhammad Faaz Qadir UET BCE: 11:15 tk k hain
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: yo
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: oy
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: oy
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: yo
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: yo
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: yo
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: yo
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: ypoo
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: ypy
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: py
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: yo
+6/23/21, 11:01 AM - Muhammad Faaz Qadir UET BCE: jaldi mashta karo
+6/23/21, 11:03 AM - Muhammad Omar Farooq: Hone wala
+6/23/21, 11:03 AM - Muhammad Faaz Qadir UET BCE: Oo
+6/23/21, 11:08 AM - Muhammad Faaz Qadir UET BCE: Python ka ha na.?
+6/23/21, 11:08 AM - Muhammad Omar Farooq: yup
+6/23/21, 11:08 AM - Muhammad Faaz Qadir UET BCE: Myno vi sika davo
+6/23/21, 11:09 AM - Muhammad Omar Farooq: Oo
+6/23/21, 11:09 AM - Muhammad Omar Farooq: Yaara simple nahi tha?
+6/23/21, 11:09 AM - Muhammad Omar Farooq: Bs output display krna
+6/23/21, 11:09 AM - Muhammad Omar Farooq: Bs
+6/23/21, 11:10 AM - Muhammad Omar Farooq: Bs yaara
+6/23/21, 11:11 AM - Muhammad Omar Farooq: Allah kre semester 3 start hi on campus ho
+6/23/21, 11:11 AM - Muhammad Omar Farooq: Is semester ke finals online hoon
+6/23/21, 11:11 AM - Muhammad Omar Farooq: Ameen
+6/23/21, 11:11 AM - Muhammad Faaz Qadir UET BCE: Inshallah yar
+6/23/21, 11:11 AM - Muhammad Faaz Qadir UET BCE: Ameen
+6/23/21, 11:26 AM - Muhammad Faaz Qadir UET BCE: Yo
+6/23/21, 11:26 AM - Muhammad Omar Farooq: Yo
+6/23/21, 11:27 AM - Muhammad Omar Farooq: Teams pr kaarliya kro message
+6/23/21, 11:27 AM - Muhammad Faaz Qadir UET BCE: Oo
+6/23/21, 11:27 AM - Muhammad Omar Farooq: Balance na ud jae
+6/23/21, 11:27 AM - Muhammad Faaz Qadir UET BCE: I know
+6/23/21, 11:28 AM - Muhammad Omar Farooq: Allah maafi
+6/23/21, 11:30 AM - Muhammad Faaz Qadir UET BCE: print("A")
+6/23/21, 11:30 AM - Muhammad Faaz Qadir UET BCE: oo
+6/23/21, 11:30 AM - Muhammad Omar Farooq: Yup
+6/23/21, 11:30 AM - Muhammad Omar Farooq: Easy
+6/23/21, 11:30 AM - Muhammad Omar Farooq: Simplest Question
+6/23/21, 11:30 AM - Muhammad Omar Farooq: Nope
+6/23/21, 11:31 AM - Muhammad Omar Farooq: Question mein kuch tha hi nahi 😂
+6/23/21, 11:31 AM - Muhammad Omar Farooq: Simply likha hoa display this
+6/23/21, 11:31 AM - Muhammad Omar Farooq: Or ke naad
+6/23/21, 11:31 AM - Muhammad Omar Farooq: Baad
+6/23/21, 11:40 AM - Muhammad Omar Farooq: COMSATS lahore
+6/23/21, 11:41 AM - Muhammad Faaz Qadir UET BCE: Oo

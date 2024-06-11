@@ -1,0 +1,65 @@
+3/25/21, 6:21 PM - Muhammad Omar Farooq: Wapis kidhr?
+3/25/21, 6:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ap nay bahir byj diya
+3/25/21, 6:30 PM - Muhammad Omar Farooq: O nahi
+3/25/21, 6:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Last program ni samaj a ri
+3/25/21, 6:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Or ap nay kya socha?
+3/25/21, 6:57 PM - Muhammad Omar Farooq: Abhi tak dekh rha
+3/25/21, 6:57 PM - Muhammad Omar Farooq: Fibonacci ko
+3/25/21, 7:24 PM - Muhammad Omar Farooq: solve kiey baghayr plot kar saktay hein to rehnay dein
+3/25/21, 7:24 PM - Muhammad Omar Farooq: Sir Asim on Question 1
+3/25/21, 7:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: But jis ny kar diya?
+3/25/21, 7:25 PM - Muhammad Omar Farooq: No idea
+3/25/21, 7:26 PM - Muhammad Omar Farooq: Solve kiye beghair rough plot ho skta
+3/25/21, 7:26 PM - Muhammad Omar Farooq: Exact values mushkal k nahi?
+3/25/21, 7:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Han lykin ap ab kya karo gay?
+3/25/21, 7:27 PM - Muhammad Omar Farooq: Aese hi theek hai
+3/25/21, 7:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Nai muskil
+3/25/21, 7:27 PM - Muhammad Omar Farooq: Easy?
+3/25/21, 7:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hm
+3/25/21, 7:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Q kay samany hi nazara. Ra ha
+3/25/21, 7:28 PM - Muhammad Omar Farooq: Kiya
+3/25/21, 7:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara Q8l7 samjao
+3/25/21, 7:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Q7
+3/25/21, 7:32 PM - Muhammad Omar Farooq: Yaar ithe ao
+3/25/21, 7:33 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hm
+3/25/21, 7:33 PM - Muhammad Omar Farooq: Kiyon chor ke bhag jate ho
+3/25/21, 7:33 PM - Muhammad Omar Farooq: Graph ka smjhao
+3/25/21, 7:33 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ap nay change krna?
+3/25/21, 7:33 PM - Muhammad Omar Farooq: Ke exact graph hm kese plot kr skte
+3/25/21, 7:33 PM - Muhammad Omar Farooq: Nahi pr you know pta hona chahiye
+3/25/21, 7:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Doko circuit ko
+3/25/21, 7:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Or pir dyky intially kya position ha
+3/25/21, 7:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Or final kya ha
+3/25/21, 7:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Bs
+3/25/21, 7:34 PM - Muhammad Omar Farooq: Oks
+3/25/21, 7:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ap ko pata ha kay exponential decay ha
+3/25/21, 7:35 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: To done
+3/25/21, 7:35 PM - Muhammad Omar Farooq: Mtlab initial or steady state ke beech mein hum ne bs damping dekhani
+3/25/21, 7:36 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara Q1 may kon si damping ha?
+3/25/21, 7:36 PM - Muhammad Omar Farooq: O han sahi
+3/25/21, 7:36 PM - Muhammad Omar Farooq: First order
+3/25/21, 7:36 PM - Muhammad Omar Farooq: Ignore maaro
+3/25/21, 7:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara Q7
+3/25/21, 7:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Samajo
+3/25/21, 7:37 PM - Muhammad Omar Farooq: O
+3/25/21, 7:39 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara question samajo
+3/25/21, 7:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Motor nikalny ki kosis may
+3/25/21, 7:43 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya reader ki wiire
+3/25/21, 7:43 PM - Muhammad Omar Farooq: Wah kya baat hai
+3/25/21, 7:44 PM - Muhammad Omar Farooq: Ek baar mene apne CPU ko sahi khula
+3/25/21, 7:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kitna sai
+3/25/21, 7:46 PM - Muhammad Omar Farooq: Thora sa hi 😂
+3/25/21, 7:46 PM - Muhammad Omar Farooq: Processor waghera nikala
+3/25/21, 7:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Power supply kharab ti?
+3/25/21, 7:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oh sai
+3/25/21, 7:46 PM - Muhammad Omar Farooq: Itni baraki se bnai jati hai
+3/25/21, 7:47 PM - Muhammad Omar Farooq: Yaar ap pke Computer ke doctor ho
+3/25/21, 7:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hn na
+3/25/21, 7:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Nai bai
+3/25/21, 7:48 PM - Muhammad Omar Farooq: O
+3/25/21, 7:48 PM - Muhammad Omar Farooq: Yaar ek toolbox hota hai
+3/25/21, 7:49 PM - Muhammad Omar Farooq: Us mein har kism ke mun wale screwdrivers hote hai 😂
+3/25/21, 7:49 PM - Muhammad Omar Farooq: Pr wo kam hi hota logon ke pass
+3/25/21, 7:50 PM - Muhammad Omar Farooq: Yeh simple screws pta nahi kiyon nahi bnate
+3/25/21, 7:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: May har koch knife say kolta hun
+3/25/21, 7:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Lykin is may koi fit ni hu ri na

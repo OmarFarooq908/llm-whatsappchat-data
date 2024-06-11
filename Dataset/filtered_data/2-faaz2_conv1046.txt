@@ -1,0 +1,17 @@
+11/5/21, 6:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yyo
+11/5/21, 7:02 PM - Muhammad Omar Farooq: Yoho
+11/5/21, 7:02 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: kidar gaib hu yar
+11/5/21, 7:02 PM - Muhammad Omar Farooq: Idhr hi hoon
+11/5/21, 7:02 PM - Muhammad Omar Farooq: Mein kidhr ghaib hota
+11/5/21, 7:02 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: free hu na
+11/5/21, 7:02 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ak kaam ta
+11/5/21, 7:04 PM - Muhammad Omar Farooq: Kya kaam tha
+11/5/21, 7:04 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yar linkedlist ka code banya ta my nay phaly\
+11/5/21, 7:04 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: os ko carry on karny laga  ta
+11/5/21, 7:04 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lykin os may koch flaws ty
+11/5/21, 7:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: vo chata hun kay theek kar dayn ap
+11/5/21, 7:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: or batayn kya flawas ty
+11/5/21, 7:06 PM - Muhammad Omar Farooq: Yo
+11/5/21, 7:06 PM - Muhammad Omar Farooq: Wo code bhi mere upper se guzra tha
+11/5/21, 7:07 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include <iostream>
+11/5/21, 7:08 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya ak bar dyk kar dyk lo kay samaj ati ha code ki kay ni?

@@ -1,0 +1,25 @@
+6/26/23, 9:00 PM - Muhammad Omar Farooq: python installed hai?
+6/26/23, 9:00 PM - Umair 20CP UET: spyder install hai..
+6/26/23, 9:01 PM - Umair 20CP UET: aur anaconda bhi.///ka pori libraries..
+6/26/23, 9:02 PM - Muhammad Omar Farooq: https://www.youtube.com/watch?v=dYfKJMPNMDw
+6/26/23, 9:11 PM - Muhammad Omar Farooq: hogya?
+6/26/23, 9:14 PM - Muhammad Omar Farooq: oks
+6/26/23, 9:16 PM - Umair 20CP UET: ??
+6/26/23, 9:16 PM - Umair 20CP UET: Aur root main kaisey jaein gae..?
+6/26/23, 9:17 PM - Muhammad Omar Farooq: pip install -r requirements.txt
+6/26/23, 9:17 PM - Muhammad Omar Farooq: yehi current directory root hai is project ki
+6/26/23, 9:18 PM - Umair 20CP UET: yeh jo nechay keh arah hai kay -r no option..yeh aisey hi ata hai…?
+6/26/23, 9:18 PM - Muhammad Omar Farooq: try this
+6/26/23, 9:20 PM - Umair 20CP UET: aik do errors hain..
+6/26/23, 9:20 PM - Muhammad Omar Farooq: konse
+6/26/23, 9:21 PM - Muhammad Omar Farooq: wait
+6/26/23, 9:22 PM - Muhammad Omar Farooq: jo project folder mein "requirements.txt" hai, usko replace krdo
+6/26/23, 9:22 PM - Muhammad Omar Farooq: is se
+6/26/23, 9:22 PM - Umair 20CP UET: ok..
+6/26/23, 9:22 PM - Umair 20CP UET: main apko thori dair tak batata..
+6/26/23, 9:22 PM - Muhammad Omar Farooq: oks
+6/26/23, 9:23 PM - Umair 20CP UET: main thora bhahir janey laga ..phir a kar batata..
+6/26/23, 9:23 PM - Umair 20CP UET: ap jaag rahey na..
+6/26/23, 9:23 PM - Umair 20CP UET: ??
+6/26/23, 9:23 PM - Muhammad Omar Farooq: yup
+6/26/23, 9:23 PM - Umair 20CP UET: oks.

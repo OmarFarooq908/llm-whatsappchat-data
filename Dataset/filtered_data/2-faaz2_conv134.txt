@@ -1,0 +1,20 @@
+3/6/21, 9:41 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Object means jo ham nay program lika?
+3/6/21, 9:41 AM - Muhammad Omar Farooq: Object means an object
+3/6/21, 9:41 AM - Muhammad Omar Farooq: Mtlb
+3/6/21, 9:41 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: OOP sirf C++ may huti ha?
+3/6/21, 9:41 AM - Muhammad Omar Farooq: Nahi
+3/6/21, 9:41 AM - Muhammad Omar Farooq: Java mein python or bhi languages mein
+3/6/21, 9:42 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Chair etc?
+3/6/21, 9:42 AM - Muhammad Omar Farooq: Mtlb k
+3/6/21, 9:42 AM - Muhammad Omar Farooq: Yes
+3/6/21, 9:42 AM - Muhammad Omar Farooq: For example
+3/6/21, 9:42 AM - Muhammad Omar Farooq: Class furniture hogi
+3/6/21, 9:42 AM - Muhammad Omar Farooq: Object chair ho gi
+3/6/21, 9:42 AM - Muhammad Omar Farooq: Table etc
+3/6/21, 9:43 AM - Muhammad Omar Farooq: Abhi object oriented programming ka faida nahi
+3/6/21, 9:43 AM - Muhammad Omar Farooq: Pehle basic programming ajae to age easily pick ho jai gi ye cheezen IA
+3/6/21, 9:44 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Inshallah
+3/6/21, 9:45 AM - Muhammad Omar Farooq: Nahi python mein logical statements plus minus boolean or kaafi functions hain
+3/6/21, 9:45 AM - Muhammad Omar Farooq: Jo ke html mein nahi
+3/6/21, 9:45 AM - Muhammad Omar Farooq: Html ko hum markup language bolte hain. jis trah latex
+3/6/21, 9:46 AM - Muhammad Omar Farooq: On point object oriented ko mene bhi isi saal hath maara tha but ye c++ agai

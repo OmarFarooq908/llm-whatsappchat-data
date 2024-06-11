@@ -1,0 +1,15 @@
+4/3/24, 11:04 PM - Umair 20CP UET: meray pass 20.04.4 pari hai..yeh wali karoon ya 18.04 LTS hi karni..?
+4/3/24, 11:09 PM - Umair 20CP UET: https://releases.ubuntu.com/18.04/
+4/3/24, 11:09 PM - Umair 20CP UET: is main say konsi..?
+4/3/24, 11:12 PM - Umair 20CP UET: server image nahi karni.?
+4/3/24, 11:13 PM - Umair 20CP UET: sir asim uni atey hain..?
+4/3/24, 11:32 PM - Muhammad Omar Farooq: Nhi
+4/3/24, 11:32 PM - Muhammad Omar Farooq: Hn
+4/3/24, 11:33 PM - Umair 20CP UET: kab poucha..?
+4/3/24, 11:33 PM - Muhammad Omar Farooq: Aye hoe the Monday ko
+4/3/24, 11:33 PM - Umair 20CP UET: acha..
+4/3/24, 11:34 PM - Umair 20CP UET: kal pata nahi aein gae kay nahi..
+4/3/24, 11:34 PM - Muhammad Omar Farooq: Aenge. Confirm krlena message maar kr
+4/3/24, 11:35 PM - Umair 20CP UET: message kia deliever nahi hua..
+4/4/24, 12:04 AM - Umair 20CP UET: gpt main banaoon..?
+4/4/24, 12:04 AM - Umair 20CP UET: aur ntfs file system rakhi..

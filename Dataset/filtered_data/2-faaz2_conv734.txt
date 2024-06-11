@@ -1,0 +1,57 @@
+6/26/21, 6:07 PM - Muhammad Omar Farooq: Yo cr bol rha tha k Matlab ya multisim mein se Kisi ek tool pr krna hai
+6/26/21, 6:07 PM - Muhammad Omar Farooq: Sir Usman se puchen?
+6/26/21, 6:09 PM - Muhammad Omar Farooq: Lab 14 ki trah?
+6/26/21, 6:09 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: nahi  1st semester my open ended lab  ki trahamn
+6/26/21, 6:10 PM - Muhammad Omar Farooq: Oo
+6/26/21, 6:10 PM - Muhammad Omar Farooq: Latex mein bus calculation thosonga
+6/26/21, 6:10 PM - Muhammad Omar Farooq: Yaar is baar time nahi
+6/26/21, 6:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+6/26/21, 6:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: osi tarhan  karni ha ya simple karna chaho gay
+6/26/21, 6:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+6/26/21, 6:15 PM - Muhammad Omar Farooq: My plan right now
+6/26/21, 6:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: My NY isi liya pocha ha
+6/26/21, 6:16 PM - Muhammad Omar Farooq: Latex
+6/26/21, 6:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kysay?
+6/26/21, 6:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Command ha?
+6/26/21, 6:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Last time bi bataya ta ap ny
+6/26/21, 6:17 PM - Muhammad Omar Farooq: Mein sikha donga yaar is mein itna nahi
+6/26/21, 6:18 PM - Muhammad Omar Farooq: Mein apna code send krdonga
+6/26/21, 6:18 PM - Muhammad Omar Farooq: Windows mein bhi latex ka hai distro
+6/26/21, 6:18 PM - Muhammad Omar Farooq: Ek sec
+6/26/21, 6:18 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Phalay q ni bataya
+6/26/21, 6:18 PM - Muhammad Omar Farooq: Mujhe ab pta chla
+6/26/21, 6:19 PM - Muhammad Omar Farooq: Okay
+6/26/21, 6:21 PM - Muhammad Omar Farooq: https://www.latex-project.org/get/
+6/26/21, 6:23 PM - Muhammad Omar Farooq: MashAllah
+6/26/21, 6:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: https://github.com/latex3/latex2e
+6/26/21, 6:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: isar say download karon?
+6/26/21, 6:24 PM - Muhammad Omar Farooq: Yahan se
+6/26/21, 6:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lykin install kysay karon koi  application ni ha
+6/26/21, 6:24 PM - Muhammad Omar Farooq: Oo
+6/26/21, 6:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: is my
+6/26/21, 6:24 PM - Muhammad Omar Farooq: Official
+6/26/21, 6:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: is ko  download kiya ha
+6/26/21, 6:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lykin
+6/26/21, 6:26 PM - Muhammad Omar Farooq: https://youtu.be/uKetjJTDSqk
+6/26/21, 6:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+6/26/21, 6:29 PM - Muhammad Omar Farooq: Yeh krso
+6/26/21, 6:29 PM - Muhammad Omar Farooq: I use texmaker
+6/26/21, 6:30 PM - Muhammad Omar Farooq: Texmaker is a latex having an integrated PDF viewer
+6/26/21, 6:30 PM - Muhammad Omar Farooq: Matlab ke sath sath PDF form view hoti hai
+6/26/21, 6:33 PM - Muhammad Omar Farooq: Ek din
+6/26/21, 6:33 PM - Muhammad Omar Farooq: Full dena prta
+6/26/21, 6:33 PM - Muhammad Omar Farooq: Basics sekhne ke lie
+6/26/21, 6:33 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+6/26/21, 6:34 PM - Muhammad Omar Farooq: Adha ghanta ig
+6/26/21, 6:34 PM - Muhammad Omar Farooq: Pta nahi
+6/26/21, 6:34 PM - Muhammad Omar Farooq: Ya kam
+6/26/21, 6:34 PM - Muhammad Omar Farooq: Kam lga ga blke
+6/26/21, 6:34 PM - Muhammad Omar Farooq: Adha ghanta maximum
+6/26/21, 6:35 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+6/26/21, 6:54 PM - Muhammad Omar Farooq: Online bhi hai
+6/26/21, 6:55 PM - Muhammad Omar Farooq: Pta nahi Kesa hai
+6/26/21, 6:55 PM - Muhammad Omar Farooq: Overleaf
+6/26/21, 6:55 PM - Muhammad Omar Farooq: Use nahi kiya kabhi
+6/26/21, 6:55 PM - Muhammad Omar Farooq: Latex hi hai. Overleaf website ka name hai
+6/26/21, 7:16 PM - Muhammad Omar Farooq: Yo
+6/26/21, 7:16 PM - Muhammad Omar Farooq: Overleaf try maarna

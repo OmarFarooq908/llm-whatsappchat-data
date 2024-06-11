@@ -1,0 +1,118 @@
+6/25/21, 5:52 PM - Muhammad Omar Farooq: Oo
+6/25/21, 6:13 PM - Muhammad Omar Farooq: Faaz yaara kidhr hoo
+6/25/21, 6:13 PM - Muhammad Omar Farooq: Kithe hoo
+6/25/21, 6:36 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+6/25/21, 6:36 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is say to or achi neend ai ti
+6/25/21, 6:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sir ne kal lade ke konsay question diye thy
+6/25/21, 7:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+6/25/21, 7:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+6/25/21, 7:19 PM - Muhammad Omar Farooq: Yoo
+6/25/21, 7:21 PM - Muhammad Omar Farooq: a kiyon brackets mein dala
+6/25/21, 7:20 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya batrao
+6/25/21, 7:21 PM - Muhammad Omar Farooq: Oo
+6/25/21, 7:21 PM - Muhammad Omar Farooq: Theek
+6/25/21, 7:22 PM - Muhammad Omar Farooq: Constant hona chahiye
+6/25/21, 7:22 PM - Muhammad Omar Farooq: String
+6/25/21, 7:22 PM - Muhammad Omar Farooq: According to error
+6/25/21, 7:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: means
+6/25/21, 7:23 PM - Muhammad Omar Farooq: Matlab ke user se input nahi Lena file name ke lie
+6/25/21, 7:23 PM - Muhammad Omar Farooq: Ek sec
+6/25/21, 7:23 PM - Muhammad Omar Farooq: Iska solution hoga
+6/25/21, 7:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: kon sa?
+6/25/21, 7:24 PM - Muhammad Omar Farooq: ek sec
+6/25/21, 7:24 PM - Muhammad Omar Farooq: google
+6/25/21, 7:26 PM - Muhammad Omar Farooq: http://www.cplusplus.com/forum/beginner/24499/
+6/25/21, 7:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yar
+6/25/21, 7:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya kysay hu ga
+6/25/21, 7:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: galt lag  ra ha
+6/25/21, 7:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: "<<fgedge"
+6/25/21, 7:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yar is function ka kam kya ha?
+6/25/21, 7:50 PM - Muhammad Omar Farooq: Oo
+6/25/21, 7:50 PM - Muhammad Omar Farooq: Show the code
+6/25/21, 7:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: half code lika ta
+6/25/21, 7:51 PM - Muhammad Omar Farooq: Oo
+6/25/21, 7:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: abi baqi completer kar kay dikahata hun
+6/25/21, 7:51 PM - Muhammad Omar Farooq: Okay hogya
+6/25/21, 8:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: check maros
+6/25/21, 8:13 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+6/25/21, 8:13 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: a gi samj
+6/25/21, 8:13 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lykin yar
+6/25/21, 8:14 PM - Muhammad Omar Farooq: Oo
+6/25/21, 8:15 PM - Muhammad Omar Farooq: Yo I was eating ek sec
+6/25/21, 8:15 PM - Muhammad Omar Farooq: Let me start up my laptop
+6/25/21, 8:25 PM - Muhammad Omar Farooq: Yo
+6/25/21, 8:26 PM - Muhammad Omar Farooq: File.c_str()
+6/25/21, 8:26 PM - Muhammad Omar Farooq: Code suto
+6/25/21, 8:27 PM - Muhammad Omar Farooq: Agr yeh nahi hota
+6/25/21, 8:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+6/25/21, 8:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+6/25/21, 8:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+6/25/21, 8:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+6/25/21, 8:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: nai nahi
+6/25/21, 8:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: myra question
+6/25/21, 8:37 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: parho
+6/25/21, 8:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yar is ny  INT_MIN, INT_MAX ko q compile  kar liya ha
+6/25/21, 8:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: kha liya>
+6/25/21, 8:39 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yar
+6/25/21, 8:39 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: samaj hi ni a ara
+6/25/21, 8:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: http://www.sr2jr.com/textbook-solutions/computer-science/41201007/absolute-cpp-streams-and-file-io
+6/25/21, 8:53 PM - Muhammad Omar Farooq: Yaar
+6/25/21, 8:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+6/25/21, 8:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: samjao na
+6/25/21, 8:55 PM - Muhammad Omar Farooq: Pta nahi yaar input file khud likhni hai c++ se ya kiya
+6/25/21, 8:56 PM - Muhammad Omar Farooq: What is this input file
+6/25/21, 8:56 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya dyko
+6/25/21, 8:59 PM - Muhammad Omar Farooq: Yaar smjh nahi aarhi
+6/25/21, 8:59 PM - Muhammad Omar Farooq: Isko laptop pr open krta ek sec
+6/25/21, 9:00 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+6/25/21, 9:00 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ok
+6/25/21, 9:00 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ap kar ky ry hu?
+6/25/21, 9:01 PM - Muhammad Omar Farooq: Lab task krne lga tha
+6/25/21, 9:01 PM - Muhammad Omar Farooq: Cp
+6/25/21, 9:02 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+6/25/21, 9:02 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ab daso
+6/25/21, 9:03 PM - Muhammad Omar Farooq: smjh nahi aarhi
+6/25/21, 9:04 PM - Muhammad Omar Farooq: ke yeh is ne function mein itni ifs kiyon use kie
+6/25/21, 9:04 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Question samjao phalay
+6/25/21, 9:05 PM - Muhammad Omar Farooq: yaara
+6/25/21, 9:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hm
+6/25/21, 9:06 PM - Muhammad Omar Farooq: hm ne khud input file generate krni hai ig
+6/25/21, 9:06 PM - Muhammad Omar Farooq: koi bhi letter likh do sample utha kr internet se
+6/25/21, 9:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #N vala chakar bi?
+6/25/21, 9:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kya seen ha yar
+6/25/21, 9:06 PM - Muhammad Omar Farooq: bs name ki jgah
+6/25/21, 9:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: VN sato
+6/25/21, 9:07 PM - Muhammad Omar Farooq: #N# lao
+6/25/21, 9:07 PM - Muhammad Omar Farooq: Yo ek second
+6/25/21, 9:08 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ok
+6/25/21, 9:09 PM - Muhammad Omar Farooq: Avery May
+6/25/21, 9:09 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+6/25/21, 9:10 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ab is ky sath kya karna ha
+6/25/21, 9:10 PM - Muhammad Omar Farooq: #N#
+6/25/21, 9:10 PM - Muhammad Omar Farooq: isko thoso input file mein
+6/25/21, 9:10 PM - Muhammad Omar Farooq: phir user se name enter krao
+6/25/21, 9:10 PM - Muhammad Omar Farooq: yeh kr lia
+6/25/21, 9:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: thoso hahaha
+6/25/21, 9:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: VN sato na Awaz suni ha
+6/25/21, 9:11 PM - Muhammad Omar Farooq: ab krna yeh hai ke output file mein yeh letter input file mein se copy krna hai
+6/25/21, 9:11 PM - Muhammad Omar Farooq: oks
+6/25/21, 9:11 PM - Muhammad Omar Farooq: #N# find krna hai
+6/25/21, 9:12 PM - Muhammad Omar Farooq: isko replace krna hai user ne jo name hmein dasa
+6/25/21, 9:12 PM - Muhammad Omar Farooq: wait vn sut ta
+6/25/21, 9:12 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sai jo lika ha  osay  vn my bi translate karna
+6/25/21, 9:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #N# wasay hi ha na
+6/25/21, 9:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Koi logic ha is ki?
+6/25/21, 9:20 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sai
+6/25/21, 9:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+6/25/21, 9:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ak cez confirm maros
+6/25/21, 9:23 PM - Muhammad Omar Farooq: yo
+6/25/21, 9:23 PM - Muhammad Omar Farooq: Oo
+6/25/21, 9:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ifstream for reading
+6/25/21, 9:24 PM - Muhammad Omar Farooq: mein abhi task 4 krne lga hoon
+6/25/21, 9:24 PM - Muhammad Omar Farooq: wahan se resume
+6/25/21, 9:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ofstream is  for writing
+6/25/21, 9:24 PM - Muhammad Omar Farooq: yup
+6/25/21, 9:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+6/25/21, 9:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+6/25/21, 9:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya  jo letter ha ya my  phalay say hi save karva lin?
+6/25/21, 9:28 PM - Muhammad Omar Farooq: yup

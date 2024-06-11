@@ -1,0 +1,53 @@
+1/3/23, 10:46 PM - Muhammad Omar Farooq: Random frame
+1/3/23, 10:47 PM - Muhammad Omar Farooq: Walaikum Aslam
+1/3/23, 10:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yar
+1/3/23, 10:48 PM - Muhammad Omar Farooq: Pehle framing phir windowing
+1/3/23, 10:48 PM - Muhammad Omar Farooq: Because ek frame mein speech signal stationary hota hai
+1/3/23, 10:49 PM - Muhammad Omar Farooq: Speech signal as a whole stationary nahi hota.
+1/3/23, 10:52 PM - Muhammad Omar Farooq: Yes aese hi hai
+1/3/23, 10:52 PM - Muhammad Omar Farooq: Faaz brother framing ke baad mene age choor diya tha is pr kaam krna. Age se Zia ko de dia
+1/3/23, 10:53 PM - Muhammad Omar Farooq: Ab wo is pr lga hoa hai 💀
+1/3/23, 10:53 PM - Muhammad Omar Farooq: Mein CCN pr, Umair MCSD
+1/3/23, 10:53 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+1/3/23, 10:53 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: abu ny ap ka agy kis my specializekiya va?
+1/3/23, 10:54 PM - Muhammad Omar Farooq: Communication mein ig
+1/3/23, 10:54 PM - Muhammad Omar Farooq: Let me search
+1/3/23, 10:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Oo
+1/3/23, 10:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yar CCN my na thora sa pochna ta kay ham jo han remote network host monitoring
+1/3/23, 10:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: kar rayn to os my myra apna agenda ya ta kay user ki network activity ko monitor karyn
+1/3/23, 10:55 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: as ky vo kya kya access kar ryn hn
+1/3/23, 10:56 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: like whic website ets so my osay block kar sakon
+1/3/23, 10:56 PM - Muhammad Omar Farooq: https://lahore.comsats.edu.pk/Employees/321
+1/3/23, 10:57 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: to os ky liya koi specific application ni mili myjy wireshark hi mili jo packet ko analyze kari
+1/3/23, 10:57 PM - Muhammad Omar Farooq: Yes Wireshark krta to hai pr I don't think ke kisi remote network ke krega
+1/3/23, 10:58 PM - Muhammad Omar Farooq: Distributed Systems wali cheez hogai I think
+1/3/23, 10:59 PM - Muhammad Omar Farooq: Aacha
+1/3/23, 11:00 PM - Muhammad Omar Farooq: Matlab ke LAN ki activity monitor krna chah rhe ho?
+1/3/23, 11:00 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: g
+1/3/23, 11:04 PM - Muhammad Omar Farooq: Yeh bhi theek hai I think
+1/3/23, 11:04 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: mtlb kya theek
+1/3/23, 11:04 PM - Muhammad Omar Farooq: Ip address se website ka pta lgaya ja skta hai to kaam chl jaega na
+1/3/23, 11:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: hmm lykin os ky liya bi koi appliction banai parni ha na
+1/3/23, 11:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ta ky ya kaam hu
+1/3/23, 11:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: dns
+1/3/23, 11:06 PM - Muhammad Omar Farooq: Yaar yeh bhi maze ka project hai 💀
+1/3/23, 11:07 PM - Muhammad Omar Farooq: Mein aap se yeh project smjhonga end pr
+1/3/23, 11:07 PM - Muhammad Omar Farooq: InshAllah
+1/3/23, 11:07 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ap ky nazdeek parental control my kya ata ha?
+1/3/23, 11:08 PM - Muhammad Omar Farooq: Wifi activity monitoring. Website blocking. Wifi time limit
+1/3/23, 11:08 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 3no my say koi ak ni theek?
+1/3/23, 11:08 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ak to hu ri ha lykin baqi dono my say koi ak karyn ya dono
+1/3/23, 11:10 PM - Muhammad Omar Farooq: Activity monitoring sahi hai I think
+1/3/23, 11:10 PM - Muhammad Omar Farooq: Baaki mushkal ho jaega
+1/3/23, 11:11 PM - Muhammad Omar Farooq: Yo
+1/3/23, 11:12 PM - Muhammad Omar Farooq: Telnet use kr skte ho. Upper se Linux mein command line based firewall hoti hai
+1/3/23, 11:12 PM - Muhammad Omar Farooq: Us firewall mein rules implement kr skte.
+1/3/23, 11:14 PM - Muhammad Omar Farooq: Okk
+1/3/23, 11:15 PM - Muhammad Omar Farooq: Personal network kese bnaya hai
+1/3/23, 11:16 PM - Muhammad Omar Farooq: NFS use kr rha hoon. NFS ka pta hai?
+1/3/23, 11:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya bi mazay ka kaam ha
+1/3/23, 11:20 PM - Muhammad Omar Farooq: Yup
+1/3/23, 11:21 PM - Muhammad Omar Farooq: Server virtualization
+1/3/23, 11:22 PM - Muhammad Omar Farooq: One physical server having multiple virtual server
+1/3/23, 11:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: O yeah yeah
+1/3/23, 11:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sai sai

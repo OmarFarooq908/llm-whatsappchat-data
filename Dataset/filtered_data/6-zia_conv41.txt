@@ -1,0 +1,16 @@
+5/26/24, 2:01 PM - Muhammad Zia Ullah UET 20CP: thesis ka kia krien aga ?
+5/26/24, 2:03 PM - Muhammad Zia Ullah UET 20CP: yh bhi dekh lena q k lamini k bare me likha wa he slides pa
+5/26/24, 2:03 PM - Muhammad Omar Farooq: Acha
+5/26/24, 2:03 PM - Muhammad Omar Farooq: Chapter 4 mein fine tuning wala abhi kr rha hun
+5/26/24, 2:04 PM - Muhammad Omar Farooq: Dataset generation wala likhna itni deer
+5/26/24, 2:04 PM - Muhammad Omar Farooq: Chapter 4 mein
+5/26/24, 2:07 PM - Muhammad Zia Ullah UET 20CP: data collection wla konsa he phir chapter 3 me ?
+5/26/24, 2:07 PM - Muhammad Omar Farooq: wo to thori boht methodology btani thi. implementation chapter 4 mein btani hai
+5/26/24, 2:09 PM - Muhammad Zia Ullah UET 20CP: acha is document me chapter 4 ki heading sa pehla bhi kuch chapter 4 ki headings likhi wi hein
+5/26/24, 2:10 PM - Muhammad Zia Ullah UET 20CP: isme ksa btna he k chatgpt sa python ki library ki madad sa bnaya he dataset ?
+5/26/24, 2:11 PM - Muhammad Omar Farooq: Library ke baare mein bta do, or Jo automation ka code hai usko Thora explain krdo
+5/26/24, 2:11 PM - Muhammad Omar Farooq: Konsi wali
+5/26/24, 2:13 PM - Muhammad Zia Ullah UET 20CP: kia name tha library ka or oska code ksa tha ?
+5/26/24, 2:15 PM - Muhammad Omar Farooq: Wait
+5/26/24, 2:18 PM - Muhammad Zia Ullah UET 20CP: isi me chapter 3 wla training wla add kr k bhejon ?
+5/26/24, 2:18 PM - Muhammad Omar Farooq: Hn isi mein bhej do

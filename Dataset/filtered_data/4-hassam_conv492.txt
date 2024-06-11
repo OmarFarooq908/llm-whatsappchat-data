@@ -1,0 +1,24 @@
+1/27/23, 7:57 PM - Hassam Malik UET BCE: What should i do bro
+1/27/23, 7:58 PM - Muhammad Omar Farooq: Okay krso
+1/27/23, 7:58 PM - Hassam Malik UET BCE: Erase disk?
+1/27/23, 7:58 PM - Muhammad Omar Farooq: Yes
+1/27/23, 7:59 PM - Hassam Malik UET BCE: Isn't it dangerous 🧟‍♂️🧟‍♂️
+1/27/23, 7:59 PM - Muhammad Omar Farooq: Vm mein kr rhe ho?
+1/27/23, 7:59 PM - Hassam Malik UET BCE: Yes
+1/27/23, 7:59 PM - Hassam Malik UET BCE: Yus yus
+1/27/23, 7:59 PM - Muhammad Omar Farooq: Then no f it
+1/27/23, 7:59 PM - Muhammad Omar Farooq: Okay krso
+1/27/23, 7:59 PM - Hassam Malik UET BCE: Okays
+1/27/23, 7:59 PM - Hassam Malik UET BCE: Kr dya
+1/27/23, 8:00 PM - Muhammad Omar Farooq: Bus age options select krte jao ho jaega
+1/27/23, 8:00 PM - Hassam Malik UET BCE: Thank you bro
+1/27/23, 8:00 PM - Hassam Malik UET BCE: Uni kb aa re??
+1/27/23, 8:00 PM - Muhammad Omar Farooq: Kal InshAllah.
+1/27/23, 8:00 PM - Hassam Malik UET BCE: Do u know about open mpi??
+1/27/23, 8:01 PM - Muhammad Omar Farooq: Anytime bero
+1/27/23, 8:01 PM - Muhammad Omar Farooq: Nope what is it?
+1/27/23, 8:01 PM - Hassam Malik UET BCE: I want to implement cluster computing
+1/27/23, 8:01 PM - Hassam Malik UET BCE: To perform single task by different pcs at the same time
+1/27/23, 8:02 PM - Hassam Malik UET BCE: Parallel computing
+1/27/23, 8:03 PM - Hassam Malik UET BCE: To us k lye mpi ki configuration hoti pehle ubuntu p ho skta ye
+1/27/23, 8:03 PM - Hassam Malik UET BCE: Last lecture of ccn was something about it

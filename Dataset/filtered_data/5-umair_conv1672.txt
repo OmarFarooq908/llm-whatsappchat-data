@@ -1,0 +1,188 @@
+4/4/24, 9:08 AM - Muhammad Omar Farooq: Umair brro puhnch gae?
+4/4/24, 9:21 AM - Umair 20CP UET: Phuncha to hoon..bas system sahi ho jae..
+4/4/24, 9:22 AM - Muhammad Omar Farooq: okay hogya
+4/4/24, 9:23 AM - Muhammad Omar Farooq: basit mere se puch rha masla hal hoa ke nahi xD
+4/4/24, 9:23 AM - Muhammad Omar Farooq: btata hun usko
+4/4/24, 9:28 AM - Umair 20CP UET: Bilkul bhi nahi..
+4/4/24, 9:29 AM - Umair 20CP UET: Ager hua bhi sahi to usey nahi dena..
+4/4/24, 9:29 AM - Muhammad Omar Farooq: hn usku kiyon dena ha
+4/4/24, 9:30 AM - Muhammad Omar Farooq: Oks
+4/4/24, 9:30 AM - Muhammad Omar Farooq: wait
+4/4/24, 9:30 AM - Muhammad Omar Farooq: let me search this for 10 mins. if it does not work then lets do with the new os
+4/4/24, 9:31 AM - Umair 20CP UET: haan jaldi karna time thora..
+4/4/24, 9:32 AM - Muhammad Omar Farooq: alt+f3 krke kro
+4/4/24, 9:34 AM - Muhammad Omar Farooq: df -h
+4/4/24, 9:35 AM - Muhammad Omar Farooq: yeh dmz to north korea or south korea ke beech mein
+4/4/24, 9:35 AM - Muhammad Omar Farooq: hai
+4/4/24, 9:35 AM - Umair 20CP UET: Meray kayal main gui nahi chal raha..
+4/4/24, 9:36 AM - Muhammad Omar Farooq: no audio
+4/4/24, 9:36 AM - Umair 20CP UET: ??
+4/4/24, 9:37 AM - Muhammad Omar Farooq: yeh run kro:
+4/4/24, 9:39 AM - Muhammad Omar Farooq: uncomment kro isko:
+4/4/24, 9:40 AM - Muhammad Omar Farooq: phir ctrl+o krko save krlo
+4/4/24, 9:40 AM - Muhammad Omar Farooq: ctrl+x se exit
+4/4/24, 9:40 AM - Muhammad Omar Farooq: phir reboot maaro
+4/4/24, 9:40 AM - Umair 20CP UET: Kia..
+4/4/24, 9:41 AM - Muhammad Omar Farooq: what?
+4/4/24, 9:41 AM - Muhammad Omar Farooq: save krke. reboot
+4/4/24, 9:41 AM - Umair 20CP UET: Yes..
+4/4/24, 9:41 AM - Muhammad Omar Farooq: reboot likho terminal pr
+4/4/24, 9:41 AM - Umair 20CP UET: Hann..Kia..
+4/4/24, 9:41 AM - Muhammad Omar Farooq: kuch hoa
+4/4/24, 9:41 AM - Umair 20CP UET: Ab chalta hai to ..
+4/4/24, 9:41 AM - Muhammad Omar Farooq: oks
+4/4/24, 9:42 AM - Muhammad Omar Farooq: oks
+4/4/24, 9:42 AM - Muhammad Omar Farooq: zia ka message aya tha attendence hote waqt utha dena xD
+4/4/24, 9:42 AM - Muhammad Omar Farooq: so rha hoga maze se
+4/4/24, 9:44 AM - Muhammad Omar Farooq: maza hi ajae khelne mein
+4/4/24, 9:45 AM - Muhammad Omar Farooq: sahi chl rha abhi tk?
+4/4/24, 9:45 AM - Umair 20CP UET: Yes..
+4/4/24, 9:45 AM - Muhammad Omar Farooq: chlta rhe bus aese hi
+4/4/24, 9:45 AM - Muhammad Omar Farooq: anydesk ko zara theek kr dena
+4/4/24, 9:46 AM - Umair 20CP UET: Bas chal jae..baki setting bhi ho jaein gi..
+4/4/24, 9:46 AM - Muhammad Omar Farooq: Chl jaega InshAllah
+4/4/24, 9:46 AM - Umair 20CP UET: Agey nahi ja raha..
+4/4/24, 9:46 AM - Muhammad Omar Farooq: ruka hoa udhr hi?
+4/4/24, 9:46 AM - Umair 20CP UET: Hmm..
+4/4/24, 9:47 AM - Umair 20CP UET: Wait kartay Kia pata chal jae..
+4/4/24, 9:47 AM - Muhammad Omar Farooq: yes
+4/4/24, 9:48 AM - Muhammad Omar Farooq: sir asim se mile?
+4/4/24, 9:48 AM - Umair 20CP UET: Hmm..kehtay meray room main nahi bethna..kahein aur chaley jao .
+4/4/24, 9:48 AM - Umair 20CP UET: Sab kuch online...
+4/4/24, 9:48 AM - Muhammad Omar Farooq: expect kr rha tha xD
+4/4/24, 9:49 AM - Umair 20CP UET: Kia karoon restart..??
+4/4/24, 9:49 AM - Muhammad Omar Farooq: kro restart.
+4/4/24, 9:49 AM - Muhammad Omar Farooq: shayed ho jae
+4/4/24, 9:49 AM - Muhammad Omar Farooq: sir haroon aye hoe?
+4/4/24, 9:49 AM - Umair 20CP UET: Dekhay nahi..
+4/4/24, 9:50 AM - Muhammad Omar Farooq: oks
+4/4/24, 9:50 AM - Muhammad Omar Farooq: lab khali?
+4/4/24, 9:50 AM - Umair 20CP UET: Imran Shab aur maim..
+4/4/24, 9:50 AM - Muhammad Omar Farooq: konsi maam?
+4/4/24, 9:50 AM - Umair 20CP UET: Main*
+4/4/24, 9:51 AM - Muhammad Omar Farooq: okay
+4/4/24, 9:51 AM - Umair 20CP UET: Bhuth slow hai gpu ..
+4/4/24, 9:51 AM - Umair 20CP UET: Bhuth time lagatay.
+4/4/24, 9:51 AM - Muhammad Omar Farooq: hn yaar
+4/4/24, 9:52 AM - Muhammad Omar Farooq: koi baat nahi.
+4/4/24, 9:52 AM - Umair 20CP UET: Chal jae bas..
+4/4/24, 9:53 AM - Muhammad Omar Farooq: https://askubuntu.com/questions/1037922/ubuntu-18-04-hangs-on-booting-with-message-started-user-manager-for-uid-120-on
+4/4/24, 9:53 AM - Muhammad Omar Farooq: isi se solution dekh rha
+4/4/24, 9:54 AM - Muhammad Omar Farooq: pehla wala solution nahi kaam krega. space hai system mein
+4/4/24, 9:54 AM - Muhammad Omar Farooq: baaki neeche wale
+4/4/24, 9:54 AM - Umair 20CP UET: yeh dekho..
+4/4/24, 9:55 AM - Umair 20CP UET: Kia karein is ka..?
+4/4/24, 9:56 AM - Muhammad Omar Farooq: sudo dpkg-reconfigure gdm3
+4/4/24, 9:56 AM - Muhammad Omar Farooq: run this
+4/4/24, 9:56 AM - Umair 20CP UET: Type nahi kar raha..
+4/4/24, 9:56 AM - Muhammad Omar Farooq: alt+f3
+4/4/24, 9:57 AM - Muhammad Omar Farooq: then type reboot
+4/4/24, 9:57 AM - Umair 20CP UET: Kia ab dekho Kia hota ...
+4/4/24, 9:58 AM - Muhammad Omar Farooq: agr yeh nahi kaam krta to phir last solution yeh hai:
+4/4/24, 9:58 AM - Muhammad Omar Farooq: if this does not work then lets do a new ubuntu
+4/4/24, 9:59 AM - Umair 20CP UET: Okay...ALLAH karey chal jae ti Acha..
+4/4/24, 9:59 AM - Muhammad Omar Farooq: InshAllah
+4/4/24, 9:59 AM - Muhammad Omar Farooq: sir sanay ki wedding anniversary hai
+4/4/24, 10:00 AM - Muhammad Omar Farooq: dekhein to mubarak de dena xD
+4/4/24, 10:00 AM - Umair 20CP UET: AJ..
+4/4/24, 10:00 AM - Muhammad Omar Farooq: mazak laga hoa
+4/4/24, 10:00 AM - Muhammad Omar Farooq: hn status lgaya hoa tha
+4/4/24, 10:00 AM - Muhammad Omar Farooq: dr nosheena likha hoa tha name
+4/4/24, 10:00 AM - Umair 20CP UET: Acha..nazar nahi aye waisey..sir majid dikhay
+4/4/24, 10:01 AM - Muhammad Omar Farooq: wo to heavy bnde hain
+4/4/24, 10:01 AM - Muhammad Omar Farooq: life partner
+4/4/24, 10:01 AM - Muhammad Omar Farooq: we r getting somewhere
+4/4/24, 10:01 AM - Muhammad Omar Farooq: age phir na aye error
+4/4/24, 10:02 AM - Umair 20CP UET: Wait karna hai ..?
+4/4/24, 10:02 AM - Muhammad Omar Farooq: yes
+4/4/24, 10:03 AM - Umair 20CP UET: wahein hai stuck ..
+4/4/24, 10:04 AM - Muhammad Omar Farooq: our last stop
+4/4/24, 10:04 AM - Muhammad Omar Farooq: sudo systemctl start graphical.target
+4/4/24, 10:04 AM - Umair 20CP UET: wait na karoon..
+4/4/24, 10:04 AM - Muhammad Omar Farooq: oo
+4/4/24, 10:04 AM - Muhammad Omar Farooq: yahan pr stuck hai?
+4/4/24, 10:05 AM - Umair 20CP UET: yes
+4/4/24, 10:05 AM - Muhammad Omar Farooq: yes phir wait maarso thora
+4/4/24, 10:06 AM - Umair 20CP UET: 5 min to ho gae hain..
+4/4/24, 10:06 AM - Muhammad Omar Farooq: 5 mins more bus
+4/4/24, 10:07 AM - Umair 20CP UET: Alt +f3 kar dia..
+4/4/24, 10:07 AM - Umair 20CP UET: Reboot kar kay check karoon..?
+4/4/24, 10:07 AM - Umair 20CP UET: Ya phelay command dobara run karni hai..??
+4/4/24, 10:07 AM - Muhammad Omar Farooq: nahi abhi nahi
+4/4/24, 10:07 AM - Muhammad Omar Farooq: usku run hone do shayed ho jae
+4/4/24, 10:08 AM - Umair 20CP UET: yeh kar dia..pechay wala chal raha ho ga..
+4/4/24, 10:08 AM - Umair 20CP UET: ?
+4/4/24, 10:09 AM - Umair 20CP UET: ??
+4/4/24, 10:09 AM - Muhammad Omar Farooq: matlab?
+4/4/24, 10:09 AM - Umair 20CP UET: Yeh kar dia na..
+4/4/24, 10:10 AM - Umair 20CP UET: Wo run ho raha ho ga..??
+4/4/24, 10:10 AM - Muhammad Omar Farooq: han lekin wesi hi interfere kr skti command dosre process se
+4/4/24, 10:10 AM - Muhammad Omar Farooq: is liye abhi bus run hone do
+4/4/24, 10:11 AM - Muhammad Omar Farooq: is se is bande ka masla hal hogya tha:
+4/4/24, 10:11 AM - Umair 20CP UET: main nay bas dobara command run kar kay reboot kar dia..
+4/4/24, 10:11 AM - Umair 20CP UET: dekhtay ab kia hota..
+4/4/24, 10:11 AM - Muhammad Omar Farooq: pehle command run ki phir reboot?
+4/4/24, 10:12 AM - Umair 20CP UET: yes..
+4/4/24, 10:12 AM - Muhammad Omar Farooq: to phir abhi to koi process nahi run kr rha hoga
+4/4/24, 10:12 AM - Muhammad Omar Farooq: sudo dpkg-reconfigure gdm3
+4/4/24, 10:12 AM - Umair 20CP UET: oks..
+4/4/24, 10:13 AM - Muhammad Omar Farooq: nahi krta phir dosra solution wrna phir ubuntu new
+4/4/24, 10:14 AM - Muhammad Omar Farooq: ya phir dekh lo agr yeh try krna abhi:
+4/4/24, 10:15 AM - Muhammad Omar Farooq: agr lag rha ke time le rha wo gdm reconfigure wala
+4/4/24, 10:16 AM - Umair 20CP UET: Kia karoon..?
+4/4/24, 10:16 AM - Umair 20CP UET: Wait..??
+4/4/24, 10:16 AM - Muhammad Omar Farooq: command run ki?
+4/4/24, 10:16 AM - Umair 20CP UET: reboot honay kay baad yahan a kay stuck hua..
+4/4/24, 10:17 AM - Umair 20CP UET: alt + f3 per jaoon dobara..?
+4/4/24, 10:17 AM - Muhammad Omar Farooq: then phir yehi try kro:
+4/4/24, 10:17 AM - Muhammad Omar Farooq: yes
+4/4/24, 10:20 AM - Umair 20CP UET: lightdm install nahi kar raha..
+4/4/24, 10:21 AM - Muhammad Omar Farooq: cable laye ho sath?
+4/4/24, 10:21 AM - Umair 20CP UET: yes
+4/4/24, 10:21 AM - Muhammad Omar Farooq: wo lgana
+4/4/24, 10:21 AM - Umair 20CP UET: acha..
+4/4/24, 10:22 AM - Muhammad Omar Farooq: phir 
+4/4/24, 10:23 AM - Muhammad Omar Farooq: then sudo apt-get install --fix-missing
+4/4/24, 10:24 AM - Umair 20CP UET: wingle say connect karnay ka tareeka batao..cable choti hai..
+4/4/24, 10:25 AM - Muhammad Omar Farooq: nmcli d wifi list
+4/4/24, 10:26 AM - Umair 20CP UET: Wingle say connect karnay kay baad..
+4/4/24, 10:26 AM - Muhammad Omar Farooq: gdm
+4/4/24, 10:26 AM - Umair 20CP UET: OK karoon..?
+4/4/24, 10:26 AM - Muhammad Omar Farooq: nmcli d wifi connect eduroam password <password>
+4/4/24, 10:26 AM - Muhammad Omar Farooq: hn
+4/4/24, 10:27 AM - Muhammad Omar Farooq: is se rhne do
+4/4/24, 10:27 AM - Umair 20CP UET: OK karnay kay baad..
+4/4/24, 10:27 AM - Muhammad Omar Farooq: hogya connect?
+4/4/24, 10:27 AM - Umair 20CP UET: Video call per a jao..
+4/4/24, 10:27 AM - Muhammad Omar Farooq: ping google.com krke dekho
+4/4/24, 10:27 AM - Umair 20CP UET: A raha..
+4/4/24, 10:28 AM - Muhammad Omar Farooq: null
+4/4/24, 10:29 AM - Muhammad Omar Farooq: yeh
+4/4/24, 10:29 AM - Umair 20CP UET: ..
+4/4/24, 10:29 AM - Muhammad Omar Farooq: .
+4/4/24, 10:41 AM - Umair 20CP UET: https://askubuntu.com/questions/1387858/cannot-enter-gui-with-finished-wait-until-snapd-is-fully-seeded
+4/4/24, 10:43 AM - Umair 20CP UET: ubuntu new karnay say cuda wagira khudi ho jae ga..?
+4/4/24, 10:44 AM - Muhammad Omar Farooq: krna prega i think
+4/4/24, 10:44 AM - Muhammad Omar Farooq: uske drivers install
+4/4/24, 10:52 AM - Umair 20CP UET: umer bootable ka check karo UEFI kay sath NTFS main sahi hai ya FAT32 main??
+4/4/24, 10:54 AM - Muhammad Omar Farooq: pehle yeh check kr lete uefi hai ya mbr
+4/4/24, 10:54 AM - Muhammad Omar Farooq: yeh run krna:
+4/4/24, 10:54 AM - Umair 20CP UET: acha...abhi reboot karnay kay baad ...black screen aur white cursor a raha hai..
+4/4/24, 10:55 AM - Muhammad Omar Farooq: oks
+4/4/24, 10:56 AM - Umair 20CP UET: kia kia jae ab..?
+4/4/24, 10:56 AM - Muhammad Omar Farooq: sudo apt-get install ubuntu-desktop
+4/4/24, 10:57 AM - Umair 20CP UET: ho gae..reboot karoon..?
+4/4/24, 11:26 AM - Umair 20CP UET: Umer bero kider gae..?
+4/4/24, 11:28 AM - Muhammad Omar Farooq: idhr
+4/4/24, 11:29 AM - Umair 20CP UET: call per ao na..
+4/4/24, 11:30 AM - Umair 20CP UET: Jaldi karna time kam hai..imran shab nay lab band karni hai..
+4/4/24, 11:25 AM - Umair 20CP UET: null
+4/4/24, 11:25 AM - Umair 20CP UET: null
+4/4/24, 11:29 AM - Umair 20CP UET: null
+4/4/24, 11:31 AM - Umair 20CP UET: null
+4/4/24, 11:33 AM - Umair 20CP UET: null
+4/4/24, 11:41 AM - Umair 20CP UET: laptop per wattsapp nahi chal sakta..?
+4/4/24, 11:45 AM - Umair 20CP UET: null
+4/4/24, 12:00 PM - Umair 20CP UET: umer bero..?
+4/4/24, 12:16 PM - Umair 20CP UET: null
+4/4/24, 12:40 PM - Umair 20CP UET: 1816621941

@@ -1,0 +1,33 @@
+8/22/22, 5:23 PM - Umair 20CP UET: Bro ap kay pass downloaded hai ya online..??
+8/22/22, 5:23 PM - Umair 20CP UET: ager online hai to link send kar dena ..main download kar loon ga...
+8/22/22, 5:36 PM - Umair 20CP UET: Thanks bro...
+8/22/22, 5:36 PM - Muhammad Omar Farooq: Np
+8/22/22, 5:37 PM - Umair 20CP UET: Bro kuch highlights batao kia parh rahey ho..???
+8/22/22, 5:37 PM - Umair 20CP UET: kia parha ...
+8/22/22, 5:37 PM - Umair 20CP UET: ??
+8/22/22, 5:37 PM - Umair 20CP UET: mySQL aur php main..
+8/22/22, 5:37 PM - Muhammad Omar Farooq: mysql mein queries
+8/22/22, 5:37 PM - Muhammad Omar Farooq: CREATE DATABASE
+8/22/22, 5:38 PM - Muhammad Omar Farooq: SHOW DATABASE
+8/22/22, 5:38 PM - Muhammad Omar Farooq: CREATE TABLE
+8/22/22, 5:38 PM - Muhammad Omar Farooq: SHOW TABLES
+8/22/22, 5:38 PM - Muhammad Omar Farooq: SELECT query
+8/22/22, 5:38 PM - Muhammad Omar Farooq: WHERE
+8/22/22, 5:38 PM - Muhammad Omar Farooq: boht si queries hain
+8/22/22, 5:38 PM - Umair 20CP UET: database ka idea kia hai..??
+8/22/22, 5:38 PM - Muhammad Omar Farooq: ADD
+8/22/22, 5:38 PM - Umair 20CP UET: kia scene hota hai..??
+8/22/22, 5:38 PM - Muhammad Omar Farooq: database is used to store data on the server
+8/22/22, 5:39 PM - Umair 20CP UET: so mySQL is  a language which is used to help out store that data on server/..
+8/22/22, 5:39 PM - Umair 20CP UET: ?
+8/22/22, 5:39 PM - Muhammad Omar Farooq: yes
+8/22/22, 5:39 PM - Muhammad Omar Farooq: by making tables
+8/22/22, 5:40 PM - Umair 20CP UET: Oo....nice...
+8/22/22, 5:40 PM - Muhammad Omar Farooq: databases ki age types hoti hain
+8/22/22, 5:40 PM - Umair 20CP UET: Acha...
+8/22/22, 5:40 PM - Umair 20CP UET: Bro ap ko graphic designing main interest hai..?
+8/22/22, 5:41 PM - Muhammad Omar Farooq: thora boht
+8/22/22, 5:41 PM - Umair 20CP UET: aur videography wagira main..
+8/22/22, 5:41 PM - Umair 20CP UET: ??
+8/22/22, 5:41 PM - Muhammad Omar Farooq: nope
+8/22/22, 5:41 PM - Umair 20CP UET: Acha..

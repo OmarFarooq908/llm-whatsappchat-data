@@ -1,0 +1,64 @@
+3/9/21, 5:43 PM - Muhammad Omar Farooq: jis trah html ka kiya tha shaed usi trah
+3/9/21, 5:43 PM - Muhammad Omar Farooq: code input and code output
+3/9/21, 5:45 PM - Muhammad Omar Farooq: Is trah krna mene tu
+3/9/21, 6:14 PM - Muhammad Omar Farooq: kya hoa
+3/9/21, 6:15 PM - Muhammad Omar Farooq: simple hai code input ki ss or code ouput
+3/9/21, 6:15 PM - Muhammad Omar Farooq: nope no intro
+3/9/21, 6:15 PM - Muhammad Omar Farooq: blke de hi dete hain
+3/9/21, 6:16 PM - Muhammad Omar Farooq: good idea
+3/9/21, 6:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya numbering kysay karty hu
+3/9/21, 6:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Likty hu?
+3/9/21, 6:18 PM - Muhammad Omar Farooq: nope
+3/9/21, 6:18 PM - Muhammad Omar Farooq: google maaro
+3/9/21, 6:18 PM - Muhammad Omar Farooq: how to write code in ms word
+3/9/21, 6:18 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kis ka do gy?
+3/9/21, 6:18 PM - Muhammad Omar Farooq: mujhe bhi bhol gya ek baar hi kiya tha
+3/9/21, 6:19 PM - Muhammad Omar Farooq: write nahi 
+3/9/21, 6:38 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara lykin numbering vala ni pata lag ra
+3/9/21, 6:38 PM - Muhammad Omar Farooq: ek second mein phir se search marta
+3/9/21, 6:39 PM - Muhammad Omar Farooq: https://www.lifewire.com/insert-source-code-into-word-document-3994582
+3/9/21, 6:40 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Numbring ni a ti n
+3/9/21, 6:40 PM - Muhammad Omar Farooq: this is how I found this beautiful tip
+3/9/21, 6:41 PM - Muhammad Omar Farooq: meri to aati hai
+3/9/21, 6:41 PM - Muhammad Omar Farooq: Oo
+3/9/21, 6:42 PM - Muhammad Omar Farooq: ¯\_(ツ)_/¯
+3/9/21, 6:43 PM - Muhammad Omar Farooq: ss na paste maaro
+3/9/21, 6:43 PM - Muhammad Omar Farooq: pura code us mein paste maaro ek second
+3/9/21, 6:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ss ni ha
+3/9/21, 6:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Past kiya ha code object file my
+3/9/21, 6:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Os ny source file may eaay dikaya
+3/9/21, 6:47 PM - Muhammad Omar Farooq: save it in the folder where the main document is located
+3/9/21, 6:47 PM - Muhammad Omar Farooq: object type pr microsoft word document hona chahiye
+3/9/21, 6:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Lykin pir bi yara Numbering ni a ri
+3/9/21, 6:48 PM - Muhammad Omar Farooq: oooooooooooooooooooooo
+3/9/21, 6:48 PM - Muhammad Omar Farooq: yaad aya
+3/9/21, 6:48 PM - Muhammad Omar Farooq: ek sec
+3/9/21, 6:52 PM - Muhammad Omar Farooq: nahi ho rhi
+3/9/21, 6:52 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ak min
+3/9/21, 6:53 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yaha say ni hi gi
+3/9/21, 6:53 PM - Muhammad Omar Farooq: ek second
+3/9/21, 6:55 PM - Muhammad Omar Farooq: ho gya mera bhi
+3/9/21, 6:56 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Lykin pora page zaya huta ha
+3/9/21, 7:01 PM - Muhammad Omar Farooq: blke inka mushahida kro
+3/9/21, 7:01 PM - Muhammad Omar Farooq: easy scene IA
+3/9/21, 7:03 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is my bi ni ha
+3/9/21, 7:03 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Number
+3/9/21, 7:10 PM - Muhammad Omar Farooq: easy scene
+3/9/21, 7:16 PM - Muhammad Omar Farooq: pta chla ?
+3/9/21, 7:20 PM - Muhammad Omar Farooq: easy peasy lemon squeasy. Works only for visual studio code.
+3/9/21, 7:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: gi
+3/9/21, 7:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: bilkul
+3/9/21, 7:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: dad kay pass ta
+3/9/21, 7:32 PM - Muhammad Omar Farooq: Good hogya
+3/9/21, 7:41 PM - Muhammad Omar Farooq: Test kr rha tha
+3/9/21, 7:41 PM - Muhammad Omar Farooq: Ye gif nahi
+3/9/21, 7:47 PM - Muhammad Omar Farooq: My Islamiyat assignment completed
+3/9/21, 7:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include <iostream>
+3/9/21, 7:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 98
+3/9/21, 7:48 PM - Muhammad Omar Farooq: Oo
+3/9/21, 7:48 PM - Muhammad Omar Farooq: Let me run this
+3/9/21, 7:52 PM - Muhammad Omar Farooq: #include <iostream>
+3/9/21, 8:19 PM - Muhammad Omar Farooq: Chla?
+3/9/21, 8:20 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: abi laptop masti kara ha bar bar
+3/9/21, 8:20 PM - Muhammad Omar Farooq: Kya hoa
+3/9/21, 8:20 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: is ko thra time chahiya

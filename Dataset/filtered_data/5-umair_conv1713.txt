@@ -1,0 +1,14 @@
+5/1/24, 5:39 PM - Umair 20CP UET: above are the responses observed after training..
+5/1/24, 5:40 PM - Umair 20CP UET: books_dataset ki file main sari books kay question answers hain..us file ko dobara training per laga dain.?
+5/1/24, 5:56 PM - Muhammad Omar Farooq: Hn dobara lga do training pr
+5/1/24, 5:57 PM - Umair 20CP UET: yeh oper waley responses kaisey hain ..sahi hain..?
+5/1/24, 5:57 PM - Umair 20CP UET: us say karab to nahi hoey ga..?
+5/1/24, 5:57 PM - Muhammad Omar Farooq: Yes best Hain.
+5/1/24, 5:57 PM - Muhammad Omar Farooq: Ho bhi skta Lekin itna nahi hona chahiye
+5/1/24, 5:58 PM - Muhammad Omar Farooq: Ziyada farak nahi prega
+5/1/24, 5:58 PM - Umair 20CP UET: book_dataset ki file main 9k-10k questions hain..approx
+5/1/24, 5:58 PM - Muhammad Omar Farooq: Han enough hain yeh
+5/1/24, 5:59 PM - Umair 20CP UET: oks.
+5/1/24, 6:00 PM - Umair 20CP UET: max_steps = 500
+5/1/24, 6:00 PM - Umair 20CP UET: yeh change karnay ki zaroorat to nahi hai..?
+5/1/24, 6:00 PM - Muhammad Omar Farooq: Nope. Zaroorat nahi hai

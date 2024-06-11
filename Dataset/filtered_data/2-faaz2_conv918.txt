@@ -1,0 +1,17 @@
+9/30/21, 8:21 PM - Muhammad Omar Farooq: Calculation 🤖
+9/30/21, 8:21 PM - Muhammad Omar Farooq: For current
+9/30/21, 8:22 PM - Muhammad Omar Farooq: For example 0.1V hai resistor ka
+9/30/21, 8:22 PM - Muhammad Omar Farooq: Or 1k resistance
+9/30/21, 8:22 PM - Muhammad Omar Farooq: To phir
+9/30/21, 8:22 PM - Muhammad Omar Farooq: V = I R
+9/30/21, 8:22 PM - Muhammad Omar Farooq: I yahan se nikl aega
+9/30/21, 8:23 PM - Muhammad Omar Farooq: Diode current
+9/30/21, 8:23 PM - Muhammad Omar Farooq: Diode voltage ke liye KVL
+9/30/21, 8:42 PM - Muhammad Omar Farooq: Khana kha rha hoon
+9/30/21, 8:42 PM - Muhammad Omar Farooq: Vn baad ich
+9/30/21, 8:42 PM - Muhammad Omar Farooq: Bs yeh Dekho na
+9/30/21, 8:43 PM - Muhammad Omar Farooq: Resistance constant hai = 1k
+9/30/21, 8:45 PM - Muhammad Omar Farooq: V = voltage of resistor = 0.1V
+9/30/21, 8:45 PM - Muhammad Omar Farooq: I = current through resistor = current through diode = V/R
+9/30/21, 8:45 PM - Muhammad Omar Farooq: This remains constant
+9/30/21, 8:46 PM - Muhammad Omar Farooq: Idhr yeh change hoti rhen gi for different test cases

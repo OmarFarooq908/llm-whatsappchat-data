@@ -1,0 +1,16 @@
+5/1/23, 6:42 PM - Muhammad Omar Farooq: Iski slides thori outdated nahi hain?
+5/1/23, 6:43 PM - Muhammad Omar Farooq: Kal idhr Hoge na?
+5/1/23, 6:43 PM - Umair 20CP UET: hmm..8th edition..
+5/1/23, 6:43 PM - Umair 20CP UET: ki slides hain..
+5/1/23, 6:43 PM - Umair 20CP UET: kal dekhoon ga..most probably ..yes..
+5/1/23, 6:44 PM - Muhammad Omar Farooq: Okd
+5/1/23, 6:45 PM - Umair 20CP UET: Zia aya AJ..?
+5/1/23, 6:45 PM - Muhammad Omar Farooq: Nahi 😂
+5/1/23, 7:05 PM - Umair 20CP UET: yar kuch batao kia parhna ….dil hi nahi  kar raha parhnay ka..
+5/1/23, 7:10 PM - Muhammad Omar Farooq: yaar
+5/1/23, 7:10 PM - Muhammad Omar Farooq: mujhe khud kuch smjh nahi aarhi
+5/1/23, 7:11 PM - Muhammad Omar Farooq: chapter 1,2,3 mein kuch khas nahi swaye
+5/1/23, 7:11 PM - Muhammad Omar Farooq: cardinality constraints degree of relationship or relationships
+5/1/23, 7:12 PM - Muhammad Omar Farooq: baaki 4 dekho wo important hai i think. normalization
+5/1/23, 7:15 PM - Umair 20CP UET: 5 aur 6 to SQL queries waley hain..
+5/1/23, 7:15 PM - Muhammad Omar Farooq: yes

@@ -1,0 +1,55 @@
+8/5/22, 5:53 PM - Umair 20CP UET: ??
+8/5/22, 5:53 PM - Muhammad Omar Farooq: Gnome
+8/5/22, 5:53 PM - Muhammad Omar Farooq: Inke ilawa sab kro
+8/5/22, 5:54 PM - Umair 20CP UET: OK.. bro ..thanks..
+8/5/22, 5:54 PM - Muhammad Omar Farooq: Np
+8/5/22, 6:07 PM - Umair 20CP UET: ??
+8/5/22, 6:08 PM - Umair 20CP UET: Bro you know about it..??
+8/5/22, 6:09 PM - Umair 20CP UET: ...
+8/5/22, 6:10 PM - Umair 20CP UET: Missed voice call
+8/5/22, 6:10 PM - Muhammad Omar Farooq: Yes
+8/5/22, 6:11 PM - Muhammad Omar Farooq: Wait
+8/5/22, 6:11 PM - Umair 20CP UET: OK.. 
+8/5/22, 6:11 PM - Umair 20CP UET: OK..
+8/5/22, 6:12 PM - Muhammad Omar Farooq: Krdo yes
+8/5/22, 6:15 PM - Umair 20CP UET: OK..
+8/5/22, 6:15 PM - Umair 20CP UET: Pakka
+8/5/22, 6:17 PM - Umair 20CP UET: ??
+8/5/22, 6:24 PM - Muhammad Omar Farooq: Last 2 mein se koi bhi
+8/5/22, 6:29 PM - Umair 20CP UET: Bro ho to gai but wo option kaisey aye ga jis main ham select karein kali ya windows.
+8/5/22, 6:29 PM - Muhammad Omar Farooq: Kali ho gai?
+8/5/22, 6:29 PM - Umair 20CP UET: Hmm..
+8/5/22, 6:29 PM - Muhammad Omar Farooq: Restart kya ?
+8/5/22, 6:29 PM - Umair 20CP UET: But chali nahi..
+8/5/22, 6:29 PM - Umair 20CP UET: Hmm..
+8/5/22, 6:30 PM - Umair 20CP UET: Boot main settings kaisey karni ..??
+8/5/22, 6:31 PM - Muhammad Omar Farooq: Kali chlao
+8/5/22, 6:31 PM - Umair 20CP UET: Kaisey..??
+8/5/22, 6:31 PM - Muhammad Omar Farooq: Kali nahi Chali?
+8/5/22, 6:32 PM - Umair 20CP UET: Nope..
+8/5/22, 6:32 PM - Umair 20CP UET: Windows per direct a jata hai .
+8/5/22, 6:35 PM - Muhammad Omar Farooq: Add boot option
+8/5/22, 6:35 PM - Umair 20CP UET: Us main  gia ..
+8/5/22, 6:35 PM - Muhammad Omar Farooq: Kia aya?
+8/5/22, 6:35 PM - Umair 20CP UET: Aik min dekhata..
+8/5/22, 6:38 PM - Muhammad Omar Farooq: Click this
+8/5/22, 6:38 PM - Muhammad Omar Farooq: Click efi
+8/5/22, 6:39 PM - Muhammad Omar Farooq: Wait
+8/5/22, 6:39 PM - Muhammad Omar Farooq: Select file system FSO
+8/5/22, 6:39 PM - Muhammad Omar Farooq: Then this
+8/5/22, 6:40 PM - Muhammad Omar Farooq: Yeh efi mein hai?
+8/5/22, 6:40 PM - Umair 20CP UET: Hmm..
+8/5/22, 6:40 PM - Muhammad Omar Farooq: Select boot
+8/5/22, 6:40 PM - Umair 20CP UET: OK karoon..??
+8/5/22, 6:41 PM - Muhammad Omar Farooq: Yes
+8/5/22, 6:41 PM - Muhammad Omar Farooq: Select the file first
+8/5/22, 6:41 PM - Muhammad Omar Farooq: Then ok
+8/5/22, 6:41 PM - Muhammad Omar Farooq: 💀
+8/5/22, 6:41 PM - Muhammad Omar Farooq: Yes
+8/5/22, 6:41 PM - Muhammad Omar Farooq: Ok
+8/5/22, 6:42 PM - Muhammad Omar Farooq: 🤤
+8/5/22, 6:45 PM - Umair 20CP UET: Chalo dekho koi solution milta to..
+8/5/22, 6:45 PM - Muhammad Omar Farooq: Yo
+8/5/22, 6:45 PM - Muhammad Omar Farooq: Change your bios mode to legacy
+8/5/22, 7:01 PM - Umair 20CP UET: Hmm..main nay window 10 uefi mod main hi ki thi..isi liay keh raha hoon..
+8/5/22, 7:01 PM - Muhammad Omar Farooq: Oks

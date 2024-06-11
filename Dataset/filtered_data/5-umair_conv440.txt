@@ -1,0 +1,15 @@
+3/9/22, 1:23 AM - Umair 20CP UET: Umer bro df command shell per kia karti hai..??
+3/9/22, 1:38 AM - Muhammad Omar Farooq: Disk space show krti hai
+3/9/22, 1:38 AM - Muhammad Omar Farooq: free
+3/9/22, 1:39 AM - Muhammad Omar Farooq: Yeh ram memory show krti hai
+3/9/22, 1:39 AM - Muhammad Omar Farooq: df
+3/9/22, 1:39 AM - Muhammad Omar Farooq: Disk space show krti hai
+3/9/22, 1:39 AM - Muhammad Omar Farooq: df -h
+3/9/22, 1:39 AM - Muhammad Omar Farooq: Human readable form mein disk space show krti gai
+3/9/22, 1:39 AM - Muhammad Omar Farooq: Hai*
+3/9/22, 1:39 AM - Umair 20CP UET: is main yeh kia hain..?
+3/9/22, 1:40 AM - Muhammad Omar Farooq: Device ko as a directory consider krta hai linux
+3/9/22, 1:40 AM - Umair 20CP UET: oks..
+3/9/22, 1:40 AM - Umair 20CP UET: uni main is kay baray main discuss karein gae..
+3/9/22, 1:41 AM - Muhammad Omar Farooq: Okay hogya InshAllah
+3/9/22, 1:41 AM - Umair 20CP UET: INSHALLAH

@@ -1,0 +1,63 @@
+4/11/21, 8:19 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Zip file dali ha
+4/11/21, 8:19 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is ka i think
+4/11/21, 8:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+4/11/21, 8:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Umber bahi
+4/11/21, 8:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Omer
+4/11/21, 8:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include<iostream>
+4/11/21, 8:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Confidential ha ya
+4/11/21, 8:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is ki exe file do
+4/11/21, 8:22 PM - Muhammad Omar Farooq: Yeh kiska
+4/11/21, 8:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mayra laptop band hu gaua ha
+4/11/21, 8:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Jaldi pai
+4/11/21, 8:23 PM - Muhammad Omar Farooq: Oo
+4/11/21, 8:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Jaldi
+4/11/21, 8:23 PM - Muhammad Omar Farooq: Hai kiski
+4/11/21, 8:23 PM - Muhammad Omar Farooq: Acha acha
+4/11/21, 8:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Chalo rasty may bata hun
+4/11/21, 8:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Jawas ka
+4/11/21, 8:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hu gaya.?
+4/11/21, 8:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Tome bro time
+4/11/21, 8:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ni ha
+4/11/21, 8:25 PM - Muhammad Omar Farooq: error hai bro
+4/11/21, 8:25 PM - Muhammad Omar Farooq: time was not declared in this scope
+4/11/21, 8:25 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ss byjo
+4/11/21, 8:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Vs may karo
+4/11/21, 8:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Odar hu jay ga
+4/11/21, 8:26 PM - Muhammad Omar Farooq: oks
+4/11/21, 8:27 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Apna q nam lika ha
+4/11/21, 8:27 PM - Muhammad Omar Farooq: pehle likha hoa tha
+4/11/21, 8:27 PM - Muhammad Omar Farooq: usku bolna change krde
+4/11/21, 8:28 PM - Muhammad Omar Farooq: blke roko
+4/11/21, 8:28 PM - Muhammad Omar Farooq: don't send
+4/11/21, 8:28 PM - Muhammad Omar Farooq: i will change it
+4/11/21, 8:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Han na
+4/11/21, 8:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: May bi change karny laga ta
+4/11/21, 8:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Par laptop
+4/11/21, 8:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Jahaz
+4/11/21, 8:28 PM - Muhammad Omar Farooq: Oo
+4/11/21, 8:33 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Why this happens
+4/11/21, 8:33 PM - Muhammad Omar Farooq: more info kro
+4/11/21, 8:33 PM - Muhammad Omar Farooq: run anyway kro phir
+4/11/21, 8:33 PM - Muhammad Omar Farooq: windows expressing some madness
+4/11/21, 8:34 PM - Muhammad Omar Farooq: array scene
+4/11/21, 8:34 PM - Muhammad Omar Farooq: array overloaded
+4/11/21, 8:35 PM - Muhammad Omar Farooq: yaar array 0 se shuru hoti to agar array ki position 1 less hoti
+4/11/21, 8:35 PM - Muhammad Omar Farooq: to kabhi ghalti se aese hota ke hum one less kiye beghair conditions use krte
+4/11/21, 8:35 PM - Muhammad Omar Farooq: wo issue
+4/11/21, 8:36 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Voice may batao
+4/11/21, 8:44 PM - Muhammad Omar Farooq: pta nahi yaara
+4/11/21, 8:44 PM - Muhammad Omar Farooq: Lolz
+4/11/21, 8:45 PM - Muhammad Omar Farooq: bus kuch rehte bechare Allah behtr krsi IA
+4/11/21, 8:46 PM - Muhammad Omar Farooq: sab teez hain zahir nahi krte.
+4/11/21, 8:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pir my kar lyta hun
+4/11/21, 8:48 PM - Muhammad Omar Farooq: han matlab hamare group ke or kuch bacho ke ilawa
+4/11/21, 8:48 PM - Muhammad Omar Farooq: majority
+4/11/21, 8:51 PM - Muhammad Omar Farooq: CA ki assignment ka sunao kiya haal hai?
+4/11/21, 8:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sir is on fire
+4/11/21, 8:52 PM - Muhammad Omar Farooq: sir ka koi jawab nahi
+4/11/21, 8:52 PM - Muhammad Omar Farooq: abhi agle semester ke sir bhi hain bro
+4/11/21, 8:52 PM - Muhammad Omar Farooq: EE ke
+4/11/21, 8:52 PM - Muhammad Omar Farooq: wo bhi strict hain
+4/11/21, 8:52 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ee kon sy
+4/11/21, 8:52 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yahi?
+4/11/21, 8:53 PM - Muhammad Omar Farooq: Electrical ka subject hai koi

@@ -1,0 +1,18 @@
+3/9/21, 5:06 PM - Umair 20CP UET: ???
+3/9/21, 5:12 PM - Muhammad Omar Farooq: +- akatha nahi askta
+3/9/21, 5:12 PM - Umair 20CP UET: But formula main to asie hi hota hai...
+3/9/21, 5:13 PM - Umair 20CP UET: -ko hata kar bhi yahi error hai...??
+3/9/21, 5:13 PM - Muhammad Omar Farooq: sqrt mein pow nahi aaskta
+3/9/21, 5:14 PM - Umair 20CP UET: To phir is formula ko console main nahi lik Saktay..??
+3/9/21, 5:15 PM - Umair 20CP UET: Means is ko use kis tarha karein gae..??
+3/9/21, 5:16 PM - Muhammad Omar Farooq: pehle bsquare - 4ac ki value calculate kro
+3/9/21, 5:16 PM - Muhammad Omar Farooq: phir us variable pr square root lgao
+3/9/21, 5:19 PM - Muhammad Omar Farooq: console pr formula ajaega lekin x ki value phir calculate nahi hogi is tarah
+3/9/21, 5:22 PM - Muhammad Omar Farooq: power pehle apply krna hai
+3/9/21, 5:22 PM - Muhammad Omar Farooq: phir square root
+3/9/21, 5:22 PM - Umair 20CP UET: Ok...I'll check ..
+3/9/21, 5:24 PM - Muhammad Omar Farooq: sub escape sequences jo prhe hain wo use krne hain
+3/9/21, 5:25 PM - Umair 20CP UET: Us ****wali line ko liknay kay lia ya...waisey koi sa bhi program lik kay is main use karnay hain...???
+3/9/21, 5:26 PM - Muhammad Omar Farooq: smjh nai ai
+3/9/21, 5:28 PM - Muhammad Omar Farooq: mujhe nahi lagta ke yeh cout krana hai
+3/9/21, 5:28 PM - Umair 20CP UET: Ok...

@@ -1,0 +1,66 @@
+5/21/21, 9:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: a daso yar
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: iadr my kya mistake karta hun
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: samj ni a ri
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya r
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: koch karo na
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: samjao
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yoy
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: oy
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: y
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: oy
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: o
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: y
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: oy
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: o
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yo
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: y
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: o
+5/21/21, 9:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: y
+5/21/21, 9:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: 🥸
+5/21/21, 9:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: waiting bro
+5/21/21, 9:41 PM - Muhammad Omar Farooq: Yoooo
+5/21/21, 9:41 PM - Muhammad Omar Farooq: Abbu ke pass tha jaani
+5/21/21, 9:41 PM - Muhammad Omar Farooq: Masla hal hoa k nahi
+5/21/21, 9:41 PM - Muhammad Omar Farooq: Kithe hooo
+5/21/21, 9:41 PM - Muhammad Omar Farooq: Ithe aoooo
+5/21/21, 9:42 PM - Muhammad Omar Farooq: Apka BHi WhatsApp masti kr rha
+5/21/21, 9:42 PM - Muhammad Omar Farooq: Apko messages receive nahi ho rhe
+5/21/21, 9:43 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ni
+5/21/21, 9:45 PM - Muhammad Omar Farooq: Oo
+5/21/21, 9:45 PM - Muhammad Omar Farooq: Send code
+5/21/21, 9:45 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Samajin yar
+5/21/21, 9:45 PM - Muhammad Omar Farooq: Yes sir
+5/21/21, 9:46 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include <iostream>
+5/21/21, 9:49 PM - Muhammad Omar Farooq: les do this
+5/21/21, 9:53 PM - Muhammad Omar Farooq: array ke liye pointer use krte ig
+5/21/21, 9:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: * vala ???
+5/21/21, 9:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: pointer?
+5/21/21, 9:54 PM - Muhammad Omar Farooq: yes
+5/21/21, 9:54 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: jani is ko kyasy theek karon mtlb ab kon si logic maron
+5/21/21, 9:55 PM - Muhammad Omar Farooq: wese yaar idhr by reference pass krne ki zaroorat nahi hai
+5/21/21, 9:56 PM - Muhammad Omar Farooq: kiyon ke hum ne na to kuch change krna hai array mein
+5/21/21, 9:57 PM - Muhammad Omar Farooq: kiyonke hum ne bus array ki rows dekhne or uska sum output krana
+5/21/21, 10:01 PM - Muhammad Omar Farooq: sahi btaon to is program ko simple krne ki koshish kro
+5/21/21, 10:02 PM - Muhammad Omar Farooq: mene bus 5 by 5 ki array declare krke khela hai
+5/21/21, 10:04 PM - Muhammad Omar Farooq: #include <iostream>
+5/21/21, 10:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Voice may samajo
+5/21/21, 10:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yar
+5/21/21, 10:06 PM - Muhammad Omar Farooq: #include <iostream>
+5/21/21, 10:08 PM - Muhammad Omar Farooq: Oo
+5/21/21, 10:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yi
+5/21/21, 10:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+5/21/21, 10:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sona ni ha abi
+5/21/21, 10:29 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya smja fo
+5/21/21, 10:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yar ya  2D 3D mayjya rula dyti ha
+5/21/21, 10:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: always outer loop show the row while inner loop show the coluols
+5/21/21, 10:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: *coloum

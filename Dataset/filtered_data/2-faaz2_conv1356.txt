@@ -1,0 +1,37 @@
+9/20/22, 7:51 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sir
+9/20/22, 7:52 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: thoa time nikalayn myry liya
+9/20/22, 8:06 PM - Muhammad Omar Farooq: Sai declare ki hai
+9/20/22, 8:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: error ni samjlag ri bai
+9/20/22, 8:07 PM - Muhammad Omar Farooq: Index bhi dalna hota hai array ka
+9/20/22, 8:07 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: esay?
+9/20/22, 8:07 PM - Muhammad Omar Farooq: X+1 nahi kr skte. Append kro
+9/20/22, 8:08 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: mtlb kya likon?
+9/20/22, 8:08 PM - Muhammad Omar Farooq: Iska no idea
+9/20/22, 8:08 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: vo to myjy bi ata ha laykin ap koo koch samj a ri ha?
+9/20/22, 8:09 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lamda kis liya
+9/20/22, 8:09 PM - Muhammad Omar Farooq: xa.append(xaa)
+9/20/22, 8:09 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: huta
+9/20/22, 8:09 PM - Muhammad Omar Farooq: Lekin mujhe nahi ata. Iska mujhe nahi pta
+9/20/22, 8:10 PM - Muhammad Omar Farooq: Lambda ka nahi pta
+9/20/22, 8:10 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: is ki koi khass wjha?
+9/20/22, 8:11 PM - Muhammad Omar Farooq: Syntax
+9/20/22, 8:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: array my esa hi huta ha?
+9/20/22, 8:12 PM - Muhammad Omar Farooq: Yes
+9/20/22, 8:12 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: sulman sb ky pechy parra ra my
+9/20/22, 8:13 PM - Muhammad Omar Farooq: For inserting element into array
+9/20/22, 8:13 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: lykin on bai ny ya batanay ki zahmat hi ni pata ni q
+9/20/22, 8:13 PM - Muhammad Omar Farooq: Oo
+9/20/22, 8:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: DSp valay sir ny kya parhaya ta?
+9/20/22, 8:14 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: \or A4 Papers ky bary my kya bataya
+9/20/22, 8:15 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: numpylibrary ky baray ,my batao
+9/20/22, 8:26 PM - Muhammad Omar Farooq: A4 pr notes bnao.
+9/20/22, 8:26 PM - Muhammad Omar Farooq: Haven't used them.
+9/20/22, 8:27 PM - Muhammad Omar Farooq: Format specifiers use hoe hain
+9/20/22, 8:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: If i make on copy then?
+9/20/22, 8:29 PM - Muhammad Omar Farooq: Sir ne iska kuch nahi btaya
+9/20/22, 8:34 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: bachon ny copy py kaam kiya ta?
+9/20/22, 8:35 PM - Muhammad Omar Farooq: Yes
+9/20/22, 8:35 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: then kya huva?
+9/20/22, 8:35 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: koch bataop to sai
+9/20/22, 8:36 PM - Muhammad Omar Farooq: Nahi kehte sir kuch.
+9/20/22, 8:36 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: parhai kub kar ry hu aj kall?

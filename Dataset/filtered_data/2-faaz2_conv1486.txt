@@ -1,0 +1,36 @@
+4/23/23, 9:03 PM - Muhammad Omar Farooq: Faaz bero
+4/23/23, 9:04 PM - Muhammad Omar Farooq: ml lab ka project koi bna bnaya uthana hai? ya khud se bnana hai?
+4/23/23, 9:04 PM - Muhammad Omar Farooq: dbms ka to bna bnaya uthana hai
+4/23/23, 9:05 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yo
+4/23/23, 9:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: DBMS k yar ham ny simple hi othaya
+4/23/23, 9:06 PM - Muhammad Omar Farooq: konsa?
+4/23/23, 9:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Python based ak hi table huta os mh
+4/23/23, 9:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Student management system
+4/23/23, 9:06 PM - Muhammad Omar Farooq: oks
+4/23/23, 9:06 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ml ka vi esa ha ha ahid game ka dyk ry ty
+4/23/23, 9:07 PM - Muhammad Omar Farooq: okay hogya
+4/23/23, 9:07 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kya khaty hu sai ha?
+4/23/23, 9:08 PM - Muhammad Omar Farooq: sahi hai. pr agr 2 tables ho minimu to behtr hai shayed. ke nahi
+4/23/23, 9:12 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Pata ni yar mila hi ak table vala ta
+4/23/23, 9:12 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ab samj ni a ri ky sai ha ky ni
+4/23/23, 9:12 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ap log kon sa kar rh?
+4/23/23, 9:13 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ghar hu ap
+4/23/23, 9:15 PM - Muhammad Omar Farooq: yes
+4/23/23, 9:16 PM - Muhammad Omar Farooq: ml ka hi abhi decide hoa hai. password manager
+4/23/23, 9:16 PM - Muhammad Omar Farooq: dbms ka abhi nahi decide kya
+4/23/23, 9:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kis ko lagay ga,
+4/23/23, 9:17 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ban banaya othana?
+4/23/23, 9:18 PM - Muhammad Omar Farooq: khud bnane ka soch rha tha
+4/23/23, 9:18 PM - Muhammad Omar Farooq: lekin group mate keh rha ke net se uthate hain xD
+4/23/23, 9:19 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Time nista
+4/23/23, 9:19 PM - Muhammad Omar Farooq: haan
+4/23/23, 9:19 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kud kysay banao gy GUI bi hu ga na
+4/23/23, 9:19 PM - Muhammad Omar Farooq: 🥹
+4/23/23, 9:20 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Password manager kya kary ga?
+4/23/23, 9:20 PM - Muhammad Omar Farooq: passwords store krega
+4/23/23, 9:20 PM - Muhammad Omar Farooq: or password check krega ke strong waghera hai ke nahi
+4/23/23, 9:20 PM - Muhammad Omar Farooq: password generate krega
+4/23/23, 9:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya kysay karvao gy
+4/23/23, 9:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Random librar
+4/23/23, 9:21 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+4/23/23, 9:34 PM - Muhammad Omar Farooq: yes

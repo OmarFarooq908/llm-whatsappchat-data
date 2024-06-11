@@ -1,0 +1,73 @@
+3/10/21, 10:59 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: yara may nay to or koch lika ha
+3/10/21, 11:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include <iostream>
+3/10/21, 11:00 AM - Muhammad Omar Farooq: Oo
+3/10/21, 11:00 AM - Muhammad Omar Farooq: dekhao
+3/10/21, 11:00 AM - Muhammad Omar Farooq: oo
+3/10/21, 11:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: esa koch
+3/10/21, 11:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ya theek  ha>
+3/10/21, 11:00 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+3/10/21, 11:02 AM - Muhammad Omar Farooq: 🥸
+3/10/21, 11:02 AM - Muhammad Omar Farooq: whenever im on laptop i use this emoji
+3/10/21, 11:02 AM - Muhammad Omar Farooq: 🥸
+3/10/21, 11:03 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: a+=b
+3/10/21, 11:03 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+3/10/21, 11:03 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Samj ni ai isay theek kar do
+3/10/21, 11:03 AM - Muhammad Omar Farooq: yup
+3/10/21, 11:03 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is may kya likon sum =a+=b
+3/10/21, 11:03 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+3/10/21, 11:03 AM - Muhammad Omar Farooq: c*= (a+=b)
+3/10/21, 11:04 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sum= c*=(a+=b)
+3/10/21, 11:04 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ?
+3/10/21, 11:05 AM - Muhammad Omar Farooq: wait
+3/10/21, 11:07 AM - Muhammad Omar Farooq: don't think so
+3/10/21, 11:08 AM - Muhammad Omar Farooq: pta nahi
+3/10/21, 11:08 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kya?
+3/10/21, 11:08 AM - Muhammad Omar Farooq: krke dekha?
+3/10/21, 11:08 AM - Muhammad Omar Farooq: do dafa equal aya
+3/10/21, 11:09 AM - Muhammad Omar Farooq: but chal jae shaed
+3/10/21, 11:09 AM - Muhammad Omar Farooq: chla kr dekho
+3/10/21, 11:23 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: ap ny kysay kiya?
+3/10/21, 11:23 AM - Muhammad Omar Farooq: abhi kiya hi nahi
+3/10/21, 11:23 AM - Muhammad Omar Farooq: xD
+3/10/21, 11:24 AM - Muhammad Omar Farooq: 4 5 rehte hain chote programs jaldi se krlenge
+3/10/21, 11:26 AM - Muhammad Omar Farooq: yeh bhi lgane hain lab report mein?
+3/10/21, 11:27 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: O bahi
+3/10/21, 11:27 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: O bahi
+3/10/21, 11:27 AM - Muhammad Omar Farooq: acha
+3/10/21, 11:27 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kidar ja ry hu
+3/10/21, 11:27 AM - Muhammad Omar Farooq: acha
+3/10/21, 11:27 AM - Muhammad Omar Farooq: sai
+3/10/21, 11:27 AM - Muhammad Omar Farooq: theek
+3/10/21, 11:27 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ya algorithms ha
+3/10/21, 11:27 AM - Muhammad Omar Farooq: ye?
+3/10/21, 11:28 AM - Muhammad Omar Farooq: ya nahi
+3/10/21, 11:28 AM - Muhammad Omar Farooq: das dena
+3/10/21, 11:28 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara ya lab 1 ka ha jo ham nay ni katna
+3/10/21, 11:28 AM - Muhammad Omar Farooq: Oo
+3/10/21, 11:28 AM - Muhammad Omar Farooq: good ho gya
+3/10/21, 11:28 AM - Muhammad Omar Farooq: lab 2 onwards?
+3/10/21, 11:29 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Lab 2 bi sufyan ny kaha kay ni karni os ky khayal say
+3/10/21, 11:29 AM - Muhammad Omar Farooq: Oks
+3/10/21, 11:29 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Lykin sir ka pata ni kya chatyn hn
+3/10/21, 11:29 AM - Muhammad Omar Farooq: or yeh lab 3 bus?
+3/10/21, 11:29 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mam valai or lab 3
+3/10/21, 11:29 AM - Muhammad Omar Farooq: Lab 3 to easy si chote programs cout krane
+3/10/21, 11:30 AM - Muhammad Omar Farooq: yaar yeh mam wali yeh qoutient and remainder wali?
+3/10/21, 11:30 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Yara abi ham ny c++ start ki hana
+3/10/21, 11:30 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hamar khayal karo
+3/10/21, 11:30 AM - Muhammad Omar Farooq: xD
+3/10/21, 11:31 AM - Muhammad Omar Farooq: koi gal nahi ek do hafte mein kaam easy ho jae ga IA
+3/10/21, 11:31 AM - Muhammad Omar Farooq: good hogya
+3/10/21, 11:31 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: S4S may pocho kitny karny hn
+3/10/21, 11:31 AM - Muhammad Omar Farooq: good idea
+3/10/21, 11:32 AM - Muhammad Omar Farooq: puch lia
+3/10/21, 11:40 AM - Muhammad Omar Farooq: ubaid bhai ka reply aya bus
+3/10/21, 11:40 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Baqiyon nay seen kiya?
+3/10/21, 11:40 AM - Muhammad Omar Farooq: nahi
+3/10/21, 11:40 AM - Muhammad Omar Farooq: lolz
+3/10/21, 11:41 AM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Maria to tag kar lo
+3/10/21, 11:46 AM - Muhammad Omar Farooq: na kro yaar xD
+3/10/21, 11:46 AM - Muhammad Omar Farooq: apne bande hi jawab dete hain
+3/10/21, 11:58 AM - Muhammad Omar Farooq: yaar hamza bhai keh reh hain do as many as you can
+3/10/21, 11:59 AM - Muhammad Omar Farooq: Mai ne mam waly c++ lab 2 k aur lab 3 manual k liye
+3/10/21, 11:59 AM - Muhammad Omar Farooq: ubaid bhai

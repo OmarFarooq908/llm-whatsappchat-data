@@ -1,0 +1,12 @@
+2/25/23, 2:42 PM - Umair 20CP UET: Umer bero abhi kay liay tic tac toe game hi select kar letay hain..phir proposal tak soch kar sahi say jamma kar dain gae....nahi to yeh bhi select ho jae ga...
+2/25/23, 2:50 PM - Muhammad Omar Farooq: Yes bero
+2/25/23, 2:51 PM - Umair 20CP UET: kia kehtay ho yeh send kar doon jabir ko..??
+2/25/23, 3:16 PM - Umair 20CP UET: ??
+2/25/23, 3:43 PM - Muhammad Omar Farooq: risc wala send krdo mein to kahonga
+2/25/23, 3:44 PM - Muhammad Omar Farooq: module risc(
+2/25/23, 3:45 PM - Umair 20CP UET: yeh kahan say mila..??
+2/25/23, 3:46 PM - Muhammad Omar Farooq: chatGPT
+2/25/23, 3:46 PM - Umair 20CP UET: Mujey bhi wahin say mila tha..
+2/25/23, 3:47 PM - Umair 20CP UET: Zia ka reply nahi aya..
+2/25/23, 3:47 PM - Muhammad Omar Farooq: meri taraf se oka hai
+2/25/23, 3:47 PM - Muhammad Omar Farooq: sab se pehle apne ghabrana nahi hai.

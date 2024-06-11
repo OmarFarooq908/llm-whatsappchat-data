@@ -1,0 +1,8 @@
+4/27/22, 11:38 PM - Hassam Malik UET BCE: Q4.Write a program in C++  that accepts two sides of a rectangle from the user/keyboard and calculates the area and perimeter of it. Display the area and perimeter2(A*B) in output
+4/27/22, 11:38 PM - Hassam Malik UET BCE: Can u do this??
+4/27/22, 11:38 PM - Hassam Malik UET BCE: Ek frnd ka mid hai
+4/27/22, 11:38 PM - Muhammad Omar Farooq: 🤖
+4/27/22, 11:38 PM - Hassam Malik UET BCE: 😺
+4/27/22, 11:39 PM - Hassam Malik UET BCE: Isn't it simple??
+4/27/22, 11:44 PM - Muhammad Omar Farooq: #include <iostream>
+4/27/22, 11:55 PM - Hassam Malik UET BCE: 😳😳

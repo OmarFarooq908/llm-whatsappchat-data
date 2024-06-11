@@ -1,0 +1,31 @@
+7/29/22, 3:13 PM - Muhammad Omar Farooq: What is the difference between sequence and impulse train
+7/29/22, 3:14 PM - Muhammad Omar Farooq: Sawal aya kahin se
+7/29/22, 3:16 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sequence hi lika ha? Ya sampling huna chahjya?
+7/29/22, 3:16 PM - Muhammad Omar Farooq: Sequence
+7/29/22, 3:17 PM - Muhammad Omar Farooq: Oo
+7/29/22, 3:18 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Impulse train jo ha na vo hamari arithmetic sequence ha
+7/29/22, 3:19 PM - Muhammad Omar Farooq: Oks
+7/29/22, 3:19 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: With difference d
+7/29/22, 3:19 PM - Muhammad Omar Farooq: Oks. And sequence?
+7/29/22, 3:20 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sequence Ak chiz ky bad dosari chiz ati ha bina kisi ko skip kiya
+7/29/22, 3:21 PM - Muhammad Omar Farooq: Now I got this had to forward
+7/29/22, 3:22 PM - Muhammad Omar Farooq: Bhai mein hi hoon sawal puchne wala 😂
+7/29/22, 3:22 PM - Muhammad Omar Farooq: Yeh upper impulse train hai. Neche underlined sequence
+7/29/22, 3:22 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: DSP koli vi?
+7/29/22, 3:22 PM - Muhammad Omar Farooq: What is this behavior
+7/29/22, 3:23 PM - Muhammad Omar Farooq: Time axis change hai
+7/29/22, 3:23 PM - Muhammad Omar Farooq: Yes sampling dekh rha. Basic
+7/29/22, 3:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Mashallah
+7/29/22, 3:23 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Hmm
+7/29/22, 3:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kub ki start?
+7/29/22, 3:24 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sawal to ap ku dimag say aya pir to
+7/29/22, 3:25 PM - Muhammad Omar Farooq: Yes yeh kahin hamare dimagh se hai 😂
+7/29/22, 3:26 PM - Muhammad Omar Farooq: Nazr lag jaati you know. Had to disguise it 🥸
+7/29/22, 3:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Myri nazar saaf ha
+7/29/22, 3:26 PM - Muhammad Omar Farooq: Isko dekh kr kuch smjh aarha?
+7/29/22, 3:26 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Myjy is ka background samj ni aya
+7/29/22, 3:27 PM - Muhammad Omar Farooq: I know but you know devil never let go of an opportunity 😈
+7/29/22, 3:28 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Damm
+7/29/22, 3:31 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sampling say i guess
+7/29/22, 3:41 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ap ka shukriya ap ny myjy is qavil samja kay sawal poch liya
+7/29/22, 3:42 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: null

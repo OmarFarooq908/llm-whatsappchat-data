@@ -1,0 +1,74 @@
+1/16/24, 11:02 AM - Hassam Malik UET BCE: null
+1/16/24, 11:08 AM - Muhammad Omar Farooq: Yes Hassam brro
+1/16/24, 11:08 AM - Muhammad Omar Farooq: send the link
+1/16/24, 11:09 AM - Hassam Malik UET BCE: Gpt-4 ka??
+1/16/24, 11:09 AM - Muhammad Omar Farooq: paper
+1/16/24, 11:09 AM - Muhammad Omar Farooq: pics waghera
+1/16/24, 11:09 AM - Hassam Malik UET BCE: Yes abhi wo bhejen gy to phr
+1/16/24, 11:09 AM - Hassam Malik UET BCE: 11:15 bje start hona
+1/16/24, 11:10 AM - Hassam Malik UET BCE: Then he will send the paper
+1/16/24, 11:10 AM - Muhammad Omar Farooq: okay
+1/16/24, 11:18 AM - Hassam Malik UET BCE: Raady??
+1/16/24, 11:18 AM - Muhammad Omar Farooq: Let it begin
+1/16/24, 11:18 AM - Hassam Malik UET BCE: Yes i am waiting for them to send
+1/16/24, 11:19 AM - Muhammad Omar Farooq: yes
+1/16/24, 11:19 AM - Hassam Malik UET BCE: Aa gya
+1/16/24, 11:20 AM - Hassam Malik UET BCE: Ho jae ga??
+1/16/24, 11:21 AM - Muhammad Omar Farooq: Yes
+1/16/24, 11:21 AM - Hassam Malik UET BCE: Okay
+1/16/24, 11:21 AM - Hassam Malik UET BCE: Bhai se b help le lo🥹
+1/16/24, 11:21 AM - Muhammad Omar Farooq: oks
+1/16/24, 11:23 AM - Muhammad Omar Farooq: 9. A
+1/16/24, 11:25 AM - Muhammad Omar Farooq: 8.E
+1/16/24, 11:28 AM - Muhammad Omar Farooq: 10. B
+1/16/24, 11:28 AM - Hassam Malik UET BCE: Okay
+1/16/24, 11:28 AM - Hassam Malik UET BCE: Baqi b hurry🥹
+1/16/24, 11:31 AM - Muhammad Omar Farooq: 4. B
+1/16/24, 11:35 AM - Hassam Malik UET BCE: 🥹🥹
+1/16/24, 11:38 AM - Muhammad Omar Farooq: 5. C
+1/16/24, 11:39 AM - Hassam Malik UET BCE: Ali se sath sath last details wale questions ka keh do chatgpt se ho jana
+1/16/24, 11:39 AM - Hassam Malik UET BCE: Or mcqs ka hurry 🥹
+1/16/24, 11:39 AM - Hassam Malik UET BCE: Mang rha wo
+1/16/24, 11:39 AM - Muhammad Omar Farooq: 6. A
+1/16/24, 11:40 AM - Muhammad Omar Farooq: He is having a shower 🥹
+1/16/24, 11:40 AM - Hassam Malik UET BCE: Oh 🥲
+1/16/24, 11:43 AM - Hassam Malik UET BCE: I m doing 1
+1/16/24, 11:46 AM - Muhammad Omar Farooq: 7. C
+1/16/24, 11:46 AM - Muhammad Omar Farooq: page 5 all done
+1/16/24, 11:47 AM - Muhammad Omar Farooq: Page  4 all done
+1/16/24, 11:47 AM - Muhammad Omar Farooq: page 1,2,3
+1/16/24, 11:51 AM - Hassam Malik UET BCE: Okay
+1/16/24, 11:51 AM - Hassam Malik UET BCE: Next??
+1/16/24, 11:51 AM - Hassam Malik UET BCE: Q2
+1/16/24, 11:51 AM - Hassam Malik UET BCE: Hurry
+1/16/24, 11:52 AM - Muhammad Omar Farooq: 4. D (Correction)
+1/16/24, 11:52 AM - Hassam Malik UET BCE: Q2
+1/16/24, 11:56 AM - Hassam Malik UET BCE: Ho r??
+1/16/24, 11:56 AM - Hassam Malik UET BCE: Q3?
+1/16/24, 11:57 AM - Hassam Malik UET BCE: Algorithm DPKnapsack(w[1..n], v[1..n], W)
+1/16/24, 11:57 AM - Hassam Malik UET BCE: 2 ese hi hai?
+1/16/24, 11:57 AM - Muhammad Omar Farooq: 3. E
+1/16/24, 11:57 AM - Muhammad Omar Farooq: I think
+1/16/24, 11:58 AM - Hassam Malik UET BCE: Confirm 2
+1/16/24, 11:58 AM - Hassam Malik UET BCE: Hurry 🥹
+1/16/24, 11:59 AM - Hassam Malik UET BCE: Chatgpt kia ye
+1/16/24, 12:00 PM - Hassam Malik UET BCE: Unhe bhej dy
+1/16/24, 12:00 PM - Hassam Malik UET BCE: Dya
+1/16/24, 12:00 PM - Muhammad Omar Farooq: Bus okay hai
+1/16/24, 12:01 PM - Hassam Malik UET BCE: Sare ho gae??
+1/16/24, 12:01 PM - Muhammad Omar Farooq: Page 3 done
+1/16/24, 12:01 PM - Muhammad Omar Farooq: page 2 remains
+1/16/24, 12:01 PM - Muhammad Omar Farooq: Q # 1
+1/16/24, 12:01 PM - Muhammad Omar Farooq: wait
+1/16/24, 12:02 PM - Hassam Malik UET BCE: ..
+1/16/24, 12:02 PM - Hassam Malik UET BCE: Q1 i have done
+1/16/24, 12:02 PM - Muhammad Omar Farooq: Bus okay hai
+1/16/24, 12:02 PM - Muhammad Omar Farooq: yes
+1/16/24, 12:02 PM - Hassam Malik UET BCE: From chatgpt
+1/16/24, 12:02 PM - Hassam Malik UET BCE: Q1 
+1/16/24, 12:02 PM - Hassam Malik UET BCE: This recurrence relation states that the optimal partition at index j involves either adding the element A[j] to the first subarray or not, and we choose the option that minimizes the absolute difference.
+1/16/24, 12:02 PM - Hassam Malik UET BCE: This considers three possibilities: extending the first subarray by including A[j], reducing the second subarray by excluding A[j], or leaving A[j] in neither subarray.
+1/16/24, 12:02 PM - Hassam Malik UET BCE: This q 1
+1/16/24, 12:15 PM - Muhammad Omar Farooq: Okay hai.
+1/16/24, 12:15 PM - Muhammad Omar Farooq: Yes yehi hai
+1/16/24, 12:15 PM - Muhammad Omar Farooq: Confirm hogya

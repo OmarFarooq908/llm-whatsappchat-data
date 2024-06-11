@@ -1,0 +1,3 @@
+4/5/21, 7:40 PM - Umair 20CP UET: #include <iostream>
+4/5/21, 7:40 PM - Umair 20CP UET: umer kindly check my code???
+4/5/21, 7:41 PM - Umair 20CP UET: some mistakes are still present ...but no.of days per conditions nahi apli kein..

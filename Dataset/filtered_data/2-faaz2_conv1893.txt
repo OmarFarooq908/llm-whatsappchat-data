@@ -1,0 +1,4 @@
+1/17/24, 9:56 PM - Muhammad Omar Farooq: https://apps.ankiweb.net/downloads/archive/
+1/17/24, 10:11 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: [faazqadeerby52@localhost ~]$ sudo dpkg -i ./Downloads/anydesk_6.3.0-1_amd64.deb 
+1/17/24, 10:14 PM - Muhammad Omar Farooq: https://linuxconfig.org/how-to-install-deb-file-in-redhat-linux-8
+1/17/24, 10:17 PM - Muhammad Omar Farooq: https://unixcop.com/how-to-install-deb-on-redhat-centos-rpm-on-debian-ubuntu-with-alien/

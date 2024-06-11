@@ -1,0 +1,25 @@
+3/19/21, 12:34 PM - Muhammad Omar Farooq: Abhi bhi araha?
+3/19/21, 12:34 PM - Muhammad Omar Farooq: Code send maarna
+3/19/21, 12:35 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: #include <iostream>
+3/19/21, 12:41 PM - Muhammad Omar Farooq: #include <iostream>
+3/19/21, 12:42 PM - Muhammad Omar Farooq: is mein ek btata hoon
+3/19/21, 12:42 PM - Muhammad Omar Farooq: ❤️
+3/19/21, 12:42 PM - Muhammad Omar Farooq: switch statement mein ham variable declare nahi kr skte
+3/19/21, 12:43 PM - Muhammad Omar Farooq: jo pichla code send kiya
+3/19/21, 12:43 PM - Muhammad Omar Farooq: us mein yeh tha k case '/' mein z ko int se float kr diya
+3/19/21, 12:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sai ya masti ti is ki
+3/19/21, 12:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Is kay bagar bi kar sakta ta
+3/19/21, 12:44 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Jan boj kay myra time waste karta ha
+3/19/21, 12:45 PM - Muhammad Omar Farooq: to jab wo neche % pr aya to z float ko compiler ne int mein convert krne ki koshish ki but kiyonke switch statment mein yeh sub ho rha tha (jahan hum variable declaration nahi kr skte) to is liye compiler error de rha tha
+3/19/21, 12:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Ohhh
+3/19/21, 12:47 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sai sai deep bat pata lagi
+3/19/21, 12:48 PM - Muhammad Omar Farooq: Ho skta hai
+3/19/21, 12:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Kar lon?
+3/19/21, 12:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Chumi
+3/19/21, 12:48 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Dyni ha
+3/19/21, 12:48 PM - Muhammad Omar Farooq: You deleted this message
+3/19/21, 12:48 PM - Muhammad Omar Farooq: 😂♥️
+3/19/21, 12:48 PM - Muhammad Omar Farooq: Yus
+3/19/21, 12:49 PM - Muhammad Omar Farooq: Mujhe dekha lena taka pta lag jae ke apki baat mein smjh gaya ya nahi
+3/19/21, 12:49 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: Sai
+3/19/21, 12:49 PM - Muhammad Faaz Qadeer 2 UET Taxila 20CP: abi namaz ki tayari karon pir

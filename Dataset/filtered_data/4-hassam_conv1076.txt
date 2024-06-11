@@ -1,0 +1,19 @@
+3/25/24, 8:49 PM - Muhammad Omar Farooq: write a program that calculates the rpm of a rotating DC motor using interrupt driven techniques. The motor has a arm that will trigger switch button, press once per revolution. The interrupt pin of the ardino board pin 3 is connected to the switch of button, which generates interrupt when pressed by the motors arm. Your program is expected to count the number of times the button is pressed using the interrupt mechanism.
+3/25/24, 8:49 PM - Muhammad Omar Farooq: // Define constants
+3/25/24, 8:51 PM - Muhammad Omar Farooq: const int interruptPin = 3;
+3/25/24, 8:56 PM - Muhammad Omar Farooq: b = b ^ 0xFFFFFFFF; // Assuming b is a 32-bit variable
+3/25/24, 8:56 PM - Muhammad Omar Farooq: b = b ^ ((1 << sizeof(b) * 8) - 1);
+3/25/24, 8:58 PM - Muhammad Omar Farooq: b = (b << 1) | (b >> (sizeof(b)*8 - 1) & 0x01);
+3/25/24, 9:03 PM - Muhammad Omar Farooq: void setup() {
+3/25/24, 9:03 PM - Muhammad Omar Farooq: void setup() {
+3/25/24, 9:18 PM - Muhammad Omar Farooq: Yo brro
+3/25/24, 9:19 PM - Muhammad Omar Farooq: Hassam brother
+3/25/24, 9:19 PM - Hassam Malik UET BCE: Yes brother
+3/25/24, 9:19 PM - Muhammad Omar Farooq: you have me parcel?
+3/25/24, 9:19 PM - Hassam Malik UET BCE: Yes i have
+3/25/24, 9:20 PM - Hassam Malik UET BCE: Come to my room alone habibi
+3/25/24, 9:20 PM - Muhammad Omar Farooq: can i come to receive my parcel
+3/25/24, 9:20 PM - Hassam Malik UET BCE: Yus
+3/25/24, 9:21 PM - Hassam Malik UET BCE: Coming??
+3/25/24, 9:21 PM - Hassam Malik UET BCE: Me waiting
+3/25/24, 9:22 PM - Hassam Malik UET BCE: Come bro
