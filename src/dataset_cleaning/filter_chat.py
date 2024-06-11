@@ -36,7 +36,7 @@ def split_conversations(lines, time_threshold=30):
                     conversations.append(current_conversation)
                     current_conversation = []
 
-            current_conversation.append((timestamp,message))
+            current_conversation.append((timestamp, message))
             last_timestamp = timestamp
 
     if current_conversation:
@@ -47,28 +47,25 @@ def split_conversations(lines, time_threshold=30):
 # Function to format conversations into JSON structure for LLM training
 def format_for_llm_training(conversations, participant_name="Muhammad Omar Farooq"):
     formatted_data = []
-    omar_started = False
-    consecutive_participant = False
-    first_run = True
     for conversation in conversations:
         input_prompt = ""
         output_response = ""
         collecting_response = False
         prev_sender = None
-        
+        first_valid_message = False
+
         for timestamp, message in conversation:
             if ": " not in message:
                 continue
 
             sender, message_text = message.split(": ", 1)
-            prev_sender = sender
-            if sender != participant_name:
-                first_run = False
-            if (sender == participant_name) and first_run:
-                omar_started = True
-            if omar_started and first_run:
-                continue
-            """
+
+            if not first_valid_message:
+                if sender == participant_name:
+                    continue
+                else:
+                    first_valid_message = True
+
             if prev_sender is not None and prev_sender != sender:
                 if collecting_response:
                     formatted_data.append({
@@ -78,24 +75,25 @@ def format_for_llm_training(conversations, participant_name="Muhammad Omar Faroo
                     input_prompt = ""
                     output_response = ""
                 collecting_response = False
-            """
+
             if participant_name in sender:
                 output_response += message_text.strip() + " "
                 collecting_response = True
             else:
                 input_prompt += message_text.strip() + " "
-                collecting_response = True
-                first_run = False
+                collecting_response = False
 
-            if prev_sender == sender and sender == participant_name:
-                output_response += output_response
-            if prev_sender == sender and sender != participant_name:
-                input_prompt += input_prompt
-            if input_prompt != "" and output_response != "":
-                formatted_data.append({
-                    "input_prompt": input_prompt.strip(),
-                    "output_response": output_response.strip()
-                    })
+            prev_sender = sender
+
+        # Add the last response if it was collected from "Muhammad Omar Farooq"
+        if collecting_response:
+            formatted_data.append({
+                "input_prompt": input_prompt.strip(),
+                "output_response": output_response.strip()
+            })
+
+    # Filter out conversations that do not end with a response from "Muhammad Omar Farooq"
+    formatted_data = [conv for conv in formatted_data if conv["output_response"]]
 
     return formatted_data
 
@@ -118,17 +116,7 @@ for filename in os.listdir(raw_data_dir):
         
         # Split the lines into conversations
         conversations = split_conversations(filtered_lines)
-        # Save each conversation into a separate file
-        '''
-        for i, conversation in enumerate(conversations):
-            output_file = os.path.join(filtered_data_dir, f"{os.path.splitext(filename)[0]}_conv{i+1}.txt")
-            with open(output_file, 'w', encoding='utf-8') as outfile:
-                messages = [message for timestamp, message in conversation]
-                for msg in messages:
-                    outfile.writelines(msg)
         
-        print(f"Filtered conversations saved for {filename}")
-        '''
         # Format the conversations for LLM fine-tuning
         formatted_conversations = format_for_llm_training(conversations)
         
@@ -138,4 +126,3 @@ for filename in os.listdir(raw_data_dir):
             json.dump(formatted_conversations, jsonfile, indent=4)
         
         print(f"Filtered and formatted conversations saved for {filename}")
-
